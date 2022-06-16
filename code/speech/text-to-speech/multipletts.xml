@@ -1,0 +1,40 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="en-US">
+    <voice name="en-US-AmberNeural">
+        Good morning!
+    </voice>
+    <voice name="en-US-BrandonNeural">
+        Good morning to you too Amber!
+    </voice>
+    <voice name="en-US-AshleyNeural">
+        Good morning both from Ashley.
+    </voice>
+    <voice name="en-US-ElizabethNeural">
+        It's such a nice weather today. Oh, it's Elizabeth by the way.
+    </voice>
+    <voice name="en-US-AmberNeural">
+        Perfect. We're all here - shall we begin?
+
+        Where did we leave off last time?
+    </voice>
+    <voice name="en-US-BrandonNeural">
+        I think we managed to share the report with the customer.
+    </voice>
+    <voice name="en-US-AshleyNeural">
+        And what was their feedback? Was it positive?
+    </voice>
+    <voice name="en-US-ElizabethNeural">
+        They outlined a few concerns but overall it was very positive.
+
+        They did mention they would like a follow up meeting to cover the Machine Learning part.
+    </voice>
+    <voice name="en-US-AshleyNeural">
+        Sounds good. We can certainly accommodate that. Brandon is our resident ML expert.
+
+        Brandon, can we run an overview session of our ML offerings on Azure?
+    </voice>
+    <voice name="en-US-BrandonNeural">
+        Certainly. I can prepare an overview of our Azure Machine Learning offering and also cover the Cognitive Services. 
+
+        Do we know the timelines we need to work against?
+    </voice>
+</speak>
