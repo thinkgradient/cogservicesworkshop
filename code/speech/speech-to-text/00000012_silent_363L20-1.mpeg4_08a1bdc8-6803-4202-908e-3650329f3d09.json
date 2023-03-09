@@ -1,0 +1,197 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000012_silent_363L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:43:33Z",
+    "durationInTicks": 169600000,
+    "duration": "PT16.96S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "OK uh yes twenty four",
+            "itn": "OK uh yes 24",
+            "maskedITN": "ok uh yes 24",
+            "display": "OK, uh. Yes. 24."
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT3.45S",
+            "duration": "PT0.89S",
+            "offsetInTicks": 34500000.0,
+            "durationInTicks": 8900000.0,
+            "nBest": [
+                {
+                    "confidence": 0.92808205,
+                    "lexical": "OK uh",
+                    "itn": "OK uh",
+                    "maskedITN": "ok uh",
+                    "display": "OK, uh."
+                },
+                {
+                    "confidence": 0.7807604,
+                    "lexical": "ok uhm",
+                    "itn": "ok uhm",
+                    "maskedITN": "ok uhm",
+                    "display": "OK uhm"
+                },
+                {
+                    "confidence": 0.8639204,
+                    "lexical": "ok uh uh",
+                    "itn": "ok uh uh",
+                    "maskedITN": "ok uh uh",
+                    "display": "OK uh uh"
+                },
+                {
+                    "confidence": 0.8047862,
+                    "lexical": "okay uh",
+                    "itn": "okay uh",
+                    "maskedITN": "okay uh",
+                    "display": "okay uh"
+                },
+                {
+                    "confidence": 0.8932313,
+                    "lexical": "ok so uh",
+                    "itn": "ok so uh",
+                    "maskedITN": "ok so uh",
+                    "display": "OK so uh"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT6.42S",
+            "duration": "PT0.46S",
+            "offsetInTicks": 64200000.0,
+            "durationInTicks": 4600000.0,
+            "nBest": [
+                {
+                    "confidence": 0.8757138,
+                    "lexical": "yes",
+                    "itn": "yes",
+                    "maskedITN": "yes",
+                    "display": "Yes."
+                },
+                {
+                    "confidence": 0.7149189,
+                    "lexical": "yeah",
+                    "itn": "yeah",
+                    "maskedITN": "yeah",
+                    "display": "yeah"
+                },
+                {
+                    "confidence": 0.66046304,
+                    "lexical": "thank you yes",
+                    "itn": "thank you yes",
+                    "maskedITN": "thank you yes",
+                    "display": "thank you yes"
+                },
+                {
+                    "confidence": 0.473633,
+                    "lexical": "that's yes",
+                    "itn": "that's yes",
+                    "maskedITN": "that's yes",
+                    "display": "that's yes"
+                },
+                {
+                    "confidence": 0.756576,
+                    "lexical": "yes yes",
+                    "itn": "yes yes",
+                    "maskedITN": "yes yes",
+                    "display": "yes yes"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT12.13S",
+            "duration": "PT0.72S",
+            "offsetInTicks": 121300000.0,
+            "durationInTicks": 7200000.0,
+            "nBest": [
+                {
+                    "confidence": 0.39819637,
+                    "lexical": "twenty four",
+                    "itn": "24",
+                    "maskedITN": "24",
+                    "display": "24."
+                },
+                {
+                    "confidence": 0.25825566,
+                    "lexical": "tomorrow",
+                    "itn": "tomorrow",
+                    "maskedITN": "tomorrow",
+                    "display": "tomorrow"
+                },
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.24041739,
+                    "lexical": "two tomorrow",
+                    "itn": "two tomorrow",
+                    "maskedITN": "two tomorrow",
+                    "display": "two tomorrow"
+                },
+                {
+                    "confidence": 0.16062552,
+                    "lexical": "four",
+                    "itn": "four",
+                    "maskedITN": "four",
+                    "display": "four"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT14.38S",
+            "duration": "PT2.58S",
+            "offsetInTicks": 143800000.0,
+            "durationInTicks": 25800000.0,
+            "nBest": [
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.5817243,
+                    "lexical": "no",
+                    "itn": "no",
+                    "maskedITN": "no",
+                    "display": "no"
+                },
+                {
+                    "confidence": 0.3955059,
+                    "lexical": "yeah",
+                    "itn": "yeah",
+                    "maskedITN": "yeah",
+                    "display": "yeah"
+                },
+                {
+                    "confidence": 0.52958274,
+                    "lexical": "so",
+                    "itn": "so",
+                    "maskedITN": "so",
+                    "display": "so"
+                },
+                {
+                    "confidence": 0.42759585,
+                    "lexical": "yes",
+                    "itn": "yes",
+                    "maskedITN": "yes",
+                    "display": "yes"
+                }
+            ]
+        }
+    ]
+}

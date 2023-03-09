@@ -1,0 +1,107 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000008_silent_392L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:43:17Z",
+    "durationInTicks": 227800000,
+    "duration": "PT22.78S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "OK one do you think bribery is more of a problem when a citizen offers a bribe or B an official demanded bribe unofficial demanding unofficial demanding",
+            "itn": "OK one do you think bribery is more of a problem when a citizen offers a bribe or B an official demanded bribe unofficial demanding unofficial demanding",
+            "maskedITN": "ok one do you think bribery is more of a problem when a citizen offers a bribe or b an official demanded bribe unofficial demanding unofficial demanding",
+            "display": "OK, one do you think bribery is more of a problem when a citizen offers a bribe or B an official demanded bribe? Unofficial demanding. Unofficial demanding."
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT4.12S",
+            "duration": "PT11.29S",
+            "offsetInTicks": 41200000.0,
+            "durationInTicks": 112900000.0,
+            "nBest": [
+                {
+                    "confidence": 0.76520383,
+                    "lexical": "OK one do you think bribery is more of a problem when a citizen offers a bribe or B an official demanded bribe",
+                    "itn": "OK one do you think bribery is more of a problem when a citizen offers a bribe or B an official demanded bribe",
+                    "maskedITN": "ok one do you think bribery is more of a problem when a citizen offers a bribe or b an official demanded bribe",
+                    "display": "OK, one do you think bribery is more of a problem when a citizen offers a bribe or B an official demanded bribe?"
+                },
+                {
+                    "confidence": 0.7786933,
+                    "lexical": "ok one do you think bribery is more of a problem when a citizen offers a bribe or b an official demand a bribe",
+                    "itn": "ok one do you think bribery is more of a problem when a citizen offers a bribe or b an official demand a bribe",
+                    "maskedITN": "ok one do you think bribery is more of a problem when a citizen offers a bribe or b an official demand a bribe",
+                    "display": "OK one do you think bribery is more of a problem when a citizen offers a bribe or B an official demand a bribe"
+                },
+                {
+                    "confidence": 0.7942935,
+                    "lexical": "ok one do you think bribery is more of a problem when a a citizen offers a bribe or b an official demand a bribe",
+                    "itn": "ok one do you think bribery is more of a problem when a a citizen offers a bribe or b an official demand a bribe",
+                    "maskedITN": "ok one do you think bribery is more of a problem when a a citizen offers a bribe or b an official demand a bribe",
+                    "display": "OK one do you think bribery is more of a problem when a a citizen offers a bribe or B an official demand a bribe"
+                },
+                {
+                    "confidence": 0.7806624,
+                    "lexical": "ok one do you think bribery is more of a problem when a a citizen offers a bribe or b an official demanded bribe",
+                    "itn": "ok one do you think bribery is more of a problem when a a citizen offers a bribe or b an official demanded bribe",
+                    "maskedITN": "ok one do you think bribery is more of a problem when a a citizen offers a bribe or b an official demanded bribe",
+                    "display": "OK one do you think bribery is more of a problem when a a citizen offers a bribe or B an official demanded bribe"
+                },
+                {
+                    "confidence": 0.7760203,
+                    "lexical": "okay one do you think bribery is more of a problem when a citizen offers a bribe or b an official demand a bribe",
+                    "itn": "okay one do you think bribery is more of a problem when a citizen offers a bribe or b an official demand a bribe",
+                    "maskedITN": "okay one do you think bribery is more of a problem when a citizen offers a bribe or b an official demand a bribe",
+                    "display": "okay one do you think bribery is more of a problem when a citizen offers a bribe or B an official demand a bribe"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT19.16S",
+            "duration": "PT3.09S",
+            "offsetInTicks": 191600000.0,
+            "durationInTicks": 30900000.0,
+            "nBest": [
+                {
+                    "confidence": 0.5690516,
+                    "lexical": "unofficial demanding unofficial demanding",
+                    "itn": "unofficial demanding unofficial demanding",
+                    "maskedITN": "unofficial demanding unofficial demanding",
+                    "display": "Unofficial demanding. Unofficial demanding."
+                },
+                {
+                    "confidence": 0.63440585,
+                    "lexical": "unofficial demanding an official demanding",
+                    "itn": "unofficial demanding an official demanding",
+                    "maskedITN": "unofficial demanding an official demanding",
+                    "display": "unofficial demanding an official demanding"
+                },
+                {
+                    "confidence": 0.6633523,
+                    "lexical": "an official demanding unofficial demanding",
+                    "itn": "an official demanding unofficial demanding",
+                    "maskedITN": "an official demanding unofficial demanding",
+                    "display": "an official demanding unofficial demanding"
+                },
+                {
+                    "confidence": 0.7294209,
+                    "lexical": "an official demanding an official demanding",
+                    "itn": "an official demanding an official demanding",
+                    "maskedITN": "an official demanding an official demanding",
+                    "display": "an official demanding an official demanding"
+                },
+                {
+                    "confidence": 0.62571037,
+                    "lexical": "unofficially demanding an official demanding",
+                    "itn": "unofficially demanding an official demanding",
+                    "maskedITN": "unofficially demanding an official demanding",
+                    "display": "unofficially demanding an official demanding"
+                }
+            ]
+        }
+    ]
+}

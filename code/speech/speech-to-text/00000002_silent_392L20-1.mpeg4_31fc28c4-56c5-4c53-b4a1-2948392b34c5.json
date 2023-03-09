@@ -1,0 +1,152 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000002_silent_392L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:43:04Z",
+    "durationInTicks": 231000000,
+    "duration": "PT23.1S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "OK do you think bribery is more of a problem when is a citizen of a bribe or be an official demand a bribe an official demanded a bribe",
+            "itn": "OK do you think bribery is more of a problem when is a citizen of a bribe or be an official demand a bribe an official demanded a bribe",
+            "maskedITN": "ok do you think bribery is more of a problem when is a citizen of a bribe or be an official demand a bribe an official demanded a bribe",
+            "display": "OK, do you think bribery is more of a problem? When is a citizen of a bribe or be an official demand a bribe? An official demanded a bribe."
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT3.93S",
+            "duration": "PT8.54S",
+            "offsetInTicks": 39300000.0,
+            "durationInTicks": 85400000.0,
+            "nBest": [
+                {
+                    "confidence": 0.77768654,
+                    "lexical": "OK do you think bribery is more of a problem when is a citizen of a bribe or be an official demand a bribe",
+                    "itn": "OK do you think bribery is more of a problem when is a citizen of a bribe or be an official demand a bribe",
+                    "maskedITN": "ok do you think bribery is more of a problem when is a citizen of a bribe or be an official demand a bribe",
+                    "display": "OK, do you think bribery is more of a problem? When is a citizen of a bribe or be an official demand a bribe?"
+                },
+                {
+                    "confidence": 0.76586473,
+                    "lexical": "ok do you think bribery is more of a problem when is a citizen of a bribe or b an official demand a bribe",
+                    "itn": "ok do you think bribery is more of a problem when is a citizen of a bribe or b an official demand a bribe",
+                    "maskedITN": "ok do you think bribery is more of a problem when is a citizen of a bribe or b an official demand a bribe",
+                    "display": "OK do you think bribery is more of a problem when is a citizen of a bribe or B an official demand a bribe"
+                },
+                {
+                    "confidence": 0.8107306,
+                    "lexical": "ok do you think but i better is more of a problem when is a citizen of a bribe or be an official demand a bribe",
+                    "itn": "ok do you think but i better is more of a problem when is a citizen of a bribe or be an official demand a bribe",
+                    "maskedITN": "ok do you think but i better is more of a problem when is a citizen of a bribe or be an official demand a bribe",
+                    "display": "OK do you think but i better is more of a problem when is a citizen of a bribe or be an official demand a bribe"
+                },
+                {
+                    "confidence": 0.79890877,
+                    "lexical": "ok do you think but i better is more of a problem when is a citizen of a bribe or b an official demand a bribe",
+                    "itn": "ok do you think but i better is more of a problem when is a citizen of a bribe or b an official demand a bribe",
+                    "maskedITN": "ok do you think but i better is more of a problem when is a citizen of a bribe or b an official demand a bribe",
+                    "display": "OK do you think but i better is more of a problem when is a citizen of a bribe or B an official demand a bribe"
+                },
+                {
+                    "confidence": 0.7658515,
+                    "lexical": "ok do you think bradbury is more of a problem when is a citizen of a bribe or b an official demand a bribe",
+                    "itn": "ok do you think bradbury is more of a problem when is a citizen of a bribe or b an official demand a bribe",
+                    "maskedITN": "ok do you think bradbury is more of a problem when is a citizen of a bribe or b an official demand a bribe",
+                    "display": "OK do you think bradbury is more of a problem when is a citizen of a bribe or B an official demand a bribe"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT19.03S",
+            "duration": "PT1.59S",
+            "offsetInTicks": 190300000.0,
+            "durationInTicks": 15900000.0,
+            "nBest": [
+                {
+                    "confidence": 0.66424125,
+                    "lexical": "an official demanded a bribe",
+                    "itn": "an official demanded a bribe",
+                    "maskedITN": "an official demanded a bribe",
+                    "display": "An official demanded a bribe."
+                },
+                {
+                    "confidence": 0.6876022,
+                    "lexical": "an official demand a bribe",
+                    "itn": "an official demand a bribe",
+                    "maskedITN": "an official demand a bribe",
+                    "display": "an official demand a bribe"
+                },
+                {
+                    "confidence": 0.58471435,
+                    "lexical": "an official demanded bribe",
+                    "itn": "an official demanded bribe",
+                    "maskedITN": "an official demanded bribe",
+                    "display": "an official demanded bribe"
+                },
+                {
+                    "confidence": 0.46024176,
+                    "lexical": "unofficial demanded a bribe",
+                    "itn": "unofficial demanded a bribe",
+                    "maskedITN": "unofficial demanded a bribe",
+                    "display": "unofficial demanded a bribe"
+                },
+                {
+                    "confidence": 0.4786088,
+                    "lexical": "unofficial demand a bribe",
+                    "itn": "unofficial demand a bribe",
+                    "maskedITN": "unofficial demand a bribe",
+                    "display": "unofficial demand a bribe"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT21.26S",
+            "duration": "PT1.84S",
+            "offsetInTicks": 212600000.0,
+            "durationInTicks": 18400000.0,
+            "nBest": [
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.56593853,
+                    "lexical": "no",
+                    "itn": "no",
+                    "maskedITN": "no",
+                    "display": "no"
+                },
+                {
+                    "confidence": 0.35532826,
+                    "lexical": "yeah",
+                    "itn": "yeah",
+                    "maskedITN": "yeah",
+                    "display": "yeah"
+                },
+                {
+                    "confidence": 0.46748596,
+                    "lexical": "uh",
+                    "itn": "uh",
+                    "maskedITN": "uh",
+                    "display": "uh"
+                },
+                {
+                    "confidence": 0.46812665,
+                    "lexical": "oh",
+                    "itn": "oh",
+                    "maskedITN": "oh",
+                    "display": "oh"
+                }
+            ]
+        }
+    ]
+}

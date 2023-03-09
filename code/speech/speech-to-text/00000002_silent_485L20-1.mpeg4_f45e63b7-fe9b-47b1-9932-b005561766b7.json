@@ -1,0 +1,107 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000002_silent_485L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:43:09Z",
+    "durationInTicks": 364200000,
+    "duration": "PT36.42S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "uh let's think about whether individuals make their own decision about whether to pay bribes or if they do not have a choice because it's a part of the normal expected system which of the following statements do you agree with more hey even though bribery is common each individual is responsible for the young decision about whether or not to pay a bribe or be individual cannot be blamed for their decision the bribe is so common they must do it big",
+            "itn": "uh let's think about whether individuals make their own decision about whether to pay bribes or if they do not have a choice because it's a part of the normal expected system which of the following statements do you agree with more hey even though bribery is common each individual is responsible for the young decision about whether or not to pay a bribe or be individual cannot be blamed for their decision the bribe is so common they must do it big",
+            "maskedITN": "uh let's think about whether individuals make their own decision about whether to pay bribes or if they do not have a choice because it's a part of the normal expected system which of the following statements do you agree with more hey even though bribery is common each individual is responsible for the young decision about whether or not to pay a bribe or be individual cannot be blamed for their decision the bribe is so common they must do it big",
+            "display": "Uh, let's think about whether individuals make their own decision about whether to pay bribes or if they do not have a choice because it's a part of the normal, expected system. Which of the following statements do you agree with more? Hey, even though bribery is common, each individual is responsible for the young. Decision about whether or not to pay a bribe or be individual cannot be blamed for their decision. The bribe is so common they must do it big."
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT3.4S",
+            "duration": "PT27.45S",
+            "offsetInTicks": 34000000.0,
+            "durationInTicks": 274500000.0,
+            "nBest": [
+                {
+                    "confidence": 0.86351013,
+                    "lexical": "uh let's think about whether individuals make their own decision about whether to pay bribes or if they do not have a choice because it's a part of the normal expected system which of the following statements do you agree with more hey even though bribery is common each individual is responsible for the young decision about whether or not to pay a bribe or be individual cannot be blamed for their decision",
+                    "itn": "uh let's think about whether individuals make their own decision about whether to pay bribes or if they do not have a choice because it's a part of the normal expected system which of the following statements do you agree with more hey even though bribery is common each individual is responsible for the young decision about whether or not to pay a bribe or be individual cannot be blamed for their decision",
+                    "maskedITN": "uh let's think about whether individuals make their own decision about whether to pay bribes or if they do not have a choice because it's a part of the normal expected system which of the following statements do you agree with more hey even though bribery is common each individual is responsible for the young decision about whether or not to pay a bribe or be individual cannot be blamed for their decision",
+                    "display": "Uh, let's think about whether individuals make their own decision about whether to pay bribes or if they do not have a choice because it's a part of the normal, expected system. Which of the following statements do you agree with more? Hey, even though bribery is common, each individual is responsible for the young. Decision about whether or not to pay a bribe or be individual cannot be blamed for their decision."
+                },
+                {
+                    "confidence": 0.86447185,
+                    "lexical": "uh let's think about whether individual make their own decision about whether to pay bribes or if they do not have a choice because it's a part of the normal expected system which of the following statements do you agree with more hey even though bribery is common each individual is responsible for the young decision about whether or not to pay a bribe or be individual cannot be blamed for their decision",
+                    "itn": "uh let's think about whether individual make their own decision about whether to pay bribes or if they do not have a choice because it's a part of the normal expected system which of the following statements do you agree with more hey even though bribery is common each individual is responsible for the young decision about whether or not to pay a bribe or be individual cannot be blamed for their decision",
+                    "maskedITN": "uh let's think about whether individual make their own decision about whether to pay bribes or if they do not have a choice because it's a part of the normal expected system which of the following statements do you agree with more hey even though bribery is common each individual is responsible for the young decision about whether or not to pay a bribe or be individual cannot be blamed for their decision",
+                    "display": "uh let's think about whether individual make their own decision about whether to pay bribes or if they do not have a choice because it's a part of the normal expected system which of the following statements do you agree with more hey even though bribery is common each individual is responsible for the young decision about whether or not to pay a bribe or be individual cannot be blamed for their decision"
+                },
+                {
+                    "confidence": 0.8700664,
+                    "lexical": "uh yeah let's think about whether individual make their own decision about whether to pay bribes or if they do not have a choice because it's a part of the normal expected system which of the following statements do you agree with more hey even though bribery is common each individual is responsible for the young decision about whether or not to pay a bribe or be individual cannot be blamed for their decision",
+                    "itn": "uh yeah let's think about whether individual make their own decision about whether to pay bribes or if they do not have a choice because it's a part of the normal expected system which of the following statements do you agree with more hey even though bribery is common each individual is responsible for the young decision about whether or not to pay a bribe or be individual cannot be blamed for their decision",
+                    "maskedITN": "uh yeah let's think about whether individual make their own decision about whether to pay bribes or if they do not have a choice because it's a part of the normal expected system which of the following statements do you agree with more hey even though bribery is common each individual is responsible for the young decision about whether or not to pay a bribe or be individual cannot be blamed for their decision",
+                    "display": "uh yeah let's think about whether individual make their own decision about whether to pay bribes or if they do not have a choice because it's a part of the normal expected system which of the following statements do you agree with more hey even though bribery is common each individual is responsible for the young decision about whether or not to pay a bribe or be individual cannot be blamed for their decision"
+                },
+                {
+                    "confidence": 0.85919327,
+                    "lexical": "uh let's think about whether individual make their own decision about whether to pay bribes or if they do not have a choice because it's a part of the normal expected system which of the following statements do you agree with more eh even though bribery is common each individual is responsible for the young decision about whether or not to pay a bribe or be individual cannot be blamed for their decision",
+                    "itn": "uh let's think about whether individual make their own decision about whether to pay bribes or if they do not have a choice because it's a part of the normal expected system which of the following statements do you agree with more eh even though bribery is common each individual is responsible for the young decision about whether or not to pay a bribe or be individual cannot be blamed for their decision",
+                    "maskedITN": "uh let's think about whether individual make their own decision about whether to pay bribes or if they do not have a choice because it's a part of the normal expected system which of the following statements do you agree with more eh even though bribery is common each individual is responsible for the young decision about whether or not to pay a bribe or be individual cannot be blamed for their decision",
+                    "display": "uh let's think about whether individual make their own decision about whether to pay bribes or if they do not have a choice because it's a part of the normal expected system which of the following statements do you agree with more eh even though bribery is common each individual is responsible for the young decision about whether or not to pay a bribe or be individual cannot be blamed for their decision"
+                },
+                {
+                    "confidence": 0.8598973,
+                    "lexical": "uh let's think about whether individual make their own decision about whether to pay bribes or if they do not have a choice because it's a part of the normal expected this system which of the following statements do you agree with more hey even though bribery is common each individual is responsible for the young decision about whether or not to pay a bribe or be individual cannot be blamed for their decision",
+                    "itn": "uh let's think about whether individual make their own decision about whether to pay bribes or if they do not have a choice because it's a part of the normal expected this system which of the following statements do you agree with more hey even though bribery is common each individual is responsible for the young decision about whether or not to pay a bribe or be individual cannot be blamed for their decision",
+                    "maskedITN": "uh let's think about whether individual make their own decision about whether to pay bribes or if they do not have a choice because it's a part of the normal expected this system which of the following statements do you agree with more hey even though bribery is common each individual is responsible for the young decision about whether or not to pay a bribe or be individual cannot be blamed for their decision",
+                    "display": "uh let's think about whether individual make their own decision about whether to pay bribes or if they do not have a choice because it's a part of the normal expected this system which of the following statements do you agree with more hey even though bribery is common each individual is responsible for the young decision about whether or not to pay a bribe or be individual cannot be blamed for their decision"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT30.95S",
+            "duration": "PT3.45S",
+            "offsetInTicks": 309500000.0,
+            "durationInTicks": 34500000.0,
+            "nBest": [
+                {
+                    "confidence": 0.7286447,
+                    "lexical": "the bribe is so common they must do it big",
+                    "itn": "the bribe is so common they must do it big",
+                    "maskedITN": "the bribe is so common they must do it big",
+                    "display": "The bribe is so common they must do it big."
+                },
+                {
+                    "confidence": 0.70930827,
+                    "lexical": "the bridge is so common they must do it big",
+                    "itn": "the bridge is so common they must do it big",
+                    "maskedITN": "the bridge is so common they must do it big",
+                    "display": "the bridge is so common they must do it big"
+                },
+                {
+                    "confidence": 0.7242234,
+                    "lexical": "they bribe is so common they must do it big",
+                    "itn": "they bribe is so common they must do it big",
+                    "maskedITN": "they bribe is so common they must do it big",
+                    "display": "they bribe is so common they must do it big"
+                },
+                {
+                    "confidence": 0.718613,
+                    "lexical": "the bribe it's so common they must do it big",
+                    "itn": "the bribe it's so common they must do it big",
+                    "maskedITN": "the bribe it's so common they must do it big",
+                    "display": "the bribe it's so common they must do it big"
+                },
+                {
+                    "confidence": 0.70845664,
+                    "lexical": "the bride is so common they must do it big",
+                    "itn": "the bride is so common they must do it big",
+                    "maskedITN": "the bride is so common they must do it big",
+                    "display": "the bride is so common they must do it big"
+                }
+            ]
+        }
+    ]
+}

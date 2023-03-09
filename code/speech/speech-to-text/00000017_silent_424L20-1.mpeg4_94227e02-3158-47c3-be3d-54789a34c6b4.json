@@ -1,0 +1,107 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000017_silent_424L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:43:36Z",
+    "durationInTicks": 145600000,
+    "duration": "PT14.56S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "the next question do you think it is OK for citizens to pay grades when it helps them with their own personal problem it is not OK it hurts other people after that strongly some",
+            "itn": "the next question do you think it is OK for citizens to pay grades when it helps them with their own personal problem it is not OK it hurts other people after that strongly some",
+            "maskedITN": "the next question do you think it is ok for citizens to pay grades when it helps them with their own personal problem it is not ok it hurts other people after that strongly some",
+            "display": "The next question, do you think it is OK for citizens to pay grades when it helps them with their own personal problem? It is not OK. It hurts other people after that. Strongly some."
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT3.06S",
+            "duration": "PT8.21S",
+            "offsetInTicks": 30600000.0,
+            "durationInTicks": 82100000.0,
+            "nBest": [
+                {
+                    "confidence": 0.85926175,
+                    "lexical": "the next question do you think it is OK for citizens to pay grades when it helps them with their own personal problem it is not OK it hurts other people after that",
+                    "itn": "the next question do you think it is OK for citizens to pay grades when it helps them with their own personal problem it is not OK it hurts other people after that",
+                    "maskedITN": "the next question do you think it is ok for citizens to pay grades when it helps them with their own personal problem it is not ok it hurts other people after that",
+                    "display": "The next question, do you think it is OK for citizens to pay grades when it helps them with their own personal problem? It is not OK. It hurts other people after that."
+                },
+                {
+                    "confidence": 0.87031114,
+                    "lexical": "the next question do you think it is ok for citizens to pay grades when it helps them with their own personal problem and it is not ok it hurts other people after that",
+                    "itn": "the next question do you think it is ok for citizens to pay grades when it helps them with their own personal problem and it is not ok it hurts other people after that",
+                    "maskedITN": "the next question do you think it is ok for citizens to pay grades when it helps them with their own personal problem and it is not ok it hurts other people after that",
+                    "display": "the next question do you think it is OK for citizens to pay grades when it helps them with their own personal problem and it is not OK it hurts other people after that"
+                },
+                {
+                    "confidence": 0.8831921,
+                    "lexical": "the next question do you think it is ok for citizens to pay grades when it helps them with their own personal problem and it is not ok it hurts other people are so hard",
+                    "itn": "the next question do you think it is ok for citizens to pay grades when it helps them with their own personal problem and it is not ok it hurts other people are so hard",
+                    "maskedITN": "the next question do you think it is ok for citizens to pay grades when it helps them with their own personal problem and it is not ok it hurts other people are so hard",
+                    "display": "the next question do you think it is OK for citizens to pay grades when it helps them with their own personal problem and it is not OK it hurts other people are so hard"
+                },
+                {
+                    "confidence": 0.8910595,
+                    "lexical": "the next question do you think it is ok for citizens to pay grades when it helps them with their own personal problem and it is not ok it hurts other people as well",
+                    "itn": "the next question do you think it is ok for citizens to pay grades when it helps them with their own personal problem and it is not ok it hurts other people as well",
+                    "maskedITN": "the next question do you think it is ok for citizens to pay grades when it helps them with their own personal problem and it is not ok it hurts other people as well",
+                    "display": "the next question do you think it is OK for citizens to pay grades when it helps them with their own personal problem and it is not OK it hurts other people as well"
+                },
+                {
+                    "confidence": 0.87203526,
+                    "lexical": "the next question do you think it is ok for citizens to pay grades when it helps them with their own personal problem it is not ok it hurts other people are so hard",
+                    "itn": "the next question do you think it is ok for citizens to pay grades when it helps them with their own personal problem it is not ok it hurts other people are so hard",
+                    "maskedITN": "the next question do you think it is ok for citizens to pay grades when it helps them with their own personal problem it is not ok it hurts other people are so hard",
+                    "display": "the next question do you think it is OK for citizens to pay grades when it helps them with their own personal problem it is not OK it hurts other people are so hard"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT13.83S",
+            "duration": "PT0.69S",
+            "offsetInTicks": 138300000.0,
+            "durationInTicks": 6900000.0,
+            "nBest": [
+                {
+                    "confidence": 0.44564378,
+                    "lexical": "strongly some",
+                    "itn": "strongly some",
+                    "maskedITN": "strongly some",
+                    "display": "Strongly some."
+                },
+                {
+                    "confidence": 0.5647243,
+                    "lexical": "strongly",
+                    "itn": "strongly",
+                    "maskedITN": "strongly",
+                    "display": "strongly"
+                },
+                {
+                    "confidence": 0.45773587,
+                    "lexical": "strong with some",
+                    "itn": "strong with some",
+                    "maskedITN": "strong with some",
+                    "display": "strong with some"
+                },
+                {
+                    "confidence": 0.4375139,
+                    "lexical": "strongly so",
+                    "itn": "strongly so",
+                    "maskedITN": "strongly so",
+                    "display": "strongly so"
+                },
+                {
+                    "confidence": 0.25126064,
+                    "lexical": "strongly come",
+                    "itn": "strongly come",
+                    "maskedITN": "strongly come",
+                    "display": "strongly come"
+                }
+            ]
+        }
+    ]
+}

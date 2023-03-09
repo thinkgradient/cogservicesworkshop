@@ -1,0 +1,152 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000006_silent_485L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:43:13Z",
+    "durationInTicks": 263600000,
+    "duration": "PT26.36S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "hey even though bribery is common each individual is responsible for their own decision about whether or not to pay a price i'm a be individuals cannot be blamed for their decisions to pay bribes it is so common we must do it OK",
+            "itn": "hey even though bribery is common each individual is responsible for their own decision about whether or not to pay a price i'm a be individuals cannot be blamed for their decisions to pay bribes it is so common we must do it OK",
+            "maskedITN": "hey even though bribery is common each individual is responsible for their own decision about whether or not to pay a price i'm a be individuals cannot be blamed for their decisions to pay bribes it is so common we must do it ok",
+            "display": "Hey, even though bribery is common, each individual is responsible for their own decision about whether or not to pay a price. I'm a be individuals cannot be blamed for their decisions to pay bribes. It is so common we must do it. OK."
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT7.53S",
+            "duration": "PT15.24S",
+            "offsetInTicks": 75300000.0,
+            "durationInTicks": 152400000.0,
+            "nBest": [
+                {
+                    "confidence": 0.7388228,
+                    "lexical": "hey even though bribery is common each individual is responsible for their own decision about whether or not to pay a price i'm a be individuals cannot be blamed for their decisions to pay bribes it is so common we must do it",
+                    "itn": "hey even though bribery is common each individual is responsible for their own decision about whether or not to pay a price i'm a be individuals cannot be blamed for their decisions to pay bribes it is so common we must do it",
+                    "maskedITN": "hey even though bribery is common each individual is responsible for their own decision about whether or not to pay a price i'm a be individuals cannot be blamed for their decisions to pay bribes it is so common we must do it",
+                    "display": "Hey, even though bribery is common, each individual is responsible for their own decision about whether or not to pay a price. I'm a be individuals cannot be blamed for their decisions to pay bribes. It is so common we must do it."
+                },
+                {
+                    "confidence": 0.73569447,
+                    "lexical": "hey even though bribery is common each individual is responsible for their own decision about whether or not to pay a price i'm a be individuals cannot be blamed for their decisions to pay bribes it is so common you must do it",
+                    "itn": "hey even though bribery is common each individual is responsible for their own decision about whether or not to pay a price i'm a be individuals cannot be blamed for their decisions to pay bribes it is so common you must do it",
+                    "maskedITN": "hey even though bribery is common each individual is responsible for their own decision about whether or not to pay a price i'm a be individuals cannot be blamed for their decisions to pay bribes it is so common you must do it",
+                    "display": "hey even though bribery is common each individual is responsible for their own decision about whether or not to pay a price i'm a be individuals cannot be blamed for their decisions to pay bribes it is so common you must do it"
+                },
+                {
+                    "confidence": 0.73493004,
+                    "lexical": "hey even though bribery is common each individual is responsible for their own decision about whether or not to pay a price i'm a be individuals cannot be blamed for the decisions to pay bribes it is so common we must do it",
+                    "itn": "hey even though bribery is common each individual is responsible for their own decision about whether or not to pay a price i'm a be individuals cannot be blamed for the decisions to pay bribes it is so common we must do it",
+                    "maskedITN": "hey even though bribery is common each individual is responsible for their own decision about whether or not to pay a price i'm a be individuals cannot be blamed for the decisions to pay bribes it is so common we must do it",
+                    "display": "hey even though bribery is common each individual is responsible for their own decision about whether or not to pay a price i'm a be individuals cannot be blamed for the decisions to pay bribes it is so common we must do it"
+                },
+                {
+                    "confidence": 0.737585,
+                    "lexical": "hey even though bribery is common each individual is responsible for their own decision about whether or not to pay a price i'm a be individuals cannot be blamed for that decisions to pay bribes it is so common we must do it",
+                    "itn": "hey even though bribery is common each individual is responsible for their own decision about whether or not to pay a price i'm a be individuals cannot be blamed for that decisions to pay bribes it is so common we must do it",
+                    "maskedITN": "hey even though bribery is common each individual is responsible for their own decision about whether or not to pay a price i'm a be individuals cannot be blamed for that decisions to pay bribes it is so common we must do it",
+                    "display": "hey even though bribery is common each individual is responsible for their own decision about whether or not to pay a price i'm a be individuals cannot be blamed for that decisions to pay bribes it is so common we must do it"
+                },
+                {
+                    "confidence": 0.72528595,
+                    "lexical": "hey even though bribery is common each individual is responsible for their own decision about whether or not to pay a price i'm a be individuals cannot be blamed for their decisions to pay bribes is so common we must do it",
+                    "itn": "hey even though bribery is common each individual is responsible for their own decision about whether or not to pay a price i'm a be individuals cannot be blamed for their decisions to pay bribes is so common we must do it",
+                    "maskedITN": "hey even though bribery is common each individual is responsible for their own decision about whether or not to pay a price i'm a be individuals cannot be blamed for their decisions to pay bribes is so common we must do it",
+                    "display": "hey even though bribery is common each individual is responsible for their own decision about whether or not to pay a price i'm a be individuals cannot be blamed for their decisions to pay bribes is so common we must do it"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT24.18S",
+            "duration": "PT0.24S",
+            "offsetInTicks": 241800000.0,
+            "durationInTicks": 2400000.0,
+            "nBest": [
+                {
+                    "confidence": 0.8917415,
+                    "lexical": "OK",
+                    "itn": "OK",
+                    "maskedITN": "ok",
+                    "display": "OK."
+                },
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.51889527,
+                    "lexical": "yeah",
+                    "itn": "yeah",
+                    "maskedITN": "yeah",
+                    "display": "yeah"
+                },
+                {
+                    "confidence": 0.5555662,
+                    "lexical": "okay",
+                    "itn": "okay",
+                    "maskedITN": "okay",
+                    "display": "okay"
+                },
+                {
+                    "confidence": 0.55338836,
+                    "lexical": "yes",
+                    "itn": "yes",
+                    "maskedITN": "yes",
+                    "display": "yes"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT25.64S",
+            "duration": "PT0.72S",
+            "offsetInTicks": 256400000.0,
+            "durationInTicks": 7200000.0,
+            "nBest": [
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.30065414,
+                    "lexical": "sorry",
+                    "itn": "sorry",
+                    "maskedITN": "sorry",
+                    "display": "sorry"
+                },
+                {
+                    "confidence": 0.7564547,
+                    "lexical": "no",
+                    "itn": "no",
+                    "maskedITN": "no",
+                    "display": "no"
+                },
+                {
+                    "confidence": 0.7054646,
+                    "lexical": "so",
+                    "itn": "so",
+                    "maskedITN": "so",
+                    "display": "so"
+                },
+                {
+                    "confidence": 0.48669532,
+                    "lexical": "yeah",
+                    "itn": "yeah",
+                    "maskedITN": "yeah",
+                    "display": "yeah"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000014_silent_363L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:43:32Z",
+    "durationInTicks": 213600000,
+    "duration": "PT21.36S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "uh thank you",
+            "itn": "uh thank you",
+            "maskedITN": "uh thank you",
+            "display": "Uh. Thank you."
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT3.82S",
+            "duration": "PT0.45S",
+            "offsetInTicks": 38200000.0,
+            "durationInTicks": 4500000.0,
+            "nBest": [
+                {
+                    "confidence": 0.5264101,
+                    "lexical": "uh",
+                    "itn": "uh",
+                    "maskedITN": "uh",
+                    "display": "Uh."
+                },
+                {
+                    "confidence": 0.5015114,
+                    "lexical": "oh",
+                    "itn": "oh",
+                    "maskedITN": "oh",
+                    "display": "oh"
+                },
+                {
+                    "confidence": 0.34847504,
+                    "lexical": "ah",
+                    "itn": "ah",
+                    "maskedITN": "ah",
+                    "display": "ah"
+                },
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.5849735,
+                    "lexical": "uh uh",
+                    "itn": "uh uh",
+                    "maskedITN": "uh uh",
+                    "display": "uh uh"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT16.11S",
+            "duration": "PT0.31S",
+            "offsetInTicks": 161100000.0,
+            "durationInTicks": 3100000.0,
+            "nBest": [
+                {
+                    "confidence": 0.79809856,
+                    "lexical": "thank you",
+                    "itn": "thank you",
+                    "maskedITN": "thank you",
+                    "display": "Thank you."
+                },
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.6751047,
+                    "lexical": "thank you sir",
+                    "itn": "thank you sir",
+                    "maskedITN": "thank you sir",
+                    "display": "thank you sir"
+                },
+                {
+                    "confidence": 0.5167623,
+                    "lexical": "right",
+                    "itn": "right",
+                    "maskedITN": "right",
+                    "display": "right"
+                },
+                {
+                    "confidence": 0.39366907,
+                    "lexical": "ok",
+                    "itn": "ok",
+                    "maskedITN": "ok",
+                    "display": "OK"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT17.96S",
+            "duration": "PT3.4S",
+            "offsetInTicks": 179600000.0,
+            "durationInTicks": 34000000.0,
+            "nBest": [
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.47391424,
+                    "lexical": "no",
+                    "itn": "no",
+                    "maskedITN": "no",
+                    "display": "no"
+                },
+                {
+                    "confidence": 0.44863397,
+                    "lexical": "uh",
+                    "itn": "uh",
+                    "maskedITN": "uh",
+                    "display": "uh"
+                },
+                {
+                    "confidence": 0.43082574,
+                    "lexical": "oh",
+                    "itn": "oh",
+                    "maskedITN": "oh",
+                    "display": "oh"
+                },
+                {
+                    "confidence": 0.42118582,
+                    "lexical": "so",
+                    "itn": "so",
+                    "maskedITN": "so",
+                    "display": "so"
+                }
+            ]
+        }
+    ]
+}

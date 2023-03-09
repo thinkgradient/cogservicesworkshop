@@ -1,0 +1,197 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000006_silent_424L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:43:10Z",
+    "durationInTicks": 218400000,
+    "duration": "PT21.84S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "OK and helps them with that personal problem might be not OK right because it has other people um yeah be",
+            "itn": "OK and helps them with that personal problem might be not OK right because it has other people um yeah be",
+            "maskedITN": "ok and helps them with that personal problem might be not ok right because it has other people um yeah be",
+            "display": "OK. And helps them with that personal problem might be not OK, right? Because it has other people. Um, yeah, be."
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT6.19S",
+            "duration": "PT0.28S",
+            "offsetInTicks": 61900000.0,
+            "durationInTicks": 2800000.0,
+            "nBest": [
+                {
+                    "confidence": 0.88338804,
+                    "lexical": "OK",
+                    "itn": "OK",
+                    "maskedITN": "ok",
+                    "display": "OK."
+                },
+                {
+                    "confidence": 0.79001844,
+                    "lexical": "ok so",
+                    "itn": "ok so",
+                    "maskedITN": "ok so",
+                    "display": "OK so"
+                },
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.7131187,
+                    "lexical": "to pay",
+                    "itn": "to pay",
+                    "maskedITN": "to pay",
+                    "display": "to pay"
+                },
+                {
+                    "confidence": 0.54552805,
+                    "lexical": "okay",
+                    "itn": "okay",
+                    "maskedITN": "okay",
+                    "display": "okay"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT8.05S",
+            "duration": "PT6.74S",
+            "offsetInTicks": 80500000.0,
+            "durationInTicks": 67400000.0,
+            "nBest": [
+                {
+                    "confidence": 0.6410106,
+                    "lexical": "and helps them with that personal problem might be not OK right because it has other people",
+                    "itn": "and helps them with that personal problem might be not OK right because it has other people",
+                    "maskedITN": "and helps them with that personal problem might be not ok right because it has other people",
+                    "display": "And helps them with that personal problem might be not OK, right? Because it has other people."
+                },
+                {
+                    "confidence": 0.65734667,
+                    "lexical": "and helps them with their personal problem might be not ok right because it has other people",
+                    "itn": "and helps them with their personal problem might be not ok right because it has other people",
+                    "maskedITN": "and helps them with their personal problem might be not ok right because it has other people",
+                    "display": "and helps them with their personal problem might be not OK right because it has other people"
+                },
+                {
+                    "confidence": 0.63333935,
+                    "lexical": "and helps them with that personal problem might be not ok right because it's not other people",
+                    "itn": "and helps them with that personal problem might be not ok right because it's not other people",
+                    "maskedITN": "and helps them with that personal problem might be not ok right because it's not other people",
+                    "display": "and helps them with that personal problem might be not OK right because it's not other people"
+                },
+                {
+                    "confidence": 0.6563845,
+                    "lexical": "and help them with their personal problem might be not ok right because it has other people",
+                    "itn": "and help them with their personal problem might be not ok right because it has other people",
+                    "maskedITN": "and help them with their personal problem might be not ok right because it has other people",
+                    "display": "and help them with their personal problem might be not OK right because it has other people"
+                },
+                {
+                    "confidence": 0.64866614,
+                    "lexical": "and help them with their personal problem might be not ok right because it's not other people",
+                    "itn": "and help them with their personal problem might be not ok right because it's not other people",
+                    "maskedITN": "and help them with their personal problem might be not ok right because it's not other people",
+                    "display": "and help them with their personal problem might be not OK right because it's not other people"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT16.35S",
+            "duration": "PT1.69S",
+            "offsetInTicks": 163500000.0,
+            "durationInTicks": 16900000.0,
+            "nBest": [
+                {
+                    "confidence": 0.27781272,
+                    "lexical": "um yeah be",
+                    "itn": "um yeah be",
+                    "maskedITN": "um yeah be",
+                    "display": "Um, yeah, be."
+                },
+                {
+                    "confidence": 0.3492417,
+                    "lexical": "um yeah the",
+                    "itn": "um yeah the",
+                    "maskedITN": "um yeah the",
+                    "display": "um yeah the"
+                },
+                {
+                    "confidence": 0.33824918,
+                    "lexical": "uhm yeah be",
+                    "itn": "uhm yeah be",
+                    "maskedITN": "uhm yeah be",
+                    "display": "uhm yeah be"
+                },
+                {
+                    "confidence": 0.41515633,
+                    "lexical": "uhm yeah the",
+                    "itn": "uhm yeah the",
+                    "maskedITN": "uhm yeah the",
+                    "display": "uhm yeah the"
+                },
+                {
+                    "confidence": 0.38148978,
+                    "lexical": "umm yeah the",
+                    "itn": "umm yeah the",
+                    "maskedITN": "umm yeah the",
+                    "display": "umm yeah the"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT19.85S",
+            "duration": "PT1.99S",
+            "offsetInTicks": 198500000.0,
+            "durationInTicks": 19900000.0,
+            "nBest": [
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.2138167,
+                    "lexical": "so",
+                    "itn": "so",
+                    "maskedITN": "so",
+                    "display": "so"
+                },
+                {
+                    "confidence": 0.23555759,
+                    "lexical": "umm",
+                    "itn": "umm",
+                    "maskedITN": "umm",
+                    "display": "umm"
+                },
+                {
+                    "confidence": 0.6908926,
+                    "lexical": "no",
+                    "itn": "no",
+                    "maskedITN": "no",
+                    "display": "no"
+                },
+                {
+                    "confidence": 0.29243308,
+                    "lexical": "one",
+                    "itn": "one",
+                    "maskedITN": "one",
+                    "display": "one"
+                }
+            ]
+        }
+    ]
+}

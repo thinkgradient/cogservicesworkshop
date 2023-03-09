@@ -1,0 +1,242 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000013_silent_363L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:43:32Z",
+    "durationInTicks": 183200000,
+    "duration": "PT18.32S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "but it's OK no she didn't hello goodbye yeah could you please tell me which of the following your question",
+            "itn": "but it's OK no she didn't hello goodbye yeah could you please tell me which of the following your question",
+            "maskedITN": "but it's ok no she didn't hello goodbye yeah could you please tell me which of the following your question",
+            "display": "But it's OK. No, she didn't. Hello, goodbye. Yeah. Could you please tell me which of the following? Your question."
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT0.52S",
+            "duration": "PT0.79S",
+            "offsetInTicks": 5200000.0,
+            "durationInTicks": 7900000.0,
+            "nBest": [
+                {
+                    "confidence": 0.85824615,
+                    "lexical": "but it's OK",
+                    "itn": "but it's OK",
+                    "maskedITN": "but it's ok",
+                    "display": "But it's OK."
+                },
+                {
+                    "confidence": 0.80597097,
+                    "lexical": "but it's ok and that",
+                    "itn": "but it's ok and that",
+                    "maskedITN": "but it's ok and that",
+                    "display": "but it's OK and that"
+                },
+                {
+                    "confidence": 0.43565232,
+                    "lexical": "but it's ok you better",
+                    "itn": "but it's ok you better",
+                    "maskedITN": "but it's ok you better",
+                    "display": "but it's OK you better"
+                },
+                {
+                    "confidence": 0.808641,
+                    "lexical": "but it's ok for you",
+                    "itn": "but it's ok for you",
+                    "maskedITN": "but it's ok for you",
+                    "display": "but it's OK for you"
+                },
+                {
+                    "confidence": 0.81521624,
+                    "lexical": "but it's okay",
+                    "itn": "but it's okay",
+                    "maskedITN": "but it's okay",
+                    "display": "but it's okay"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT4.46S",
+            "duration": "PT1.11S",
+            "offsetInTicks": 44600000.0,
+            "durationInTicks": 11100000.0,
+            "nBest": [
+                {
+                    "confidence": 0.6566769,
+                    "lexical": "no she didn't",
+                    "itn": "no she didn't",
+                    "maskedITN": "no she didn't",
+                    "display": "No, she didn't."
+                },
+                {
+                    "confidence": 0.60166395,
+                    "lexical": "no she",
+                    "itn": "no she",
+                    "maskedITN": "no she",
+                    "display": "no she"
+                },
+                {
+                    "confidence": 0.35529685,
+                    "lexical": "she",
+                    "itn": "she",
+                    "maskedITN": "she",
+                    "display": "she"
+                },
+                {
+                    "confidence": 0.5953334,
+                    "lexical": "no she didn't she",
+                    "itn": "no she didn't she",
+                    "maskedITN": "no she didn't she",
+                    "display": "no she didn't she"
+                },
+                {
+                    "confidence": 0.8579481,
+                    "lexical": "no",
+                    "itn": "no",
+                    "maskedITN": "no",
+                    "display": "no"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT7.09S",
+            "duration": "PT0.86S",
+            "offsetInTicks": 70900000.0,
+            "durationInTicks": 8600000.0,
+            "nBest": [
+                {
+                    "confidence": 0.25239548,
+                    "lexical": "hello goodbye",
+                    "itn": "hello goodbye",
+                    "maskedITN": "hello goodbye",
+                    "display": "Hello, goodbye."
+                },
+                {
+                    "confidence": 0.54153496,
+                    "lexical": "hello ok yeah",
+                    "itn": "hello ok yeah",
+                    "maskedITN": "hello ok yeah",
+                    "display": "hello OK yeah"
+                },
+                {
+                    "confidence": 0.71329176,
+                    "lexical": "hello good morning yeah",
+                    "itn": "hello good morning yeah",
+                    "maskedITN": "hello good morning yeah",
+                    "display": "hello good morning yeah"
+                },
+                {
+                    "confidence": 0.54903775,
+                    "lexical": "hello good morning",
+                    "itn": "hello good morning",
+                    "maskedITN": "hello good morning",
+                    "display": "hello good morning"
+                },
+                {
+                    "confidence": 0.73642755,
+                    "lexical": "hello how are you",
+                    "itn": "hello how are you",
+                    "maskedITN": "hello how are you",
+                    "display": "hello how are you"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT9.71S",
+            "duration": "PT3.22S",
+            "offsetInTicks": 97100000.0,
+            "durationInTicks": 32200000.0,
+            "nBest": [
+                {
+                    "confidence": 0.810952,
+                    "lexical": "yeah could you please tell me which of the following",
+                    "itn": "yeah could you please tell me which of the following",
+                    "maskedITN": "yeah could you please tell me which of the following",
+                    "display": "Yeah. Could you please tell me which of the following?"
+                },
+                {
+                    "confidence": 0.91650003,
+                    "lexical": "could you please tell me which of the following",
+                    "itn": "could you please tell me which of the following",
+                    "maskedITN": "could you please tell me which of the following",
+                    "display": "could you please tell me which of the following"
+                },
+                {
+                    "confidence": 0.74952525,
+                    "lexical": "yeah could you please tell me which of the following to",
+                    "itn": "yeah could you please tell me which of the following to",
+                    "maskedITN": "yeah could you please tell me which of the following to",
+                    "display": "yeah could you please tell me which of the following to"
+                },
+                {
+                    "confidence": 0.81607676,
+                    "lexical": "yes could you please tell me which of the following",
+                    "itn": "yes could you please tell me which of the following",
+                    "maskedITN": "yes could you please tell me which of the following",
+                    "display": "yes could you please tell me which of the following"
+                },
+                {
+                    "confidence": 0.7270396,
+                    "lexical": "yeah could you please tell me which of the following choices",
+                    "itn": "yeah could you please tell me which of the following choices",
+                    "maskedITN": "yeah could you please tell me which of the following choices",
+                    "display": "yeah could you please tell me which of the following choices"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT14.59S",
+            "duration": "PT0.63S",
+            "offsetInTicks": 145900000.0,
+            "durationInTicks": 6300000.0,
+            "nBest": [
+                {
+                    "confidence": 0.7430762,
+                    "lexical": "your question",
+                    "itn": "your question",
+                    "maskedITN": "your question",
+                    "display": "Your question."
+                },
+                {
+                    "confidence": 0.73883283,
+                    "lexical": "good question",
+                    "itn": "good question",
+                    "maskedITN": "good question",
+                    "display": "good question"
+                },
+                {
+                    "confidence": 0.702302,
+                    "lexical": "your questions",
+                    "itn": "your questions",
+                    "maskedITN": "your questions",
+                    "display": "your questions"
+                },
+                {
+                    "confidence": 0.65092075,
+                    "lexical": "two questions",
+                    "itn": "two questions",
+                    "maskedITN": "two questions",
+                    "display": "two questions"
+                },
+                {
+                    "confidence": 0.7804818,
+                    "lexical": "question",
+                    "itn": "question",
+                    "maskedITN": "question",
+                    "display": "question"
+                }
+            ]
+        }
+    ]
+}

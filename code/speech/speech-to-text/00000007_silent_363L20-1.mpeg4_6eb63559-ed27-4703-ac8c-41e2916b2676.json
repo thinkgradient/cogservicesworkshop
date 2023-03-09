@@ -1,0 +1,242 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000007_silent_363L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:43:04Z",
+    "durationInTicks": 142400000,
+    "duration": "PT14.24S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "i mean we have alright uh could you please tell me which of these state groups you're calling to that is one thirty five twenty nine",
+            "itn": "i mean we have alright uh could you please tell me which of these state groups you're calling to that is 13529",
+            "maskedITN": "i mean we have alright uh could you please tell me which of these state groups you're calling to that is 13529",
+            "display": "I mean, we have. Alright. Uh, could you please tell me which of these state groups you're calling to? That is 13529."
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT0.09S",
+            "duration": "PT0.63S",
+            "offsetInTicks": 900000.0,
+            "durationInTicks": 6300000.0,
+            "nBest": [
+                {
+                    "confidence": 0.7473385,
+                    "lexical": "i mean we have",
+                    "itn": "i mean we have",
+                    "maskedITN": "i mean we have",
+                    "display": "I mean, we have."
+                },
+                {
+                    "confidence": 0.58794814,
+                    "lexical": "i mean where",
+                    "itn": "i mean where",
+                    "maskedITN": "i mean where",
+                    "display": "i mean where"
+                },
+                {
+                    "confidence": 0.8733089,
+                    "lexical": "i mean",
+                    "itn": "i mean",
+                    "maskedITN": "i mean",
+                    "display": "i mean"
+                },
+                {
+                    "confidence": 0.5865198,
+                    "lexical": "i mean yeah",
+                    "itn": "i mean yeah",
+                    "maskedITN": "i mean yeah",
+                    "display": "i mean yeah"
+                },
+                {
+                    "confidence": 0.70765984,
+                    "lexical": "i mean we are",
+                    "itn": "i mean we are",
+                    "maskedITN": "i mean we are",
+                    "display": "i mean we are"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT4.06S",
+            "duration": "PT0.72S",
+            "offsetInTicks": 40600000.0,
+            "durationInTicks": 7200000.0,
+            "nBest": [
+                {
+                    "confidence": 0.1327503,
+                    "lexical": "alright",
+                    "itn": "alright",
+                    "maskedITN": "alright",
+                    "display": "Alright."
+                },
+                {
+                    "confidence": 0.47026527,
+                    "lexical": "all right",
+                    "itn": "all right",
+                    "maskedITN": "all right",
+                    "display": "all right"
+                },
+                {
+                    "confidence": 0.25756192,
+                    "lexical": "oh",
+                    "itn": "oh",
+                    "maskedITN": "oh",
+                    "display": "oh"
+                },
+                {
+                    "confidence": 0.21844912,
+                    "lexical": "uh",
+                    "itn": "uh",
+                    "maskedITN": "uh",
+                    "display": "uh"
+                },
+                {
+                    "confidence": 0.15323558,
+                    "lexical": "ah",
+                    "itn": "ah",
+                    "maskedITN": "ah",
+                    "display": "ah"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT5.89S",
+            "duration": "PT3.49S",
+            "offsetInTicks": 58900000.0,
+            "durationInTicks": 34900000.0,
+            "nBest": [
+                {
+                    "confidence": 0.683798,
+                    "lexical": "uh could you please tell me which of these state groups you're calling to",
+                    "itn": "uh could you please tell me which of these state groups you're calling to",
+                    "maskedITN": "uh could you please tell me which of these state groups you're calling to",
+                    "display": "Uh, could you please tell me which of these state groups you're calling to?"
+                },
+                {
+                    "confidence": 0.6809807,
+                    "lexical": "uh could you please tell me which of these eight groups you're calling to",
+                    "itn": "uh could you please tell me which of these eight groups you're calling to",
+                    "maskedITN": "uh could you please tell me which of these eight groups you're calling to",
+                    "display": "uh could you please tell me which of these eight groups you're calling to"
+                },
+                {
+                    "confidence": 0.72587353,
+                    "lexical": "and could you please tell me which of these groups you're calling to",
+                    "itn": "and could you please tell me which of these groups you're calling to",
+                    "maskedITN": "and could you please tell me which of these groups you're calling to",
+                    "display": "and could you please tell me which of these groups you're calling to"
+                },
+                {
+                    "confidence": 0.74165183,
+                    "lexical": "could you please tell me which of these groups you're calling to",
+                    "itn": "could you please tell me which of these groups you're calling to",
+                    "maskedITN": "could you please tell me which of these groups you're calling to",
+                    "display": "could you please tell me which of these groups you're calling to"
+                },
+                {
+                    "confidence": 0.7344228,
+                    "lexical": "uh could you please tell me which of these groups you're calling to",
+                    "itn": "uh could you please tell me which of these groups you're calling to",
+                    "maskedITN": "uh could you please tell me which of these groups you're calling to",
+                    "display": "uh could you please tell me which of these groups you're calling to"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT10.8S",
+            "duration": "PT1.81S",
+            "offsetInTicks": 108000000.0,
+            "durationInTicks": 18100000.0,
+            "nBest": [
+                {
+                    "confidence": 0.5792356,
+                    "lexical": "that is one thirty five twenty nine",
+                    "itn": "that is 13529",
+                    "maskedITN": "that is 13529",
+                    "display": "That is 13529."
+                },
+                {
+                    "confidence": 0.7356745,
+                    "lexical": "that is one point two nine",
+                    "itn": "that is one point two nine",
+                    "maskedITN": "that is one point two nine",
+                    "display": "that is one point two nine"
+                },
+                {
+                    "confidence": 0.59163207,
+                    "lexical": "now this one is five twenty nine",
+                    "itn": "now this one is five twenty nine",
+                    "maskedITN": "now this one is five twenty nine",
+                    "display": "now this one is five twenty nine"
+                },
+                {
+                    "confidence": 0.5827896,
+                    "lexical": "yeah this one is five twenty nine",
+                    "itn": "yeah this one is five twenty nine",
+                    "maskedITN": "yeah this one is five twenty nine",
+                    "display": "yeah this one is five twenty nine"
+                },
+                {
+                    "confidence": 0.7625267,
+                    "lexical": "that is one two nine",
+                    "itn": "that is one two nine",
+                    "maskedITN": "that is one two nine",
+                    "display": "that is one two nine"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT13.58S",
+            "duration": "PT0.66S",
+            "offsetInTicks": 135800000.0,
+            "durationInTicks": 6600000.0,
+            "nBest": [
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.4584428,
+                    "lexical": "yeah",
+                    "itn": "yeah",
+                    "maskedITN": "yeah",
+                    "display": "yeah"
+                },
+                {
+                    "confidence": 0.6361471,
+                    "lexical": "no",
+                    "itn": "no",
+                    "maskedITN": "no",
+                    "display": "no"
+                },
+                {
+                    "confidence": 0.5756877,
+                    "lexical": "oh",
+                    "itn": "oh",
+                    "maskedITN": "oh",
+                    "display": "oh"
+                },
+                {
+                    "confidence": 0.58208835,
+                    "lexical": "so",
+                    "itn": "so",
+                    "maskedITN": "so",
+                    "display": "so"
+                }
+            ]
+        }
+    ]
+}

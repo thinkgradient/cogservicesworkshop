@@ -1,0 +1,557 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000001_silent_392L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:44:35Z",
+    "durationInTicks": 638800000,
+    "duration": "PT1M3.88S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "overall i'll read through three short stories it's OK so hi i'm busy and there is only a kwanzaa do you think bribery is more of a problem with a citizen offers and drive and maybe an official demand a bribe cornell strongly agree somewhat agree any common let's see i'm OK yeah it's not strongly agree somewhat agree that'd be a lot and as i am there and you will pay it's OK so you apply you apply to every every question now compared to choices you strongly agree somewhat agree boca chica hachi you could do it's OK i'm not gonna come on you do it it's OK so have a you're missing official like demand you",
+            "itn": "overall i'll read through three short stories it's OK so hi i'm busy and there is only a kwanzaa do you think bribery is more of a problem with a citizen offers and drive and maybe an official demand a bribe cornell strongly agree somewhat agree any common let's see i'm OK yeah it's not strongly agree somewhat agree that'd be a lot and as i am there and you will pay it's OK so you apply you apply to every every question now compared to choices you strongly agree somewhat agree boca chica hachi you could do it's OK i'm not gonna come on you do it it's OK so have a you're missing official like demand you",
+            "maskedITN": "overall i'll read through three short stories it's ok so hi i'm busy and there is only a kwanzaa do you think bribery is more of a problem with a citizen offers and drive and maybe an official demand a bribe cornell strongly agree somewhat agree any common let's see i'm ok yeah it's not strongly agree somewhat agree that'd be a lot and as i am there and you will pay it's ok so you apply you apply to every every question now compared to choices you strongly agree somewhat agree boca chica hachi you could do it's ok i'm not gonna come on you do it it's ok so have a you're missing official like demand you",
+            "display": "Overall, I'll read through three short stories. It's OK so. Hi, I'm busy and there is only a Kwanzaa. Do you think bribery is more of a problem with a citizen offers and drive and maybe an official demand a bribe? Cornell strongly agree somewhat agree. Any common? Let's see, I'm. OK. Yeah. It's not strongly agree, somewhat agree. That'd be a lot. And as I am there. And you will pay. It's OK. So you apply. You apply to every every question. Now, compared to choices, you strongly agree. Somewhat agree. Boca Chica hachi. You could do. It's OK. I'm not gonna come on. You do it. It's OK. So have a you're missing official like demand you."
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT0.6S",
+            "duration": "PT4.09S",
+            "offsetInTicks": 6000000.0,
+            "durationInTicks": 40900000.0,
+            "nBest": [
+                {
+                    "confidence": 0.544463,
+                    "lexical": "overall i'll read through three short stories",
+                    "itn": "overall i'll read through three short stories",
+                    "maskedITN": "overall i'll read through three short stories",
+                    "display": "Overall, I'll read through three short stories."
+                },
+                {
+                    "confidence": 0.49424967,
+                    "lexical": "memory overall i'll read through three short stories",
+                    "itn": "memory overall i'll read through three short stories",
+                    "maskedITN": "memory overall i'll read through three short stories",
+                    "display": "memory overall i'll read through three short stories"
+                },
+                {
+                    "confidence": 0.56987864,
+                    "lexical": "overall i love you i'll read through three short stories",
+                    "itn": "overall i love you i'll read through three short stories",
+                    "maskedITN": "overall i love you i'll read through three short stories",
+                    "display": "overall i love you i'll read through three short stories"
+                },
+                {
+                    "confidence": 0.5202738,
+                    "lexical": "mayberry overall i'll read through three short stories",
+                    "itn": "mayberry overall i'll read through three short stories",
+                    "maskedITN": "mayberry overall i'll read through three short stories",
+                    "display": "mayberry overall i'll read through three short stories"
+                },
+                {
+                    "confidence": 0.5222291,
+                    "lexical": "memory overall i love you i'll read through three short stories",
+                    "itn": "memory overall i love you i'll read through three short stories",
+                    "maskedITN": "memory overall i love you i'll read through three short stories",
+                    "display": "memory overall i love you i'll read through three short stories"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT6.21S",
+            "duration": "PT1.03S",
+            "offsetInTicks": 62100000.0,
+            "durationInTicks": 10300000.0,
+            "nBest": [
+                {
+                    "confidence": 0.5707301,
+                    "lexical": "it's OK so",
+                    "itn": "it's OK so",
+                    "maskedITN": "it's ok so",
+                    "display": "It's OK so."
+                },
+                {
+                    "confidence": 0.3842569,
+                    "lexical": "it's ok yourself",
+                    "itn": "it's ok yourself",
+                    "maskedITN": "it's ok yourself",
+                    "display": "it's OK yourself"
+                },
+                {
+                    "confidence": 0.72042286,
+                    "lexical": "it's ok",
+                    "itn": "it's ok",
+                    "maskedITN": "it's ok",
+                    "display": "it's OK"
+                },
+                {
+                    "confidence": 0.7036647,
+                    "lexical": "ok so",
+                    "itn": "ok so",
+                    "maskedITN": "ok so",
+                    "display": "OK so"
+                },
+                {
+                    "confidence": 0.38211858,
+                    "lexical": "it's okay yourself",
+                    "itn": "it's okay yourself",
+                    "maskedITN": "it's okay yourself",
+                    "display": "it's okay yourself"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT9.76S",
+            "duration": "PT11.52S",
+            "offsetInTicks": 97600000.0,
+            "durationInTicks": 115200000.0,
+            "nBest": [
+                {
+                    "confidence": 0.667045,
+                    "lexical": "hi i'm busy and there is only a kwanzaa do you think bribery is more of a problem with a citizen offers and drive and maybe an official demand a bribe",
+                    "itn": "hi i'm busy and there is only a kwanzaa do you think bribery is more of a problem with a citizen offers and drive and maybe an official demand a bribe",
+                    "maskedITN": "hi i'm busy and there is only a kwanzaa do you think bribery is more of a problem with a citizen offers and drive and maybe an official demand a bribe",
+                    "display": "Hi, I'm busy and there is only a Kwanzaa. Do you think bribery is more of a problem with a citizen offers and drive and maybe an official demand a bribe?"
+                },
+                {
+                    "confidence": 0.657639,
+                    "lexical": "hi i'm busy and there is only a kwanzaa do you think bribery is more of a problem with a citizen offers and drive a maybe an official demand a bribe",
+                    "itn": "hi i'm busy and there is only a kwanzaa do you think bribery is more of a problem with a citizen offers and drive a maybe an official demand a bribe",
+                    "maskedITN": "hi i'm busy and there is only a kwanzaa do you think bribery is more of a problem with a citizen offers and drive a maybe an official demand a bribe",
+                    "display": "hi i'm busy and there is only a kwanzaa do you think bribery is more of a problem with a citizen offers and drive a maybe an official demand a bribe"
+                },
+                {
+                    "confidence": 0.67273414,
+                    "lexical": "hi i'm busy and there is only a kwanzaa do you think bribery is more of a problem with a a citizen offers and drive and maybe an official demand a bribe",
+                    "itn": "hi i'm busy and there is only a kwanzaa do you think bribery is more of a problem with a a citizen offers and drive and maybe an official demand a bribe",
+                    "maskedITN": "hi i'm busy and there is only a kwanzaa do you think bribery is more of a problem with a a citizen offers and drive and maybe an official demand a bribe",
+                    "display": "hi i'm busy and there is only a kwanzaa do you think bribery is more of a problem with a a citizen offers and drive and maybe an official demand a bribe"
+                },
+                {
+                    "confidence": 0.67001253,
+                    "lexical": "hi i'm busy and there is only a kwanzaa do you think bribery is more of a problem with a citizen offers and drive comma be an official demand a bribe",
+                    "itn": "hi i'm busy and there is only a kwanzaa do you think bribery is more of a problem with a citizen offers and drive comma be an official demand a bribe",
+                    "maskedITN": "hi i'm busy and there is only a kwanzaa do you think bribery is more of a problem with a citizen offers and drive comma be an official demand a bribe",
+                    "display": "hi i'm busy and there is only a kwanzaa do you think bribery is more of a problem with a citizen offers and drive comma be an official demand a bribe"
+                },
+                {
+                    "confidence": 0.6757103,
+                    "lexical": "hi i'm busy and there is only a kwanzaa do you think bribery is more of a problem with a a citizen offers and drive comma be an official demand a bribe",
+                    "itn": "hi i'm busy and there is only a kwanzaa do you think bribery is more of a problem with a a citizen offers and drive comma be an official demand a bribe",
+                    "maskedITN": "hi i'm busy and there is only a kwanzaa do you think bribery is more of a problem with a a citizen offers and drive comma be an official demand a bribe",
+                    "display": "hi i'm busy and there is only a kwanzaa do you think bribery is more of a problem with a a citizen offers and drive comma be an official demand a bribe"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT23.79S",
+            "duration": "PT3.16S",
+            "offsetInTicks": 237900000.0,
+            "durationInTicks": 31600000.0,
+            "nBest": [
+                {
+                    "confidence": 0.66845775,
+                    "lexical": "cornell strongly agree somewhat agree any common",
+                    "itn": "cornell strongly agree somewhat agree any common",
+                    "maskedITN": "cornell strongly agree somewhat agree any common",
+                    "display": "Cornell strongly agree somewhat agree. Any common?"
+                },
+                {
+                    "confidence": 0.62008196,
+                    "lexical": "cornell strongly agree somewhat agree any commoner",
+                    "itn": "cornell strongly agree somewhat agree any commoner",
+                    "maskedITN": "cornell strongly agree somewhat agree any commoner",
+                    "display": "cornell strongly agree somewhat agree any commoner"
+                },
+                {
+                    "confidence": 0.56137294,
+                    "lexical": "cornell strongly agree somewhat agree any communicable",
+                    "itn": "cornell strongly agree somewhat agree any communicable",
+                    "maskedITN": "cornell strongly agree somewhat agree any communicable",
+                    "display": "cornell strongly agree somewhat agree any communicable"
+                },
+                {
+                    "confidence": 0.6214207,
+                    "lexical": "kunal strongly agree somewhat agree any commoner",
+                    "itn": "kunal strongly agree somewhat agree any commoner",
+                    "maskedITN": "kunal strongly agree somewhat agree any commoner",
+                    "display": "kunal strongly agree somewhat agree any commoner"
+                },
+                {
+                    "confidence": 0.5626075,
+                    "lexical": "kunal strongly agree somewhat agree any communicable",
+                    "itn": "kunal strongly agree somewhat agree any communicable",
+                    "maskedITN": "kunal strongly agree somewhat agree any communicable",
+                    "display": "kunal strongly agree somewhat agree any communicable"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT28.84S",
+            "duration": "PT0.46S",
+            "offsetInTicks": 288400000.0,
+            "durationInTicks": 4600000.0,
+            "nBest": [
+                {
+                    "confidence": 0.650849,
+                    "lexical": "let's see i'm",
+                    "itn": "let's see i'm",
+                    "maskedITN": "let's see i'm",
+                    "display": "Let's see, I'm."
+                },
+                {
+                    "confidence": 0.4587827,
+                    "lexical": "let's see america mobile",
+                    "itn": "let's see america mobile",
+                    "maskedITN": "let's see america mobile",
+                    "display": "let's see america mobile"
+                },
+                {
+                    "confidence": 0.48711628,
+                    "lexical": "to see america mobile",
+                    "itn": "to see america mobile",
+                    "maskedITN": "to see america mobile",
+                    "display": "to see america mobile"
+                },
+                {
+                    "confidence": 0.6456843,
+                    "lexical": "let's see",
+                    "itn": "let's see",
+                    "maskedITN": "let's see",
+                    "display": "let's see"
+                },
+                {
+                    "confidence": 0.6156372,
+                    "lexical": "let's see umm",
+                    "itn": "let's see umm",
+                    "maskedITN": "let's see umm",
+                    "display": "let's see umm"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT30.71S",
+            "duration": "PT3.37S",
+            "offsetInTicks": 307100000.0,
+            "durationInTicks": 33700000.0,
+            "nBest": [
+                {
+                    "confidence": 0.6129742,
+                    "lexical": "OK yeah it's not strongly agree somewhat agree",
+                    "itn": "OK yeah it's not strongly agree somewhat agree",
+                    "maskedITN": "ok yeah it's not strongly agree somewhat agree",
+                    "display": "OK. Yeah. It's not strongly agree, somewhat agree."
+                },
+                {
+                    "confidence": 0.60970545,
+                    "lexical": "ok yeah it's now strongly agree somewhat agree",
+                    "itn": "ok yeah it's now strongly agree somewhat agree",
+                    "maskedITN": "ok yeah it's now strongly agree somewhat agree",
+                    "display": "OK yeah it's now strongly agree somewhat agree"
+                },
+                {
+                    "confidence": 0.6121539,
+                    "lexical": "ok yeah it's not strongly agree somewhat agree yeah",
+                    "itn": "ok yeah it's not strongly agree somewhat agree yeah",
+                    "maskedITN": "ok yeah it's not strongly agree somewhat agree yeah",
+                    "display": "OK yeah it's not strongly agree somewhat agree yeah"
+                },
+                {
+                    "confidence": 0.6196075,
+                    "lexical": "ok yeah it's not strongly agree somewhat agree and",
+                    "itn": "ok yeah it's not strongly agree somewhat agree and",
+                    "maskedITN": "ok yeah it's not strongly agree somewhat agree and",
+                    "display": "OK yeah it's not strongly agree somewhat agree and"
+                },
+                {
+                    "confidence": 0.60913044,
+                    "lexical": "ok yeah it's now strongly agree somewhat agree yeah",
+                    "itn": "ok yeah it's now strongly agree somewhat agree yeah",
+                    "maskedITN": "ok yeah it's now strongly agree somewhat agree yeah",
+                    "display": "OK yeah it's now strongly agree somewhat agree yeah"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT35.63S",
+            "duration": "PT1.17S",
+            "offsetInTicks": 356300000.0,
+            "durationInTicks": 11700000.0,
+            "nBest": [
+                {
+                    "confidence": 0.71213555,
+                    "lexical": "that'd be a lot",
+                    "itn": "that'd be a lot",
+                    "maskedITN": "that'd be a lot",
+                    "display": "That'd be a lot."
+                },
+                {
+                    "confidence": 0.7079448,
+                    "lexical": "that'd be",
+                    "itn": "that'd be",
+                    "maskedITN": "that'd be",
+                    "display": "that'd be"
+                },
+                {
+                    "confidence": 0.6220248,
+                    "lexical": "that be",
+                    "itn": "that be",
+                    "maskedITN": "that be",
+                    "display": "that be"
+                },
+                {
+                    "confidence": 0.6255087,
+                    "lexical": "that'll be all",
+                    "itn": "that'll be all",
+                    "maskedITN": "that'll be all",
+                    "display": "that'll be all"
+                },
+                {
+                    "confidence": 0.64674854,
+                    "lexical": "that'll be",
+                    "itn": "that'll be",
+                    "maskedITN": "that'll be",
+                    "display": "that'll be"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT38.7S",
+            "duration": "PT0.77S",
+            "offsetInTicks": 387000000.0,
+            "durationInTicks": 7700000.0,
+            "nBest": [
+                {
+                    "confidence": 0.7699923,
+                    "lexical": "and as i am there",
+                    "itn": "and as i am there",
+                    "maskedITN": "and as i am there",
+                    "display": "And as I am there."
+                },
+                {
+                    "confidence": 0.70660007,
+                    "lexical": "and as i am calling you now",
+                    "itn": "and as i am calling you now",
+                    "maskedITN": "and as i am calling you now",
+                    "display": "and as i am calling you now"
+                },
+                {
+                    "confidence": 0.8144058,
+                    "lexical": "and as i am",
+                    "itn": "and as i am",
+                    "maskedITN": "and as i am",
+                    "display": "and as i am"
+                },
+                {
+                    "confidence": 0.7248223,
+                    "lexical": "and as i am good",
+                    "itn": "and as i am good",
+                    "maskedITN": "and as i am good",
+                    "display": "and as i am good"
+                },
+                {
+                    "confidence": 0.64746964,
+                    "lexical": "and as i'm there",
+                    "itn": "and as i'm there",
+                    "maskedITN": "and as i'm there",
+                    "display": "and as i'm there"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT41.02S",
+            "duration": "PT10.13S",
+            "offsetInTicks": 410200000.0,
+            "durationInTicks": 101300000.0,
+            "nBest": [
+                {
+                    "confidence": 0.7465381,
+                    "lexical": "and you will pay it's OK so you apply you apply to every every question now compared to choices you strongly agree somewhat agree",
+                    "itn": "and you will pay it's OK so you apply you apply to every every question now compared to choices you strongly agree somewhat agree",
+                    "maskedITN": "and you will pay it's ok so you apply you apply to every every question now compared to choices you strongly agree somewhat agree",
+                    "display": "And you will pay. It's OK. So you apply. You apply to every every question. Now, compared to choices, you strongly agree. Somewhat agree."
+                },
+                {
+                    "confidence": 0.7569802,
+                    "lexical": "and you will pay it's ok so you apply you can apply to every every question now compared to choices you strongly agree somewhat agree",
+                    "itn": "and you will pay it's ok so you apply you can apply to every every question now compared to choices you strongly agree somewhat agree",
+                    "maskedITN": "and you will pay it's ok so you apply you can apply to every every question now compared to choices you strongly agree somewhat agree",
+                    "display": "and you will pay it's OK so you apply you can apply to every every question now compared to choices you strongly agree somewhat agree"
+                },
+                {
+                    "confidence": 0.7449601,
+                    "lexical": "you will pay it's ok so you apply you can apply to every every question now compared to choices you strongly agree somewhat agree",
+                    "itn": "you will pay it's ok so you apply you can apply to every every question now compared to choices you strongly agree somewhat agree",
+                    "maskedITN": "you will pay it's ok so you apply you can apply to every every question now compared to choices you strongly agree somewhat agree",
+                    "display": "you will pay it's OK so you apply you can apply to every every question now compared to choices you strongly agree somewhat agree"
+                },
+                {
+                    "confidence": 0.754828,
+                    "lexical": "but you will pay it's ok so you apply you can apply to every every question now compared to choices you strongly agree somewhat agree",
+                    "itn": "but you will pay it's ok so you apply you can apply to every every question now compared to choices you strongly agree somewhat agree",
+                    "maskedITN": "but you will pay it's ok so you apply you can apply to every every question now compared to choices you strongly agree somewhat agree",
+                    "display": "but you will pay it's OK so you apply you can apply to every every question now compared to choices you strongly agree somewhat agree"
+                },
+                {
+                    "confidence": 0.7502486,
+                    "lexical": "and you will pay it's ok so you apply you can apply to every every question that compared to choices you strongly agree somewhat agree",
+                    "itn": "and you will pay it's ok so you apply you can apply to every every question that compared to choices you strongly agree somewhat agree",
+                    "maskedITN": "and you will pay it's ok so you apply you can apply to every every question that compared to choices you strongly agree somewhat agree",
+                    "display": "and you will pay it's OK so you apply you can apply to every every question that compared to choices you strongly agree somewhat agree"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT52.68S",
+            "duration": "PT1S",
+            "offsetInTicks": 526800000.0,
+            "durationInTicks": 10000000.0,
+            "nBest": [
+                {
+                    "confidence": 0.4769133,
+                    "lexical": "boca chica hachi",
+                    "itn": "boca chica hachi",
+                    "maskedITN": "boca chica hachi",
+                    "display": "Boca Chica hachi."
+                },
+                {
+                    "confidence": 0.46842626,
+                    "lexical": "boca chica achi",
+                    "itn": "boca chica achi",
+                    "maskedITN": "boca chica achi",
+                    "display": "boca chica achi"
+                },
+                {
+                    "confidence": 0.47008082,
+                    "lexical": "boca chica ichi",
+                    "itn": "boca chica ichi",
+                    "maskedITN": "boca chica ichi",
+                    "display": "boca chica ichi"
+                },
+                {
+                    "confidence": 0.5048807,
+                    "lexical": "boca chica uchi",
+                    "itn": "boca chica uchi",
+                    "maskedITN": "boca chica uchi",
+                    "display": "boca chica uchi"
+                },
+                {
+                    "confidence": 0.41052246,
+                    "lexical": "boca chica chachi",
+                    "itn": "boca chica chachi",
+                    "maskedITN": "boca chica chachi",
+                    "display": "boca chica chachi"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT55.16S",
+            "duration": "PT7.72S",
+            "offsetInTicks": 551600000.0,
+            "durationInTicks": 77200000.0,
+            "nBest": [
+                {
+                    "confidence": 0.60044426,
+                    "lexical": "you could do it's OK i'm not gonna come on you do it it's OK so have a you're missing official like demand you",
+                    "itn": "you could do it's OK i'm not gonna come on you do it it's OK so have a you're missing official like demand you",
+                    "maskedITN": "you could do it's ok i'm not gonna come on you do it it's ok so have a you're missing official like demand you",
+                    "display": "You could do. It's OK. I'm not gonna come on. You do it. It's OK. So have a you're missing official like demand you."
+                },
+                {
+                    "confidence": 0.60036874,
+                    "lexical": "you could do it's ok and i'm not gonna come on you do it it's ok so have a you're missing official like demand you",
+                    "itn": "you could do it's ok and i'm not gonna come on you do it it's ok so have a you're missing official like demand you",
+                    "maskedITN": "you could do it's ok and i'm not gonna come on you do it it's ok so have a you're missing official like demand you",
+                    "display": "you could do it's OK and i'm not gonna come on you do it it's OK so have a you're missing official like demand you"
+                },
+                {
+                    "confidence": 0.61576706,
+                    "lexical": "you could do it's ok i'm not gonna come on it's ok so have a you're missing official like demand you",
+                    "itn": "you could do it's ok i'm not gonna come on it's ok so have a you're missing official like demand you",
+                    "maskedITN": "you could do it's ok i'm not gonna come on it's ok so have a you're missing official like demand you",
+                    "display": "you could do it's OK i'm not gonna come on it's OK so have a you're missing official like demand you"
+                },
+                {
+                    "confidence": 0.6156848,
+                    "lexical": "you could do it's ok and i'm not gonna come on it's ok so have a you're missing official like demand you",
+                    "itn": "you could do it's ok and i'm not gonna come on it's ok so have a you're missing official like demand you",
+                    "maskedITN": "you could do it's ok and i'm not gonna come on it's ok so have a you're missing official like demand you",
+                    "display": "you could do it's OK and i'm not gonna come on it's OK so have a you're missing official like demand you"
+                },
+                {
+                    "confidence": 0.607728,
+                    "lexical": "you could do it's ok i'm not gonna come on do it it's ok so have a you're missing official like demand you",
+                    "itn": "you could do it's ok i'm not gonna come on do it it's ok so have a you're missing official like demand you",
+                    "maskedITN": "you could do it's ok i'm not gonna come on do it it's ok so have a you're missing official like demand you",
+                    "display": "you could do it's OK i'm not gonna come on do it it's OK so have a you're missing official like demand you"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT1M3.7S",
+            "duration": "PT0.18S",
+            "offsetInTicks": 637000000.0,
+            "durationInTicks": 1800000.0,
+            "nBest": [
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.6489016,
+                    "lexical": "no",
+                    "itn": "no",
+                    "maskedITN": "no",
+                    "display": "no"
+                },
+                {
+                    "confidence": 0.51684946,
+                    "lexical": "so",
+                    "itn": "so",
+                    "maskedITN": "so",
+                    "display": "so"
+                },
+                {
+                    "confidence": 0.47849706,
+                    "lexical": "uh",
+                    "itn": "uh",
+                    "maskedITN": "uh",
+                    "display": "uh"
+                },
+                {
+                    "confidence": 0.39196083,
+                    "lexical": "yes",
+                    "itn": "yes",
+                    "maskedITN": "yes",
+                    "display": "yes"
+                }
+            ]
+        }
+    ]
+}

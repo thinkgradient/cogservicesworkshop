@@ -1,0 +1,242 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000009_silent_363L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:43:15Z",
+    "durationInTicks": 208000000,
+    "duration": "PT20.8S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "OK you are age that's up to ninety nine number and one twenty four that's twenty one twenty four",
+            "itn": "OK you are age that's up to 99 number and 124 that's 2124",
+            "maskedITN": "ok you are age that's up to 99 number and 124 that's 2124",
+            "display": "OK, you are age. That's up to 99 number. And 124. That's. 2124."
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT3.27S",
+            "duration": "PT2.31S",
+            "offsetInTicks": 32700000.0,
+            "durationInTicks": 23100000.0,
+            "nBest": [
+                {
+                    "confidence": 0.7743121,
+                    "lexical": "OK you are age",
+                    "itn": "OK you are age",
+                    "maskedITN": "ok you are age",
+                    "display": "OK, you are age."
+                },
+                {
+                    "confidence": 0.7574306,
+                    "lexical": "ok you are edge",
+                    "itn": "ok you are edge",
+                    "maskedITN": "ok you are edge",
+                    "display": "OK you are edge"
+                },
+                {
+                    "confidence": 0.7493322,
+                    "lexical": "ok you are image",
+                    "itn": "ok you are image",
+                    "maskedITN": "ok you are image",
+                    "display": "OK you are image"
+                },
+                {
+                    "confidence": 0.76129854,
+                    "lexical": "ok you are each",
+                    "itn": "ok you are each",
+                    "maskedITN": "ok you are each",
+                    "display": "OK you are each"
+                },
+                {
+                    "confidence": 0.89829606,
+                    "lexical": "ok you are",
+                    "itn": "ok you are",
+                    "maskedITN": "ok you are",
+                    "display": "OK you are"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT8.45S",
+            "duration": "PT1.74S",
+            "offsetInTicks": 84500000.0,
+            "durationInTicks": 17400000.0,
+            "nBest": [
+                {
+                    "confidence": 0.39471018,
+                    "lexical": "that's up to ninety nine number",
+                    "itn": "that's up to 99 number",
+                    "maskedITN": "that's up to 99 number",
+                    "display": "That's up to 99 number."
+                },
+                {
+                    "confidence": 0.39190742,
+                    "lexical": "that's up to thirty nine number",
+                    "itn": "that's up to thirty nine number",
+                    "maskedITN": "that's up to thirty nine number",
+                    "display": "that's up to thirty nine number"
+                },
+                {
+                    "confidence": 0.50799334,
+                    "lexical": "that's up to ninety nine",
+                    "itn": "that's up to ninety nine",
+                    "maskedITN": "that's up to ninety nine",
+                    "display": "that's up to ninety nine"
+                },
+                {
+                    "confidence": 0.49160767,
+                    "lexical": "that's up to thirty nine",
+                    "itn": "that's up to thirty nine",
+                    "maskedITN": "that's up to thirty nine",
+                    "display": "that's up to thirty nine"
+                },
+                {
+                    "confidence": 0.47998515,
+                    "lexical": "that's up to thirty nine i'm",
+                    "itn": "that's up to thirty nine i'm",
+                    "maskedITN": "that's up to thirty nine i'm",
+                    "display": "that's up to thirty nine i'm"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT12.97S",
+            "duration": "PT1.21S",
+            "offsetInTicks": 129700000.0,
+            "durationInTicks": 12100000.0,
+            "nBest": [
+                {
+                    "confidence": 0.58887756,
+                    "lexical": "and one twenty four",
+                    "itn": "and 124",
+                    "maskedITN": "and 124",
+                    "display": "And 124."
+                },
+                {
+                    "confidence": 0.55053663,
+                    "lexical": "one twenty four",
+                    "itn": "one twenty four",
+                    "maskedITN": "one twenty four",
+                    "display": "one twenty four"
+                },
+                {
+                    "confidence": 0.5498816,
+                    "lexical": "twenty four",
+                    "itn": "twenty four",
+                    "maskedITN": "twenty four",
+                    "display": "twenty four"
+                },
+                {
+                    "confidence": 0.5655691,
+                    "lexical": "and one",
+                    "itn": "and one",
+                    "maskedITN": "and one",
+                    "display": "and one"
+                },
+                {
+                    "confidence": 0.52658486,
+                    "lexical": "and then",
+                    "itn": "and then",
+                    "maskedITN": "and then",
+                    "display": "and then"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT15.72S",
+            "duration": "PT0.33S",
+            "offsetInTicks": 157200000.0,
+            "durationInTicks": 3300000.0,
+            "nBest": [
+                {
+                    "confidence": 0.33676252,
+                    "lexical": "that's",
+                    "itn": "that's",
+                    "maskedITN": "that's",
+                    "display": "That's."
+                },
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.5492406,
+                    "lexical": "that's it",
+                    "itn": "that's it",
+                    "maskedITN": "that's it",
+                    "display": "that's it"
+                },
+                {
+                    "confidence": 0.5556791,
+                    "lexical": "let's see",
+                    "itn": "let's see",
+                    "maskedITN": "let's see",
+                    "display": "let's see"
+                },
+                {
+                    "confidence": 0.5161314,
+                    "lexical": "that's good",
+                    "itn": "that's good",
+                    "maskedITN": "that's good",
+                    "display": "that's good"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT17.47S",
+            "duration": "PT1.41S",
+            "offsetInTicks": 174700000.0,
+            "durationInTicks": 14100000.0,
+            "nBest": [
+                {
+                    "confidence": 0.8277866,
+                    "lexical": "twenty one twenty four",
+                    "itn": "2124",
+                    "maskedITN": "2124",
+                    "display": "2124."
+                },
+                {
+                    "confidence": 0.8270528,
+                    "lexical": "twenty one to twenty four",
+                    "itn": "twenty one to twenty four",
+                    "maskedITN": "twenty one to twenty four",
+                    "display": "twenty one to twenty four"
+                },
+                {
+                    "confidence": 0.78515416,
+                    "lexical": "twenty one and twenty four",
+                    "itn": "twenty one and twenty four",
+                    "maskedITN": "twenty one and twenty four",
+                    "display": "twenty one and twenty four"
+                },
+                {
+                    "confidence": 0.73630387,
+                    "lexical": "twenty one to twenty fourth",
+                    "itn": "twenty one to twenty fourth",
+                    "maskedITN": "twenty one to twenty fourth",
+                    "display": "twenty one to twenty fourth"
+                },
+                {
+                    "confidence": 0.7545297,
+                    "lexical": "twenty one twenty five",
+                    "itn": "twenty one twenty five",
+                    "maskedITN": "twenty one twenty five",
+                    "display": "twenty one twenty five"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000012_silent_485L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:43:18Z",
+    "durationInTicks": 317600000,
+    "duration": "PT31.76S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "next let's think about whether individuals make their own decisions about whether to pay bribes or if they don't have a choice because it's part of the normal expected system so even though bribery is common each individual is responsible for their own decisions about whether or not to pay a bribe or individuals cannot be blamed for their decisions to pay bribes it's so common they must do it OK strongly affirmed",
+            "itn": "next let's think about whether individuals make their own decisions about whether to pay bribes or if they don't have a choice because it's part of the normal expected system so even though bribery is common each individual is responsible for their own decisions about whether or not to pay a bribe or individuals cannot be blamed for their decisions to pay bribes it's so common they must do it OK strongly affirmed",
+            "maskedITN": "next let's think about whether individuals make their own decisions about whether to pay bribes or if they don't have a choice because it's part of the normal expected system so even though bribery is common each individual is responsible for their own decisions about whether or not to pay a bribe or individuals cannot be blamed for their decisions to pay bribes it's so common they must do it ok strongly affirmed",
+            "display": "Next, let's think about whether individuals make their own decisions about whether to pay bribes or if they don't have a choice because it's part of the normal, expected system. So even though bribery is common, each individual is responsible for their own decisions about whether or not to pay a bribe. Or individuals cannot be blamed for their decisions to pay bribes. It's so common they must do it. OK. Strongly affirmed."
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT3.67S",
+            "duration": "PT21.88S",
+            "offsetInTicks": 36700000.0,
+            "durationInTicks": 218800000.0,
+            "nBest": [
+                {
+                    "confidence": 0.89758617,
+                    "lexical": "next let's think about whether individuals make their own decisions about whether to pay bribes or if they don't have a choice because it's part of the normal expected system so even though bribery is common each individual is responsible for their own decisions about whether or not to pay a bribe or individuals cannot be blamed for their decisions to pay bribes it's so common they must do it",
+                    "itn": "next let's think about whether individuals make their own decisions about whether to pay bribes or if they don't have a choice because it's part of the normal expected system so even though bribery is common each individual is responsible for their own decisions about whether or not to pay a bribe or individuals cannot be blamed for their decisions to pay bribes it's so common they must do it",
+                    "maskedITN": "next let's think about whether individuals make their own decisions about whether to pay bribes or if they don't have a choice because it's part of the normal expected system so even though bribery is common each individual is responsible for their own decisions about whether or not to pay a bribe or individuals cannot be blamed for their decisions to pay bribes it's so common they must do it",
+                    "display": "Next, let's think about whether individuals make their own decisions about whether to pay bribes or if they don't have a choice because it's part of the normal, expected system. So even though bribery is common, each individual is responsible for their own decisions about whether or not to pay a bribe. Or individuals cannot be blamed for their decisions to pay bribes. It's so common they must do it."
+                },
+                {
+                    "confidence": 0.890863,
+                    "lexical": "next let's think about whether individuals make their own decisions about whether to pay bribes or if they don't have a choice because it's part of the normal expected system so even though bribery is common each individual is responsible for their own decisions about whether or not to pay a bribe or individual cannot be blamed for their decisions to pay bribes it's so common they must do it",
+                    "itn": "next let's think about whether individuals make their own decisions about whether to pay bribes or if they don't have a choice because it's part of the normal expected system so even though bribery is common each individual is responsible for their own decisions about whether or not to pay a bribe or individual cannot be blamed for their decisions to pay bribes it's so common they must do it",
+                    "maskedITN": "next let's think about whether individuals make their own decisions about whether to pay bribes or if they don't have a choice because it's part of the normal expected system so even though bribery is common each individual is responsible for their own decisions about whether or not to pay a bribe or individual cannot be blamed for their decisions to pay bribes it's so common they must do it",
+                    "display": "next let's think about whether individuals make their own decisions about whether to pay bribes or if they don't have a choice because it's part of the normal expected system so even though bribery is common each individual is responsible for their own decisions about whether or not to pay a bribe or individual cannot be blamed for their decisions to pay bribes it's so common they must do it"
+                },
+                {
+                    "confidence": 0.89167356,
+                    "lexical": "uh next let's think about whether individuals make their own decisions about whether to pay bribes or if they don't have a choice because it's part of the normal expected system so even though bribery is common each individual is responsible for their own decisions about whether or not to pay a bribe or individuals cannot be blamed for their decisions to pay bribes it's so common they must do it",
+                    "itn": "uh next let's think about whether individuals make their own decisions about whether to pay bribes or if they don't have a choice because it's part of the normal expected system so even though bribery is common each individual is responsible for their own decisions about whether or not to pay a bribe or individuals cannot be blamed for their decisions to pay bribes it's so common they must do it",
+                    "maskedITN": "uh next let's think about whether individuals make their own decisions about whether to pay bribes or if they don't have a choice because it's part of the normal expected system so even though bribery is common each individual is responsible for their own decisions about whether or not to pay a bribe or individuals cannot be blamed for their decisions to pay bribes it's so common they must do it",
+                    "display": "uh next let's think about whether individuals make their own decisions about whether to pay bribes or if they don't have a choice because it's part of the normal expected system so even though bribery is common each individual is responsible for their own decisions about whether or not to pay a bribe or individuals cannot be blamed for their decisions to pay bribes it's so common they must do it"
+                },
+                {
+                    "confidence": 0.8946948,
+                    "lexical": "next let's think about other individuals make their own decisions about whether to pay bribes or if they don't have a choice because it's part of the normal expected system so even though bribery is common each individual is responsible for their own decisions about whether or not to pay a bribe or individuals cannot be blamed for their decisions to pay bribes it's so common they must do it",
+                    "itn": "next let's think about other individuals make their own decisions about whether to pay bribes or if they don't have a choice because it's part of the normal expected system so even though bribery is common each individual is responsible for their own decisions about whether or not to pay a bribe or individuals cannot be blamed for their decisions to pay bribes it's so common they must do it",
+                    "maskedITN": "next let's think about other individuals make their own decisions about whether to pay bribes or if they don't have a choice because it's part of the normal expected system so even though bribery is common each individual is responsible for their own decisions about whether or not to pay a bribe or individuals cannot be blamed for their decisions to pay bribes it's so common they must do it",
+                    "display": "next let's think about other individuals make their own decisions about whether to pay bribes or if they don't have a choice because it's part of the normal expected system so even though bribery is common each individual is responsible for their own decisions about whether or not to pay a bribe or individuals cannot be blamed for their decisions to pay bribes it's so common they must do it"
+                },
+                {
+                    "confidence": 0.89738274,
+                    "lexical": "next let's think about whether individuals make their own decisions about whether to pay bribes or if they don't have a choice because it's part of the normal expected system so even though bribery is common in each individual is responsible for their own decisions about whether or not to pay a bribe or individuals cannot be blamed for their decisions to pay bribes it's so common they must do it",
+                    "itn": "next let's think about whether individuals make their own decisions about whether to pay bribes or if they don't have a choice because it's part of the normal expected system so even though bribery is common in each individual is responsible for their own decisions about whether or not to pay a bribe or individuals cannot be blamed for their decisions to pay bribes it's so common they must do it",
+                    "maskedITN": "next let's think about whether individuals make their own decisions about whether to pay bribes or if they don't have a choice because it's part of the normal expected system so even though bribery is common in each individual is responsible for their own decisions about whether or not to pay a bribe or individuals cannot be blamed for their decisions to pay bribes it's so common they must do it",
+                    "display": "next let's think about whether individuals make their own decisions about whether to pay bribes or if they don't have a choice because it's part of the normal expected system so even though bribery is common in each individual is responsible for their own decisions about whether or not to pay a bribe or individuals cannot be blamed for their decisions to pay bribes it's so common they must do it"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT26.9S",
+            "duration": "PT0.37S",
+            "offsetInTicks": 269000000.0,
+            "durationInTicks": 3700000.0,
+            "nBest": [
+                {
+                    "confidence": 0.6911069,
+                    "lexical": "OK",
+                    "itn": "OK",
+                    "maskedITN": "ok",
+                    "display": "OK."
+                },
+                {
+                    "confidence": 0.72973067,
+                    "lexical": "it's ok",
+                    "itn": "it's ok",
+                    "maskedITN": "it's ok",
+                    "display": "it's OK"
+                },
+                {
+                    "confidence": 0.30360937,
+                    "lexical": "okay",
+                    "itn": "okay",
+                    "maskedITN": "okay",
+                    "display": "okay"
+                },
+                {
+                    "confidence": 0.4547718,
+                    "lexical": "ok so",
+                    "itn": "ok so",
+                    "maskedITN": "ok so",
+                    "display": "OK so"
+                },
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT29.01S",
+            "duration": "PT0.93S",
+            "offsetInTicks": 290100000.0,
+            "durationInTicks": 9300000.0,
+            "nBest": [
+                {
+                    "confidence": 0.36449054,
+                    "lexical": "strongly affirmed",
+                    "itn": "strongly affirmed",
+                    "maskedITN": "strongly affirmed",
+                    "display": "Strongly affirmed."
+                },
+                {
+                    "confidence": 0.4112579,
+                    "lexical": "strongly affirming",
+                    "itn": "strongly affirming",
+                    "maskedITN": "strongly affirming",
+                    "display": "strongly affirming"
+                },
+                {
+                    "confidence": 0.56477547,
+                    "lexical": "strongly or famous",
+                    "itn": "strongly or famous",
+                    "maskedITN": "strongly or famous",
+                    "display": "strongly or famous"
+                },
+                {
+                    "confidence": 0.62566584,
+                    "lexical": "strongly or family",
+                    "itn": "strongly or family",
+                    "maskedITN": "strongly or family",
+                    "display": "strongly or family"
+                },
+                {
+                    "confidence": 0.50734115,
+                    "lexical": "strongly or families",
+                    "itn": "strongly or families",
+                    "maskedITN": "strongly or families",
+                    "display": "strongly or families"
+                }
+            ]
+        }
+    ]
+}

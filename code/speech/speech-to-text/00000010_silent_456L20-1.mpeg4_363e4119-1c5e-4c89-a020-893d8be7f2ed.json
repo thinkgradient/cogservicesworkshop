@@ -1,0 +1,332 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000010_silent_456L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:43:44Z",
+    "durationInTicks": 463200000,
+    "duration": "PT46.32S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "um route nine when a bribe is paid the citizen who pays normally benefits more B the official who received the payment normally benefits more you're getting on a apple anna coco in indianapolis yes the citizen who pays normally benefits more will an alpha and a benefit in your son B the official williana receive benefits so you somewhat are not strongly actually",
+            "itn": "um route 9 when a bribe is paid the citizen who pays normally benefits more B the official who received the payment normally benefits more you're getting on a apple anna coco in indianapolis yes the citizen who pays normally benefits more will an alpha and a benefit in your son B the official williana receive benefits so you somewhat are not strongly actually",
+            "maskedITN": "um route 9 when a bribe is paid the citizen who pays normally benefits more b the official who received the payment normally benefits more you're getting on a apple anna coco in indianapolis yes the citizen who pays normally benefits more will an alpha and a benefit in your son b the official williana receive benefits so you somewhat are not strongly actually",
+            "display": "Um Route 9, when a bribe is paid, the citizen who pays normally benefits more. B, The official who received the payment, normally benefits more. You're getting on a apple, Anna Coco. In Indianapolis. Yes, the citizen who pays normally benefits more. Will an alpha and a benefit in your son B, the official williana, receive benefits? So you somewhat are not strongly actually."
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT3.39S",
+            "duration": "PT11.75S",
+            "offsetInTicks": 33900000.0,
+            "durationInTicks": 117500000.0,
+            "nBest": [
+                {
+                    "confidence": 0.69624585,
+                    "lexical": "um route nine when a bribe is paid the citizen who pays normally benefits more B the official who received the payment normally benefits more",
+                    "itn": "um route 9 when a bribe is paid the citizen who pays normally benefits more B the official who received the payment normally benefits more",
+                    "maskedITN": "um route 9 when a bribe is paid the citizen who pays normally benefits more b the official who received the payment normally benefits more",
+                    "display": "Um Route 9, when a bribe is paid, the citizen who pays normally benefits more. B, The official who received the payment, normally benefits more."
+                },
+                {
+                    "confidence": 0.69373137,
+                    "lexical": "um route nine when a bridge is paid the citizen who pays normally benefits more b the official who received the payment normally benefits more",
+                    "itn": "um route nine when a bridge is paid the citizen who pays normally benefits more b the official who received the payment normally benefits more",
+                    "maskedITN": "um route nine when a bridge is paid the citizen who pays normally benefits more b the official who received the payment normally benefits more",
+                    "display": "um route nine when a bridge is paid the citizen who pays normally benefits more B the official who received the payment normally benefits more"
+                },
+                {
+                    "confidence": 0.6804495,
+                    "lexical": "um route nine when a brebis paid the citizen who pays normally benefits more b the official who received the payment normally benefits more",
+                    "itn": "um route nine when a brebis paid the citizen who pays normally benefits more b the official who received the payment normally benefits more",
+                    "maskedITN": "um route nine when a brebis paid the citizen who pays normally benefits more b the official who received the payment normally benefits more",
+                    "display": "um route nine when a brebis paid the citizen who pays normally benefits more B the official who received the payment normally benefits more"
+                },
+                {
+                    "confidence": 0.69466895,
+                    "lexical": "um route nine when a brand is paid the citizen who pays normally benefits more b the official who received the payment normally benefits more",
+                    "itn": "um route nine when a brand is paid the citizen who pays normally benefits more b the official who received the payment normally benefits more",
+                    "maskedITN": "um route nine when a brand is paid the citizen who pays normally benefits more b the official who received the payment normally benefits more",
+                    "display": "um route nine when a brand is paid the citizen who pays normally benefits more B the official who received the payment normally benefits more"
+                },
+                {
+                    "confidence": 0.68411946,
+                    "lexical": "um route nine when a bribes paid the citizen who pays normally benefits more b the official who received the payment normally benefits more",
+                    "itn": "um route nine when a bribes paid the citizen who pays normally benefits more b the official who received the payment normally benefits more",
+                    "maskedITN": "um route nine when a bribes paid the citizen who pays normally benefits more b the official who received the payment normally benefits more",
+                    "display": "um route nine when a bribes paid the citizen who pays normally benefits more B the official who received the payment normally benefits more"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT15.8S",
+            "duration": "PT2.41S",
+            "offsetInTicks": 158000000.0,
+            "durationInTicks": 24100000.0,
+            "nBest": [
+                {
+                    "confidence": 0.5561426,
+                    "lexical": "you're getting on a apple anna coco",
+                    "itn": "you're getting on a apple anna coco",
+                    "maskedITN": "you're getting on a apple anna coco",
+                    "display": "You're getting on a apple, Anna Coco."
+                },
+                {
+                    "confidence": 0.578558,
+                    "lexical": "i'm getting on a apple anna coco",
+                    "itn": "i'm getting on a apple anna coco",
+                    "maskedITN": "i'm getting on a apple anna coco",
+                    "display": "i'm getting on a apple anna coco"
+                },
+                {
+                    "confidence": 0.55549204,
+                    "lexical": "i'm getting on a apple inner coco",
+                    "itn": "i'm getting on a apple inner coco",
+                    "maskedITN": "i'm getting on a apple inner coco",
+                    "display": "i'm getting on a apple inner coco"
+                },
+                {
+                    "confidence": 0.5598352,
+                    "lexical": "you're getting on a apple ina coco",
+                    "itn": "you're getting on a apple ina coco",
+                    "maskedITN": "you're getting on a apple ina coco",
+                    "display": "you're getting on a apple ina coco"
+                },
+                {
+                    "confidence": 0.582548,
+                    "lexical": "i'm getting on a apple ina coco",
+                    "itn": "i'm getting on a apple ina coco",
+                    "maskedITN": "i'm getting on a apple ina coco",
+                    "display": "i'm getting on a apple ina coco"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT19.08S",
+            "duration": "PT0.98S",
+            "offsetInTicks": 190800000.0,
+            "durationInTicks": 9800000.0,
+            "nBest": [
+                {
+                    "confidence": 0.20780787,
+                    "lexical": "in indianapolis",
+                    "itn": "in indianapolis",
+                    "maskedITN": "in indianapolis",
+                    "display": "In Indianapolis."
+                },
+                {
+                    "confidence": 0.45198306,
+                    "lexical": "in indiana harris",
+                    "itn": "in indiana harris",
+                    "maskedITN": "in indiana harris",
+                    "display": "in indiana harris"
+                },
+                {
+                    "confidence": 0.63306534,
+                    "lexical": "in indiana",
+                    "itn": "in indiana",
+                    "maskedITN": "in indiana",
+                    "display": "in indiana"
+                },
+                {
+                    "confidence": 0.39283267,
+                    "lexical": "in indiana area",
+                    "itn": "in indiana area",
+                    "maskedITN": "in indiana area",
+                    "display": "in indiana area"
+                },
+                {
+                    "confidence": 0.5685726,
+                    "lexical": "in indiana how are you",
+                    "itn": "in indiana how are you",
+                    "maskedITN": "in indiana how are you",
+                    "display": "in indiana how are you"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT23.44S",
+            "duration": "PT2.87S",
+            "offsetInTicks": 234400000.0,
+            "durationInTicks": 28700000.0,
+            "nBest": [
+                {
+                    "confidence": 0.7211442,
+                    "lexical": "yes the citizen who pays normally benefits more",
+                    "itn": "yes the citizen who pays normally benefits more",
+                    "maskedITN": "yes the citizen who pays normally benefits more",
+                    "display": "Yes, the citizen who pays normally benefits more."
+                },
+                {
+                    "confidence": 0.68862486,
+                    "lexical": "is the citizen who pays normally benefits more",
+                    "itn": "is the citizen who pays normally benefits more",
+                    "maskedITN": "is the citizen who pays normally benefits more",
+                    "display": "is the citizen who pays normally benefits more"
+                },
+                {
+                    "confidence": 0.6851691,
+                    "lexical": "if the citizen who pays normally benefits more",
+                    "itn": "if the citizen who pays normally benefits more",
+                    "maskedITN": "if the citizen who pays normally benefits more",
+                    "display": "if the citizen who pays normally benefits more"
+                },
+                {
+                    "confidence": 0.65942556,
+                    "lexical": "it's the citizen who pays normally benefits more",
+                    "itn": "it's the citizen who pays normally benefits more",
+                    "maskedITN": "it's the citizen who pays normally benefits more",
+                    "display": "it's the citizen who pays normally benefits more"
+                },
+                {
+                    "confidence": 0.7945035,
+                    "lexical": "the citizen who pays normally benefits more",
+                    "itn": "the citizen who pays normally benefits more",
+                    "maskedITN": "the citizen who pays normally benefits more",
+                    "display": "the citizen who pays normally benefits more"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT27.03S",
+            "duration": "PT5.81S",
+            "offsetInTicks": 270300000.0,
+            "durationInTicks": 58100000.0,
+            "nBest": [
+                {
+                    "confidence": 0.6247107,
+                    "lexical": "will an alpha and a benefit in your son B the official williana receive benefits",
+                    "itn": "will an alpha and a benefit in your son B the official williana receive benefits",
+                    "maskedITN": "will an alpha and a benefit in your son b the official williana receive benefits",
+                    "display": "Will an alpha and a benefit in your son B, the official williana, receive benefits?"
+                },
+                {
+                    "confidence": 0.61538374,
+                    "lexical": "will an alpha and a benefit in your sona b the official williana receive benefits",
+                    "itn": "will an alpha and a benefit in your sona b the official williana receive benefits",
+                    "maskedITN": "will an alpha and a benefit in your sona b the official williana receive benefits",
+                    "display": "will an alpha and a benefit in your sona B the official williana receive benefits"
+                },
+                {
+                    "confidence": 0.5966955,
+                    "lexical": "will an alpha and a benefit in your son 's b the official williana receive benefits",
+                    "itn": "will an alpha and a benefit in your son 's b the official williana receive benefits",
+                    "maskedITN": "will an alpha and a benefit in your son 's b the official williana receive benefits",
+                    "display": "will an alpha and a benefit in your son 's B the official williana receive benefits"
+                },
+                {
+                    "confidence": 0.6227304,
+                    "lexical": "will an alpha and a benefit on your son b the official williana receive benefits",
+                    "itn": "will an alpha and a benefit on your son b the official williana receive benefits",
+                    "maskedITN": "will an alpha and a benefit on your son b the official williana receive benefits",
+                    "display": "will an alpha and a benefit on your son B the official williana receive benefits"
+                },
+                {
+                    "confidence": 0.61262095,
+                    "lexical": "will an alpha and a benefit in your sauna b the official williana receive benefits",
+                    "itn": "will an alpha and a benefit in your sauna b the official williana receive benefits",
+                    "maskedITN": "will an alpha and a benefit in your sauna b the official williana receive benefits",
+                    "display": "will an alpha and a benefit in your sauna B the official williana receive benefits"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT41.47S",
+            "duration": "PT2.25S",
+            "offsetInTicks": 414700000.0,
+            "durationInTicks": 22500000.0,
+            "nBest": [
+                {
+                    "confidence": 0.59496135,
+                    "lexical": "so you somewhat are not strongly actually",
+                    "itn": "so you somewhat are not strongly actually",
+                    "maskedITN": "so you somewhat are not strongly actually",
+                    "display": "So you somewhat are not strongly actually."
+                },
+                {
+                    "confidence": 0.48169962,
+                    "lexical": "so you somewhat are not strongly",
+                    "itn": "so you somewhat are not strongly",
+                    "maskedITN": "so you somewhat are not strongly",
+                    "display": "so you somewhat are not strongly"
+                },
+                {
+                    "confidence": 0.6236638,
+                    "lexical": "so you somewhat are not strongly agree",
+                    "itn": "so you somewhat are not strongly agree",
+                    "maskedITN": "so you somewhat are not strongly agree",
+                    "display": "so you somewhat are not strongly agree"
+                },
+                {
+                    "confidence": 0.47572798,
+                    "lexical": "so you someone are not strongly",
+                    "itn": "so you someone are not strongly",
+                    "maskedITN": "so you someone are not strongly",
+                    "display": "so you someone are not strongly"
+                },
+                {
+                    "confidence": 0.61755323,
+                    "lexical": "so you someone are not strongly agree",
+                    "itn": "so you someone are not strongly agree",
+                    "maskedITN": "so you someone are not strongly agree",
+                    "display": "so you someone are not strongly agree"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT45.1S",
+            "duration": "PT1.22S",
+            "offsetInTicks": 451000000.0,
+            "durationInTicks": 12200000.0,
+            "nBest": [
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.50707185,
+                    "lexical": "no",
+                    "itn": "no",
+                    "maskedITN": "no",
+                    "display": "no"
+                },
+                {
+                    "confidence": 0.50609404,
+                    "lexical": "so",
+                    "itn": "so",
+                    "maskedITN": "so",
+                    "display": "so"
+                },
+                {
+                    "confidence": 0.40509608,
+                    "lexical": "yes",
+                    "itn": "yes",
+                    "maskedITN": "yes",
+                    "display": "yes"
+                },
+                {
+                    "confidence": 0.34281692,
+                    "lexical": "yeah",
+                    "itn": "yeah",
+                    "maskedITN": "yeah",
+                    "display": "yeah"
+                }
+            ]
+        }
+    ]
+}

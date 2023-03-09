@@ -1,0 +1,107 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000013_silent_424L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:43:44Z",
+    "durationInTicks": 167600000,
+    "duration": "PT16.76S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "do you think it is OK for citizens to pay drive when it helps them with their own personal problem and it is not OK for citizens to pay for other people and society strongly agree so much",
+            "itn": "do you think it is OK for citizens to pay drive when it helps them with their own personal problem and it is not OK for citizens to pay for other people and society strongly agree so much",
+            "maskedITN": "do you think it is ok for citizens to pay drive when it helps them with their own personal problem and it is not ok for citizens to pay for other people and society strongly agree so much",
+            "display": "Do you think it is OK for citizens to pay drive when it helps them with their own personal problem and it is not OK for citizens to pay for other people and society strongly agree so much?"
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT3.03S",
+            "duration": "PT12.07S",
+            "offsetInTicks": 30300000.0,
+            "durationInTicks": 120700000.0,
+            "nBest": [
+                {
+                    "confidence": 0.7330268,
+                    "lexical": "do you think it is OK for citizens to pay drive when it helps them with their own personal problem and it is not OK for citizens to pay for other people and society strongly agree so much",
+                    "itn": "do you think it is OK for citizens to pay drive when it helps them with their own personal problem and it is not OK for citizens to pay for other people and society strongly agree so much",
+                    "maskedITN": "do you think it is ok for citizens to pay drive when it helps them with their own personal problem and it is not ok for citizens to pay for other people and society strongly agree so much",
+                    "display": "Do you think it is OK for citizens to pay drive when it helps them with their own personal problem and it is not OK for citizens to pay for other people and society strongly agree so much?"
+                },
+                {
+                    "confidence": 0.73717296,
+                    "lexical": "do you think it is ok for citizens to pay drive when it helps them with their own personal problem and it is not ok for citizens to pay for other people that society strongly agree so much",
+                    "itn": "do you think it is ok for citizens to pay drive when it helps them with their own personal problem and it is not ok for citizens to pay for other people that society strongly agree so much",
+                    "maskedITN": "do you think it is ok for citizens to pay drive when it helps them with their own personal problem and it is not ok for citizens to pay for other people that society strongly agree so much",
+                    "display": "do you think it is OK for citizens to pay drive when it helps them with their own personal problem and it is not OK for citizens to pay for other people that society strongly agree so much"
+                },
+                {
+                    "confidence": 0.7313197,
+                    "lexical": "do you think it is ok for citizens to pay drive when it helps them with their own personal problem and it is not ok for citizens to pay for other people that society strongly agree somewhat",
+                    "itn": "do you think it is ok for citizens to pay drive when it helps them with their own personal problem and it is not ok for citizens to pay for other people that society strongly agree somewhat",
+                    "maskedITN": "do you think it is ok for citizens to pay drive when it helps them with their own personal problem and it is not ok for citizens to pay for other people that society strongly agree somewhat",
+                    "display": "do you think it is OK for citizens to pay drive when it helps them with their own personal problem and it is not OK for citizens to pay for other people that society strongly agree somewhat"
+                },
+                {
+                    "confidence": 0.7271177,
+                    "lexical": "do you think it is ok for citizens to pay drive when it helps them with their own personal problem and it is not ok for citizens to pay for other people and society strongly agree somewhat",
+                    "itn": "do you think it is ok for citizens to pay drive when it helps them with their own personal problem and it is not ok for citizens to pay for other people and society strongly agree somewhat",
+                    "maskedITN": "do you think it is ok for citizens to pay drive when it helps them with their own personal problem and it is not ok for citizens to pay for other people and society strongly agree somewhat",
+                    "display": "do you think it is OK for citizens to pay drive when it helps them with their own personal problem and it is not OK for citizens to pay for other people and society strongly agree somewhat"
+                },
+                {
+                    "confidence": 0.73417604,
+                    "lexical": "do you think it is ok for citizens to pay drive when it helps them with their own personal problem and it is not ok for citizens to pay for other people and society strongly agree or somewhat",
+                    "itn": "do you think it is ok for citizens to pay drive when it helps them with their own personal problem and it is not ok for citizens to pay for other people and society strongly agree or somewhat",
+                    "maskedITN": "do you think it is ok for citizens to pay drive when it helps them with their own personal problem and it is not ok for citizens to pay for other people and society strongly agree or somewhat",
+                    "display": "do you think it is OK for citizens to pay drive when it helps them with their own personal problem and it is not OK for citizens to pay for other people and society strongly agree or somewhat"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT16.59S",
+            "duration": "PT0.17S",
+            "offsetInTicks": 165900000.0,
+            "durationInTicks": 1700000.0,
+            "nBest": [
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.7088908,
+                    "lexical": "no",
+                    "itn": "no",
+                    "maskedITN": "no",
+                    "display": "no"
+                },
+                {
+                    "confidence": 0.57385606,
+                    "lexical": "and",
+                    "itn": "and",
+                    "maskedITN": "and",
+                    "display": "and"
+                },
+                {
+                    "confidence": 0.5352042,
+                    "lexical": "yes",
+                    "itn": "yes",
+                    "maskedITN": "yes",
+                    "display": "yes"
+                },
+                {
+                    "confidence": 0.54111296,
+                    "lexical": "yep",
+                    "itn": "yep",
+                    "maskedITN": "yep",
+                    "display": "yep"
+                }
+            ]
+        }
+    ]
+}

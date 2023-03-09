@@ -1,0 +1,107 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000002_silent_424L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:43:05Z",
+    "durationInTicks": 205600000,
+    "duration": "PT20.56S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "and do you think it is OK for citizen to pay bribe when it's help them with their own personal problem or it is not OK for citizen to pay bribe because it has other people it is OK",
+            "itn": "and do you think it is OK for citizen to pay bribe when it's help them with their own personal problem or it is not OK for citizen to pay bribe because it has other people it is OK",
+            "maskedITN": "and do you think it is ok for citizen to pay bribe when it's help them with their own personal problem or it is not ok for citizen to pay bribe because it has other people it is ok",
+            "display": "And do you think it is OK for citizen to pay bribe when it's help them with their own personal problem? Or it is not OK for citizen to pay bribe because it has other people? It is OK."
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT3.61S",
+            "duration": "PT12.39S",
+            "offsetInTicks": 36100000.0,
+            "durationInTicks": 123900000.0,
+            "nBest": [
+                {
+                    "confidence": 0.86271906,
+                    "lexical": "and do you think it is OK for citizen to pay bribe when it's help them with their own personal problem or it is not OK for citizen to pay bribe because it has other people",
+                    "itn": "and do you think it is OK for citizen to pay bribe when it's help them with their own personal problem or it is not OK for citizen to pay bribe because it has other people",
+                    "maskedITN": "and do you think it is ok for citizen to pay bribe when it's help them with their own personal problem or it is not ok for citizen to pay bribe because it has other people",
+                    "display": "And do you think it is OK for citizen to pay bribe when it's help them with their own personal problem? Or it is not OK for citizen to pay bribe because it has other people?"
+                },
+                {
+                    "confidence": 0.8406886,
+                    "lexical": "and do you think if it is ok for citizen to pay bribe when it's help them with their own personal problem or it is not ok for citizen to pay bribe because it has other people",
+                    "itn": "and do you think if it is ok for citizen to pay bribe when it's help them with their own personal problem or it is not ok for citizen to pay bribe because it has other people",
+                    "maskedITN": "and do you think if it is ok for citizen to pay bribe when it's help them with their own personal problem or it is not ok for citizen to pay bribe because it has other people",
+                    "display": "and do you think if it is OK for citizen to pay bribe when it's help them with their own personal problem or it is not OK for citizen to pay bribe because it has other people"
+                },
+                {
+                    "confidence": 0.85575503,
+                    "lexical": "and do you think it is ok for citizen to pay bribe when it's helped them with their own personal problem or it is not ok for citizen to pay bribe because it has other people",
+                    "itn": "and do you think it is ok for citizen to pay bribe when it's helped them with their own personal problem or it is not ok for citizen to pay bribe because it has other people",
+                    "maskedITN": "and do you think it is ok for citizen to pay bribe when it's helped them with their own personal problem or it is not ok for citizen to pay bribe because it has other people",
+                    "display": "and do you think it is OK for citizen to pay bribe when it's helped them with their own personal problem or it is not OK for citizen to pay bribe because it has other people"
+                },
+                {
+                    "confidence": 0.879086,
+                    "lexical": "and do you think it is ok for citizen to pay a bribe when it's help them with their own personal problem or it is not ok for citizen to pay bribe because it has other people",
+                    "itn": "and do you think it is ok for citizen to pay a bribe when it's help them with their own personal problem or it is not ok for citizen to pay bribe because it has other people",
+                    "maskedITN": "and do you think it is ok for citizen to pay a bribe when it's help them with their own personal problem or it is not ok for citizen to pay bribe because it has other people",
+                    "display": "and do you think it is OK for citizen to pay a bribe when it's help them with their own personal problem or it is not OK for citizen to pay bribe because it has other people"
+                },
+                {
+                    "confidence": 0.83400977,
+                    "lexical": "and do you think if it is ok for citizen to pay bribe when it's helped them with their own personal problem or it is not ok for citizen to pay bribe because it has other people",
+                    "itn": "and do you think if it is ok for citizen to pay bribe when it's helped them with their own personal problem or it is not ok for citizen to pay bribe because it has other people",
+                    "maskedITN": "and do you think if it is ok for citizen to pay bribe when it's helped them with their own personal problem or it is not ok for citizen to pay bribe because it has other people",
+                    "display": "and do you think if it is OK for citizen to pay bribe when it's helped them with their own personal problem or it is not OK for citizen to pay bribe because it has other people"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT19.22S",
+            "duration": "PT1.11S",
+            "offsetInTicks": 192200000.0,
+            "durationInTicks": 11100000.0,
+            "nBest": [
+                {
+                    "confidence": 0.90541893,
+                    "lexical": "it is OK",
+                    "itn": "it is OK",
+                    "maskedITN": "it is ok",
+                    "display": "It is OK."
+                },
+                {
+                    "confidence": 0.77129525,
+                    "lexical": "eight is ok",
+                    "itn": "eight is ok",
+                    "maskedITN": "eight is ok",
+                    "display": "eight is OK"
+                },
+                {
+                    "confidence": 0.8584237,
+                    "lexical": "no it is ok",
+                    "itn": "no it is ok",
+                    "maskedITN": "no it is ok",
+                    "display": "no it is OK"
+                },
+                {
+                    "confidence": 0.67413867,
+                    "lexical": "it is okay",
+                    "itn": "it is okay",
+                    "maskedITN": "it is okay",
+                    "display": "it is okay"
+                },
+                {
+                    "confidence": 0.8604454,
+                    "lexical": "if it is ok",
+                    "itn": "if it is ok",
+                    "maskedITN": "if it is ok",
+                    "display": "if it is OK"
+                }
+            ]
+        }
+    ]
+}

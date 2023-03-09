@@ -1,0 +1,737 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000001_silent_485L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:43:27Z",
+    "durationInTicks": 755400000,
+    "duration": "PT1M15.54S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "yeah wow didn't you know you know doctor no are you playing but you do what you gotta do i am next let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it is part of the normal expected system style giving us but this is the new lease anyway my OK is there no bribery is common each individual is responsible for their own decision about whether or not to pay a bribe i'm a bit individuals cannot be blamed because it is so common they must must be blamed yeah they hold women to correspond so OK OK it's your choice so strongly agree with that much comma",
+            "itn": "yeah wow didn't you know you know doctor no are you playing but you do what you gotta do i am next let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it is part of the normal expected system style giving us but this is the new lease anyway my OK is there no bribery is common each individual is responsible for their own decision about whether or not to pay a bribe i'm a bit individuals cannot be blamed because it is so common they must must be blamed yeah they hold women to correspond so OK OK it's your choice so strongly agree with that much comma",
+            "maskedITN": "yeah wow didn't you know you know doctor no are you playing but you do what you gotta do i am next let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it is part of the normal expected system style giving us but this is the new lease anyway my ok is there no bribery is common each individual is responsible for their own decision about whether or not to pay a bribe i'm a bit individuals cannot be blamed because it is so common they must must be blamed yeah they hold women to correspond so ok ok it's your choice so strongly agree with that much comma",
+            "display": "Yeah, wow. Didn't you know? You know? Doctor. No. Are you playing? But you do what you gotta do. I am next. Let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it is part of the normal, expected system style. Giving us. But this is the new lease. Anyway, my. OK, is there no. Bribery is common. Each individual is responsible for their own decision about whether or not to pay a bribe. I'm a bit individuals cannot be blamed because it is so common. They must. Must be blamed. Yeah, they hold women to correspond so. OK. OK, it's your choice. So strongly agree with that much. Comma."
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT0.1S",
+            "duration": "PT1.31S",
+            "offsetInTicks": 1000000.0,
+            "durationInTicks": 13100000.0,
+            "nBest": [
+                {
+                    "confidence": 0.13140273,
+                    "lexical": "yeah wow",
+                    "itn": "yeah wow",
+                    "maskedITN": "yeah wow",
+                    "display": "Yeah, wow."
+                },
+                {
+                    "confidence": 0.17497975,
+                    "lexical": "wow",
+                    "itn": "wow",
+                    "maskedITN": "wow",
+                    "display": "wow"
+                },
+                {
+                    "confidence": 0.00753209,
+                    "lexical": "yeah",
+                    "itn": "yeah",
+                    "maskedITN": "yeah",
+                    "display": "yeah"
+                },
+                {
+                    "confidence": 0.11527906,
+                    "lexical": "yeah yeah",
+                    "itn": "yeah yeah",
+                    "maskedITN": "yeah yeah",
+                    "display": "yeah yeah"
+                },
+                {
+                    "confidence": 0.16645218,
+                    "lexical": "yeah yeah yeah",
+                    "itn": "yeah yeah yeah",
+                    "maskedITN": "yeah yeah yeah",
+                    "display": "yeah yeah yeah"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT2.99S",
+            "duration": "PT1.2S",
+            "offsetInTicks": 29900000.0,
+            "durationInTicks": 12000000.0,
+            "nBest": [
+                {
+                    "confidence": 0.5104259,
+                    "lexical": "didn't you know you know",
+                    "itn": "didn't you know you know",
+                    "maskedITN": "didn't you know you know",
+                    "display": "Didn't you know? You know?"
+                },
+                {
+                    "confidence": 0.48968115,
+                    "lexical": "didn't you know",
+                    "itn": "didn't you know",
+                    "maskedITN": "didn't you know",
+                    "display": "didn't you know"
+                },
+                {
+                    "confidence": 0.40565598,
+                    "lexical": "you know you know",
+                    "itn": "you know you know",
+                    "maskedITN": "you know you know",
+                    "display": "you know you know"
+                },
+                {
+                    "confidence": 0.46930647,
+                    "lexical": "giving you know you know",
+                    "itn": "giving you know you know",
+                    "maskedITN": "giving you know you know",
+                    "display": "giving you know you know"
+                },
+                {
+                    "confidence": 0.52778256,
+                    "lexical": "did you know you know",
+                    "itn": "did you know you know",
+                    "maskedITN": "did you know you know",
+                    "display": "did you know you know"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT5.73S",
+            "duration": "PT0.5S",
+            "offsetInTicks": 57300000.0,
+            "durationInTicks": 5000000.0,
+            "nBest": [
+                {
+                    "confidence": 0.1503968,
+                    "lexical": "doctor",
+                    "itn": "doctor",
+                    "maskedITN": "doctor",
+                    "display": "Doctor."
+                },
+                {
+                    "confidence": 0.06992623,
+                    "lexical": "rockville",
+                    "itn": "rockville",
+                    "maskedITN": "rockville",
+                    "display": "rockville"
+                },
+                {
+                    "confidence": 0.057231575,
+                    "lexical": "doctors",
+                    "itn": "doctors",
+                    "maskedITN": "doctors",
+                    "display": "doctors"
+                },
+                {
+                    "confidence": 0.4022221,
+                    "lexical": "block",
+                    "itn": "block",
+                    "maskedITN": "block",
+                    "display": "block"
+                },
+                {
+                    "confidence": 0.055773377,
+                    "lexical": "ok",
+                    "itn": "ok",
+                    "maskedITN": "ok",
+                    "display": "OK"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT9.43S",
+            "duration": "PT0.47S",
+            "offsetInTicks": 94300000.0,
+            "durationInTicks": 4700000.0,
+            "nBest": [
+                {
+                    "confidence": 0.6874808,
+                    "lexical": "no",
+                    "itn": "no",
+                    "maskedITN": "no",
+                    "display": "No."
+                },
+                {
+                    "confidence": 0.60894066,
+                    "lexical": "no because",
+                    "itn": "no because",
+                    "maskedITN": "no because",
+                    "display": "no because"
+                },
+                {
+                    "confidence": 0.23857762,
+                    "lexical": "yeah no",
+                    "itn": "yeah no",
+                    "maskedITN": "yeah no",
+                    "display": "yeah no"
+                },
+                {
+                    "confidence": 0.6010033,
+                    "lexical": "no why",
+                    "itn": "no why",
+                    "maskedITN": "no why",
+                    "display": "no why"
+                },
+                {
+                    "confidence": 0.50026816,
+                    "lexical": "what about you",
+                    "itn": "what about you",
+                    "maskedITN": "what about you",
+                    "display": "what about you"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT11.48S",
+            "duration": "PT0.54S",
+            "offsetInTicks": 114800000.0,
+            "durationInTicks": 5400000.0,
+            "nBest": [
+                {
+                    "confidence": 0.6642778,
+                    "lexical": "are you playing",
+                    "itn": "are you playing",
+                    "maskedITN": "are you playing",
+                    "display": "Are you playing?"
+                },
+                {
+                    "confidence": 0.68611157,
+                    "lexical": "are you paying",
+                    "itn": "are you paying",
+                    "maskedITN": "are you paying",
+                    "display": "are you paying"
+                },
+                {
+                    "confidence": 0.7165011,
+                    "lexical": "are you playing with",
+                    "itn": "are you playing with",
+                    "maskedITN": "are you playing with",
+                    "display": "are you playing with"
+                },
+                {
+                    "confidence": 0.62094676,
+                    "lexical": "have you been there",
+                    "itn": "have you been there",
+                    "maskedITN": "have you been there",
+                    "display": "have you been there"
+                },
+                {
+                    "confidence": 0.6659664,
+                    "lexical": "have you been",
+                    "itn": "have you been",
+                    "maskedITN": "have you been",
+                    "display": "have you been"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT16.25S",
+            "duration": "PT2.84S",
+            "offsetInTicks": 162500000.0,
+            "durationInTicks": 28400000.0,
+            "nBest": [
+                {
+                    "confidence": 0.74667126,
+                    "lexical": "but you do what you gotta do",
+                    "itn": "but you do what you gotta do",
+                    "maskedITN": "but you do what you gotta do",
+                    "display": "But you do what you gotta do."
+                },
+                {
+                    "confidence": 0.7672876,
+                    "lexical": "you do what you gotta do",
+                    "itn": "you do what you gotta do",
+                    "maskedITN": "you do what you gotta do",
+                    "display": "you do what you gotta do"
+                },
+                {
+                    "confidence": 0.6957788,
+                    "lexical": "but you do what you gonna do",
+                    "itn": "but you do what you gonna do",
+                    "maskedITN": "but you do what you gonna do",
+                    "display": "but you do what you gonna do"
+                },
+                {
+                    "confidence": 0.68147844,
+                    "lexical": "as in but you do what you gotta do",
+                    "itn": "as in but you do what you gotta do",
+                    "maskedITN": "as in but you do what you gotta do",
+                    "display": "as in but you do what you gotta do"
+                },
+                {
+                    "confidence": 0.6660558,
+                    "lexical": "thank you but you do what you gotta do",
+                    "itn": "thank you but you do what you gotta do",
+                    "maskedITN": "thank you but you do what you gotta do",
+                    "display": "thank you but you do what you gotta do"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT20.2S",
+            "duration": "PT12.43S",
+            "offsetInTicks": 202000000.0,
+            "durationInTicks": 124300000.0,
+            "nBest": [
+                {
+                    "confidence": 0.8304688,
+                    "lexical": "i am next let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it is part of the normal expected system style",
+                    "itn": "i am next let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it is part of the normal expected system style",
+                    "maskedITN": "i am next let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it is part of the normal expected system style",
+                    "display": "I am next. Let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it is part of the normal, expected system style."
+                },
+                {
+                    "confidence": 0.8684268,
+                    "lexical": "i am next let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it is part of the normal expected style",
+                    "itn": "i am next let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it is part of the normal expected style",
+                    "maskedITN": "i am next let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it is part of the normal expected style",
+                    "display": "i am next let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it is part of the normal expected style"
+                },
+                {
+                    "confidence": 0.8365439,
+                    "lexical": "i am next let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it is part of the normal expected system so",
+                    "itn": "i am next let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it is part of the normal expected system so",
+                    "maskedITN": "i am next let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it is part of the normal expected system so",
+                    "display": "i am next let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it is part of the normal expected system so"
+                },
+                {
+                    "confidence": 0.8918254,
+                    "lexical": "i am next let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it is part of the normal expected",
+                    "itn": "i am next let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it is part of the normal expected",
+                    "maskedITN": "i am next let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it is part of the normal expected",
+                    "display": "i am next let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it is part of the normal expected"
+                },
+                {
+                    "confidence": 0.8736316,
+                    "lexical": "i am next let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it is part of the normal expected so",
+                    "itn": "i am next let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it is part of the normal expected so",
+                    "maskedITN": "i am next let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it is part of the normal expected so",
+                    "display": "i am next let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it is part of the normal expected so"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT34.61S",
+            "duration": "PT0.51S",
+            "offsetInTicks": 346100000.0,
+            "durationInTicks": 5100000.0,
+            "nBest": [
+                {
+                    "confidence": 0.48816985,
+                    "lexical": "giving us",
+                    "itn": "giving us",
+                    "maskedITN": "giving us",
+                    "display": "Giving us."
+                },
+                {
+                    "confidence": 0.5329588,
+                    "lexical": "any given",
+                    "itn": "any given",
+                    "maskedITN": "any given",
+                    "display": "any given"
+                },
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.49025747,
+                    "lexical": "any given us",
+                    "itn": "any given us",
+                    "maskedITN": "any given us",
+                    "display": "any given us"
+                },
+                {
+                    "confidence": 0.41393295,
+                    "lexical": "giving",
+                    "itn": "giving",
+                    "maskedITN": "giving",
+                    "display": "giving"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT36.89S",
+            "duration": "PT1.88S",
+            "offsetInTicks": 368900000.0,
+            "durationInTicks": 18800000.0,
+            "nBest": [
+                {
+                    "confidence": 0.75594705,
+                    "lexical": "but this is the new lease",
+                    "itn": "but this is the new lease",
+                    "maskedITN": "but this is the new lease",
+                    "display": "But this is the new lease."
+                },
+                {
+                    "confidence": 0.69333184,
+                    "lexical": "but this is good news",
+                    "itn": "but this is good news",
+                    "maskedITN": "but this is good news",
+                    "display": "but this is good news"
+                },
+                {
+                    "confidence": 0.82369494,
+                    "lexical": "but this is the new",
+                    "itn": "but this is the new",
+                    "maskedITN": "but this is the new",
+                    "display": "but this is the new"
+                },
+                {
+                    "confidence": 0.8359408,
+                    "lexical": "but this is the",
+                    "itn": "but this is the",
+                    "maskedITN": "but this is the",
+                    "display": "but this is the"
+                },
+                {
+                    "confidence": 0.83228797,
+                    "lexical": "but this is",
+                    "itn": "but this is",
+                    "maskedITN": "but this is",
+                    "display": "but this is"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT40.44S",
+            "duration": "PT1.19S",
+            "offsetInTicks": 404400000.0,
+            "durationInTicks": 11900000.0,
+            "nBest": [
+                {
+                    "confidence": 0.811072,
+                    "lexical": "anyway my",
+                    "itn": "anyway my",
+                    "maskedITN": "anyway my",
+                    "display": "Anyway, my."
+                },
+                {
+                    "confidence": 0.7241625,
+                    "lexical": "anyway like",
+                    "itn": "anyway like",
+                    "maskedITN": "anyway like",
+                    "display": "anyway like"
+                },
+                {
+                    "confidence": 0.87173164,
+                    "lexical": "anyway",
+                    "itn": "anyway",
+                    "maskedITN": "anyway",
+                    "display": "anyway"
+                },
+                {
+                    "confidence": 0.6034969,
+                    "lexical": "anyway my gani",
+                    "itn": "anyway my gani",
+                    "maskedITN": "anyway my gani",
+                    "display": "anyway my gani"
+                },
+                {
+                    "confidence": 0.5593563,
+                    "lexical": "anyway my magani",
+                    "itn": "anyway my magani",
+                    "maskedITN": "anyway my magani",
+                    "display": "anyway my magani"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT43.17S",
+            "duration": "PT11.6S",
+            "offsetInTicks": 431700000.0,
+            "durationInTicks": 116000000.0,
+            "nBest": [
+                {
+                    "confidence": 0.8308232,
+                    "lexical": "OK is there no bribery is common each individual is responsible for their own decision about whether or not to pay a bribe i'm a bit individuals cannot be blamed because it is so common they must",
+                    "itn": "OK is there no bribery is common each individual is responsible for their own decision about whether or not to pay a bribe i'm a bit individuals cannot be blamed because it is so common they must",
+                    "maskedITN": "ok is there no bribery is common each individual is responsible for their own decision about whether or not to pay a bribe i'm a bit individuals cannot be blamed because it is so common they must",
+                    "display": "OK, is there no. Bribery is common. Each individual is responsible for their own decision about whether or not to pay a bribe. I'm a bit individuals cannot be blamed because it is so common. They must."
+                },
+                {
+                    "confidence": 0.78464806,
+                    "lexical": "ok in the know bribery is common each individual is responsible for their own decision about whether or not to pay a bribe i'm a bit individuals cannot be blamed for sabu it is so common they must",
+                    "itn": "ok in the know bribery is common each individual is responsible for their own decision about whether or not to pay a bribe i'm a bit individuals cannot be blamed for sabu it is so common they must",
+                    "maskedITN": "ok in the know bribery is common each individual is responsible for their own decision about whether or not to pay a bribe i'm a bit individuals cannot be blamed for sabu it is so common they must",
+                    "display": "OK in the know bribery is common each individual is responsible for their own decision about whether or not to pay a bribe i'm a bit individuals cannot be blamed for sabu it is so common they must"
+                },
+                {
+                    "confidence": 0.83351487,
+                    "lexical": "ok in the know bribery is common each individual is responsible for their own decision about whether or not to pay a bribe i'm a bit individuals cannot be blamed because it is so common they must",
+                    "itn": "ok in the know bribery is common each individual is responsible for their own decision about whether or not to pay a bribe i'm a bit individuals cannot be blamed because it is so common they must",
+                    "maskedITN": "ok in the know bribery is common each individual is responsible for their own decision about whether or not to pay a bribe i'm a bit individuals cannot be blamed because it is so common they must",
+                    "display": "OK in the know bribery is common each individual is responsible for their own decision about whether or not to pay a bribe i'm a bit individuals cannot be blamed because it is so common they must"
+                },
+                {
+                    "confidence": 0.75380075,
+                    "lexical": "ok in the know bribery is common each individual is responsible for their own decision about whether or not to pay a bribe i'm a bit individuals cannot be blamed for sabu it is so common they master",
+                    "itn": "ok in the know bribery is common each individual is responsible for their own decision about whether or not to pay a bribe i'm a bit individuals cannot be blamed for sabu it is so common they master",
+                    "maskedITN": "ok in the know bribery is common each individual is responsible for their own decision about whether or not to pay a bribe i'm a bit individuals cannot be blamed for sabu it is so common they master",
+                    "display": "OK in the know bribery is common each individual is responsible for their own decision about whether or not to pay a bribe i'm a bit individuals cannot be blamed for sabu it is so common they master"
+                },
+                {
+                    "confidence": 0.7999219,
+                    "lexical": "ok in the know bribery is common each individual is responsible for their own decision about whether or not to pay a bribe i'm a bit individuals cannot be blamed because it is so common they master",
+                    "itn": "ok in the know bribery is common each individual is responsible for their own decision about whether or not to pay a bribe i'm a bit individuals cannot be blamed because it is so common they master",
+                    "maskedITN": "ok in the know bribery is common each individual is responsible for their own decision about whether or not to pay a bribe i'm a bit individuals cannot be blamed because it is so common they master",
+                    "display": "OK in the know bribery is common each individual is responsible for their own decision about whether or not to pay a bribe i'm a bit individuals cannot be blamed because it is so common they master"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT57.01S",
+            "duration": "PT0.81S",
+            "offsetInTicks": 570100000.0,
+            "durationInTicks": 8100000.0,
+            "nBest": [
+                {
+                    "confidence": 0.83468294,
+                    "lexical": "must be blamed",
+                    "itn": "must be blamed",
+                    "maskedITN": "must be blamed",
+                    "display": "Must be blamed."
+                },
+                {
+                    "confidence": 0.8320307,
+                    "lexical": "you must be blamed",
+                    "itn": "you must be blamed",
+                    "maskedITN": "you must be blamed",
+                    "display": "you must be blamed"
+                },
+                {
+                    "confidence": 0.7742903,
+                    "lexical": "must be blind",
+                    "itn": "must be blind",
+                    "maskedITN": "must be blind",
+                    "display": "must be blind"
+                },
+                {
+                    "confidence": 0.86955744,
+                    "lexical": "it must be blamed",
+                    "itn": "it must be blamed",
+                    "maskedITN": "it must be blamed",
+                    "display": "it must be blamed"
+                },
+                {
+                    "confidence": 0.7386909,
+                    "lexical": "must be blamed for",
+                    "itn": "must be blamed for",
+                    "maskedITN": "must be blamed for",
+                    "display": "must be blamed for"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT59.37S",
+            "duration": "PT3.96S",
+            "offsetInTicks": 593700000.0,
+            "durationInTicks": 39600000.0,
+            "nBest": [
+                {
+                    "confidence": 0.41542357,
+                    "lexical": "yeah they hold women to correspond so",
+                    "itn": "yeah they hold women to correspond so",
+                    "maskedITN": "yeah they hold women to correspond so",
+                    "display": "Yeah, they hold women to correspond so."
+                },
+                {
+                    "confidence": 0.3380817,
+                    "lexical": "yeah they hold women to correspond table yeah so",
+                    "itn": "yeah they hold women to correspond table yeah so",
+                    "maskedITN": "yeah they hold women to correspond table yeah so",
+                    "display": "yeah they hold women to correspond table yeah so"
+                },
+                {
+                    "confidence": 0.31091473,
+                    "lexical": "play hold women to correspond table yeah so",
+                    "itn": "play hold women to correspond table yeah so",
+                    "maskedITN": "play hold women to correspond table yeah so",
+                    "display": "play hold women to correspond table yeah so"
+                },
+                {
+                    "confidence": 0.33167034,
+                    "lexical": "yeah please hold women to correspond table yeah so",
+                    "itn": "yeah please hold women to correspond table yeah so",
+                    "maskedITN": "yeah please hold women to correspond table yeah so",
+                    "display": "yeah please hold women to correspond table yeah so"
+                },
+                {
+                    "confidence": 0.33761874,
+                    "lexical": "yeah wait hold women to correspond table yeah so",
+                    "itn": "yeah wait hold women to correspond table yeah so",
+                    "maskedITN": "yeah wait hold women to correspond table yeah so",
+                    "display": "yeah wait hold women to correspond table yeah so"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT1M4.77S",
+            "duration": "PT0.41S",
+            "offsetInTicks": 647700000.0,
+            "durationInTicks": 4100000.0,
+            "nBest": [
+                {
+                    "confidence": 0.64157236,
+                    "lexical": "OK",
+                    "itn": "OK",
+                    "maskedITN": "ok",
+                    "display": "OK."
+                },
+                {
+                    "confidence": 0.5750831,
+                    "lexical": "ok so",
+                    "itn": "ok so",
+                    "maskedITN": "ok so",
+                    "display": "OK so"
+                },
+                {
+                    "confidence": 0.66137844,
+                    "lexical": "ok i",
+                    "itn": "ok i",
+                    "maskedITN": "ok i",
+                    "display": "OK i"
+                },
+                {
+                    "confidence": 0.49494272,
+                    "lexical": "ok sir",
+                    "itn": "ok sir",
+                    "maskedITN": "ok sir",
+                    "display": "OK sir"
+                },
+                {
+                    "confidence": 0.7385087,
+                    "lexical": "oh ok",
+                    "itn": "oh ok",
+                    "maskedITN": "oh ok",
+                    "display": "oh OK"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT1M6.76S",
+            "duration": "PT4.09S",
+            "offsetInTicks": 667600000.0,
+            "durationInTicks": 40900000.0,
+            "nBest": [
+                {
+                    "confidence": 0.78969306,
+                    "lexical": "OK it's your choice so strongly agree with that much",
+                    "itn": "OK it's your choice so strongly agree with that much",
+                    "maskedITN": "ok it's your choice so strongly agree with that much",
+                    "display": "OK, it's your choice. So strongly agree with that much."
+                },
+                {
+                    "confidence": 0.77526367,
+                    "lexical": "ok that's your choice so strongly agree with that much",
+                    "itn": "ok that's your choice so strongly agree with that much",
+                    "maskedITN": "ok that's your choice so strongly agree with that much",
+                    "display": "OK that's your choice so strongly agree with that much"
+                },
+                {
+                    "confidence": 0.7263672,
+                    "lexical": "ok it's your choice so strongly agree or somewhat",
+                    "itn": "ok it's your choice so strongly agree or somewhat",
+                    "maskedITN": "ok it's your choice so strongly agree or somewhat",
+                    "display": "OK it's your choice so strongly agree or somewhat"
+                },
+                {
+                    "confidence": 0.6657305,
+                    "lexical": "ok yeah it's your choice so strongly agree or somewhat",
+                    "itn": "ok yeah it's your choice so strongly agree or somewhat",
+                    "maskedITN": "ok yeah it's your choice so strongly agree or somewhat",
+                    "display": "OK yeah it's your choice so strongly agree or somewhat"
+                },
+                {
+                    "confidence": 0.71225727,
+                    "lexical": "ok that's your choice so strongly agree or somewhat",
+                    "itn": "ok that's your choice so strongly agree or somewhat",
+                    "maskedITN": "ok that's your choice so strongly agree or somewhat",
+                    "display": "OK that's your choice so strongly agree or somewhat"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT1M12.83S",
+            "duration": "PT0.38S",
+            "offsetInTicks": 728300000.0,
+            "durationInTicks": 3800000.0,
+            "nBest": [
+                {
+                    "confidence": 0.2013104,
+                    "lexical": "comma",
+                    "itn": "comma",
+                    "maskedITN": "comma",
+                    "display": "Comma."
+                },
+                {
+                    "confidence": 0.2675321,
+                    "lexical": "umm",
+                    "itn": "umm",
+                    "maskedITN": "umm",
+                    "display": "umm"
+                },
+                {
+                    "confidence": 0.14280206,
+                    "lexical": "some",
+                    "itn": "some",
+                    "maskedITN": "some",
+                    "display": "some"
+                },
+                {
+                    "confidence": 0.14952502,
+                    "lexical": "summer",
+                    "itn": "summer",
+                    "maskedITN": "summer",
+                    "display": "summer"
+                },
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                }
+            ]
+        }
+    ]
+}

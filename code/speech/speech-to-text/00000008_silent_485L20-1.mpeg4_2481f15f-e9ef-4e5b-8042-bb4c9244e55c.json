@@ -1,0 +1,377 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000008_silent_485L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:43:44Z",
+    "durationInTicks": 727200000,
+    "duration": "PT1M12.72S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "yeah that's think about whether individual make their own decision about whether to pay bribes or if they do not have a choice because it's a part of the normal expected system which of the following statement do you agree with more a even though bribery is common each individual is responsible for their own decision about whether or not to pay a bribe or be individual cannot be blamed for their decision to pay bribe it's so common they must do it M try to read for me number eight the answer for eight even though bribery is common each individual is responsible for their own decision about whether or not to pay the bribe yeah it's uh most people are not intelligent one follow the rules then is it going to make a load yeah",
+            "itn": "yeah that's think about whether individual make their own decision about whether to pay bribes or if they do not have a choice because it's a part of the normal expected system which of the following statement do you agree with more a even though bribery is common each individual is responsible for their own decision about whether or not to pay a bribe or be individual cannot be blamed for their decision to pay bribe it's so common they must do it M try to read for me #8 the answer for eight even though bribery is common each individual is responsible for their own decision about whether or not to pay the bribe yeah it's uh most people are not intelligent one follow the rules then is it going to make a load yeah",
+            "maskedITN": "yeah that's think about whether individual make their own decision about whether to pay bribes or if they do not have a choice because it's a part of the normal expected system which of the following statement do you agree with more a even though bribery is common each individual is responsible for their own decision about whether or not to pay a bribe or be individual cannot be blamed for their decision to pay bribe it's so common they must do it m try to read for me #8 the answer for eight even though bribery is common each individual is responsible for their own decision about whether or not to pay the bribe yeah it's uh most people are not intelligent one follow the rules then is it going to make a load yeah",
+            "display": "Yeah, that's think about whether individual make their own decision about whether to pay bribes or if they do not have a choice because it's a part of the normal expected system. Which of the following statement do you agree with more? A even though bribery is common, each individual is responsible for their own decision about whether or not to pay a bribe or be individual. Cannot be blamed for their decision to pay bribe. It's so common they must do it. M. Try to read for me #8 the answer for eight. Even though bribery is common, each individual is responsible for their own decision about whether or not to pay the bribe. Yeah, it's uh, most people are not intelligent one. Follow the rules then. Is it going to make a load? Yeah."
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT3.84S",
+            "duration": "PT27.72S",
+            "offsetInTicks": 38400000.0,
+            "durationInTicks": 277200000.0,
+            "nBest": [
+                {
+                    "confidence": 0.866455,
+                    "lexical": "yeah that's think about whether individual make their own decision about whether to pay bribes or if they do not have a choice because it's a part of the normal expected system which of the following statement do you agree with more a even though bribery is common each individual is responsible for their own decision about whether or not to pay a bribe or be individual",
+                    "itn": "yeah that's think about whether individual make their own decision about whether to pay bribes or if they do not have a choice because it's a part of the normal expected system which of the following statement do you agree with more a even though bribery is common each individual is responsible for their own decision about whether or not to pay a bribe or be individual",
+                    "maskedITN": "yeah that's think about whether individual make their own decision about whether to pay bribes or if they do not have a choice because it's a part of the normal expected system which of the following statement do you agree with more a even though bribery is common each individual is responsible for their own decision about whether or not to pay a bribe or be individual",
+                    "display": "Yeah, that's think about whether individual make their own decision about whether to pay bribes or if they do not have a choice because it's a part of the normal expected system. Which of the following statement do you agree with more? A even though bribery is common, each individual is responsible for their own decision about whether or not to pay a bribe or be individual."
+                },
+                {
+                    "confidence": 0.8685832,
+                    "lexical": "uh yeah that's think about whether individual make their own decision about whether to pay bribes or if they do not have a choice because it's a part of the normal expected system which of the following statement do you agree with more a even though bribery is common each individual is responsible for their own decision about whether or not to pay a bribe or be individual",
+                    "itn": "uh yeah that's think about whether individual make their own decision about whether to pay bribes or if they do not have a choice because it's a part of the normal expected system which of the following statement do you agree with more a even though bribery is common each individual is responsible for their own decision about whether or not to pay a bribe or be individual",
+                    "maskedITN": "uh yeah that's think about whether individual make their own decision about whether to pay bribes or if they do not have a choice because it's a part of the normal expected system which of the following statement do you agree with more a even though bribery is common each individual is responsible for their own decision about whether or not to pay a bribe or be individual",
+                    "display": "uh yeah that's think about whether individual make their own decision about whether to pay bribes or if they do not have a choice because it's a part of the normal expected system which of the following statement do you agree with more a even though bribery is common each individual is responsible for their own decision about whether or not to pay a bribe or be individual"
+                },
+                {
+                    "confidence": 0.8661578,
+                    "lexical": "yeah that's think about whether individual make their own decision about whether to pay bribes or if they do not have a choice because it's a part of the normal expected system which of the following statements do you agree with more a even though bribery is common each individual is responsible for their own decision about whether or not to pay a bribe or be individual",
+                    "itn": "yeah that's think about whether individual make their own decision about whether to pay bribes or if they do not have a choice because it's a part of the normal expected system which of the following statements do you agree with more a even though bribery is common each individual is responsible for their own decision about whether or not to pay a bribe or be individual",
+                    "maskedITN": "yeah that's think about whether individual make their own decision about whether to pay bribes or if they do not have a choice because it's a part of the normal expected system which of the following statements do you agree with more a even though bribery is common each individual is responsible for their own decision about whether or not to pay a bribe or be individual",
+                    "display": "yeah that's think about whether individual make their own decision about whether to pay bribes or if they do not have a choice because it's a part of the normal expected system which of the following statements do you agree with more a even though bribery is common each individual is responsible for their own decision about whether or not to pay a bribe or be individual"
+                },
+                {
+                    "confidence": 0.8682872,
+                    "lexical": "uh yeah that's think about whether individual make their own decision about whether to pay bribes or if they do not have a choice because it's a part of the normal expected system which of the following statements do you agree with more a even though bribery is common each individual is responsible for their own decision about whether or not to pay a bribe or be individual",
+                    "itn": "uh yeah that's think about whether individual make their own decision about whether to pay bribes or if they do not have a choice because it's a part of the normal expected system which of the following statements do you agree with more a even though bribery is common each individual is responsible for their own decision about whether or not to pay a bribe or be individual",
+                    "maskedITN": "uh yeah that's think about whether individual make their own decision about whether to pay bribes or if they do not have a choice because it's a part of the normal expected system which of the following statements do you agree with more a even though bribery is common each individual is responsible for their own decision about whether or not to pay a bribe or be individual",
+                    "display": "uh yeah that's think about whether individual make their own decision about whether to pay bribes or if they do not have a choice because it's a part of the normal expected system which of the following statements do you agree with more a even though bribery is common each individual is responsible for their own decision about whether or not to pay a bribe or be individual"
+                },
+                {
+                    "confidence": 0.86820614,
+                    "lexical": "oh yeah that's think about whether individual make their own decision about whether to pay bribes or if they do not have a choice because it's a part of the normal expected system which of the following statements do you agree with more a even though bribery is common each individual is responsible for their own decision about whether or not to pay a bribe or be individual",
+                    "itn": "oh yeah that's think about whether individual make their own decision about whether to pay bribes or if they do not have a choice because it's a part of the normal expected system which of the following statements do you agree with more a even though bribery is common each individual is responsible for their own decision about whether or not to pay a bribe or be individual",
+                    "maskedITN": "oh yeah that's think about whether individual make their own decision about whether to pay bribes or if they do not have a choice because it's a part of the normal expected system which of the following statements do you agree with more a even though bribery is common each individual is responsible for their own decision about whether or not to pay a bribe or be individual",
+                    "display": "oh yeah that's think about whether individual make their own decision about whether to pay bribes or if they do not have a choice because it's a part of the normal expected system which of the following statements do you agree with more a even though bribery is common each individual is responsible for their own decision about whether or not to pay a bribe or be individual"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT31.63S",
+            "duration": "PT5.29S",
+            "offsetInTicks": 316300000.0,
+            "durationInTicks": 52900000.0,
+            "nBest": [
+                {
+                    "confidence": 0.849981,
+                    "lexical": "cannot be blamed for their decision to pay bribe it's so common they must do it",
+                    "itn": "cannot be blamed for their decision to pay bribe it's so common they must do it",
+                    "maskedITN": "cannot be blamed for their decision to pay bribe it's so common they must do it",
+                    "display": "Cannot be blamed for their decision to pay bribe. It's so common they must do it."
+                },
+                {
+                    "confidence": 0.87934214,
+                    "lexical": "cannot be blamed for their decision to pay a bribe it's so common they must do it",
+                    "itn": "cannot be blamed for their decision to pay a bribe it's so common they must do it",
+                    "maskedITN": "cannot be blamed for their decision to pay a bribe it's so common they must do it",
+                    "display": "cannot be blamed for their decision to pay a bribe it's so common they must do it"
+                },
+                {
+                    "confidence": 0.8603757,
+                    "lexical": "i cannot be blamed for their decision to pay bribe it's so common they must do it",
+                    "itn": "i cannot be blamed for their decision to pay bribe it's so common they must do it",
+                    "maskedITN": "i cannot be blamed for their decision to pay bribe it's so common they must do it",
+                    "display": "i cannot be blamed for their decision to pay bribe it's so common they must do it"
+                },
+                {
+                    "confidence": 0.86168283,
+                    "lexical": "cannot be blamed for their decision to pay bribes it's so common they must do it",
+                    "itn": "cannot be blamed for their decision to pay bribes it's so common they must do it",
+                    "maskedITN": "cannot be blamed for their decision to pay bribes it's so common they must do it",
+                    "display": "cannot be blamed for their decision to pay bribes it's so common they must do it"
+                },
+                {
+                    "confidence": 0.8606281,
+                    "lexical": "are not to be blamed for their decision to pay bribe it's so common they must do it",
+                    "itn": "are not to be blamed for their decision to pay bribe it's so common they must do it",
+                    "maskedITN": "are not to be blamed for their decision to pay bribe it's so common they must do it",
+                    "display": "are not to be blamed for their decision to pay bribe it's so common they must do it"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT38.68S",
+            "duration": "PT0.21S",
+            "offsetInTicks": 386800000.0,
+            "durationInTicks": 2100000.0,
+            "nBest": [
+                {
+                    "confidence": 0.50644183,
+                    "lexical": "M",
+                    "itn": "M",
+                    "maskedITN": "m",
+                    "display": "M."
+                },
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.60213125,
+                    "lexical": "hmm",
+                    "itn": "hmm",
+                    "maskedITN": "hmm",
+                    "display": "hmm"
+                },
+                {
+                    "confidence": 0.6660449,
+                    "lexical": "uhm",
+                    "itn": "uhm",
+                    "maskedITN": "uhm",
+                    "display": "uhm"
+                },
+                {
+                    "confidence": 0.5869003,
+                    "lexical": "umm",
+                    "itn": "umm",
+                    "maskedITN": "umm",
+                    "display": "umm"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT39.95S",
+            "duration": "PT12.18S",
+            "offsetInTicks": 399500000.0,
+            "durationInTicks": 121800000.0,
+            "nBest": [
+                {
+                    "confidence": 0.8201104,
+                    "lexical": "try to read for me number eight the answer for eight even though bribery is common each individual is responsible for their own decision about whether or not to pay the bribe",
+                    "itn": "try to read for me #8 the answer for eight even though bribery is common each individual is responsible for their own decision about whether or not to pay the bribe",
+                    "maskedITN": "try to read for me #8 the answer for eight even though bribery is common each individual is responsible for their own decision about whether or not to pay the bribe",
+                    "display": "Try to read for me #8 the answer for eight. Even though bribery is common, each individual is responsible for their own decision about whether or not to pay the bribe."
+                },
+                {
+                    "confidence": 0.8203143,
+                    "lexical": "tries to read for me number eight the answer for eight even though bribery is common each individual is responsible for their own decision about whether or not to pay the bribe",
+                    "itn": "tries to read for me number eight the answer for eight even though bribery is common each individual is responsible for their own decision about whether or not to pay the bribe",
+                    "maskedITN": "tries to read for me number eight the answer for eight even though bribery is common each individual is responsible for their own decision about whether or not to pay the bribe",
+                    "display": "tries to read for me number eight the answer for eight even though bribery is common each individual is responsible for their own decision about whether or not to pay the bribe"
+                },
+                {
+                    "confidence": 0.81781054,
+                    "lexical": "tried to read for me number eight the answer for eight even though bribery is common each individual is responsible for their own decision about whether or not to pay the bribe",
+                    "itn": "tried to read for me number eight the answer for eight even though bribery is common each individual is responsible for their own decision about whether or not to pay the bribe",
+                    "maskedITN": "tried to read for me number eight the answer for eight even though bribery is common each individual is responsible for their own decision about whether or not to pay the bribe",
+                    "display": "tried to read for me number eight the answer for eight even though bribery is common each individual is responsible for their own decision about whether or not to pay the bribe"
+                },
+                {
+                    "confidence": 0.8278065,
+                    "lexical": "tried to read for me number eight the answer for me even though bribery is common each individual is responsible for their own decision about whether or not to pay the bribe",
+                    "itn": "tried to read for me number eight the answer for me even though bribery is common each individual is responsible for their own decision about whether or not to pay the bribe",
+                    "maskedITN": "tried to read for me number eight the answer for me even though bribery is common each individual is responsible for their own decision about whether or not to pay the bribe",
+                    "display": "tried to read for me number eight the answer for me even though bribery is common each individual is responsible for their own decision about whether or not to pay the bribe"
+                },
+                {
+                    "confidence": 0.8303124,
+                    "lexical": "tries to read for me number eight the answer for me even though bribery is common each individual is responsible for their own decision about whether or not to pay the bribe",
+                    "itn": "tries to read for me number eight the answer for me even though bribery is common each individual is responsible for their own decision about whether or not to pay the bribe",
+                    "maskedITN": "tries to read for me number eight the answer for me even though bribery is common each individual is responsible for their own decision about whether or not to pay the bribe",
+                    "display": "tries to read for me number eight the answer for me even though bribery is common each individual is responsible for their own decision about whether or not to pay the bribe"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT53.31S",
+            "duration": "PT6.71S",
+            "offsetInTicks": 533100000.0,
+            "durationInTicks": 67100000.0,
+            "nBest": [
+                {
+                    "confidence": 0.46527883,
+                    "lexical": "yeah it's uh most people are not intelligent one",
+                    "itn": "yeah it's uh most people are not intelligent one",
+                    "maskedITN": "yeah it's uh most people are not intelligent one",
+                    "display": "Yeah, it's uh, most people are not intelligent one."
+                },
+                {
+                    "confidence": 0.4796926,
+                    "lexical": "yeah uh most people are not intelligent one",
+                    "itn": "yeah uh most people are not intelligent one",
+                    "maskedITN": "yeah uh most people are not intelligent one",
+                    "display": "yeah uh most people are not intelligent one"
+                },
+                {
+                    "confidence": 0.40339032,
+                    "lexical": "yes uh most people are not intelligent one",
+                    "itn": "yes uh most people are not intelligent one",
+                    "maskedITN": "yes uh most people are not intelligent one",
+                    "display": "yes uh most people are not intelligent one"
+                },
+                {
+                    "confidence": 0.3683267,
+                    "lexical": "yeah it's uh most people are not intelligent one umm",
+                    "itn": "yeah it's uh most people are not intelligent one umm",
+                    "maskedITN": "yeah it's uh most people are not intelligent one umm",
+                    "display": "yeah it's uh most people are not intelligent one umm"
+                },
+                {
+                    "confidence": 0.34873876,
+                    "lexical": "yeah it's uh most people are not intelligent one mm-hmm",
+                    "itn": "yeah it's uh most people are not intelligent one mm-hmm",
+                    "maskedITN": "yeah it's uh most people are not intelligent one mm-hmm",
+                    "display": "yeah it's uh most people are not intelligent one mm-hmm"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT1M1.64S",
+            "duration": "PT1.71S",
+            "offsetInTicks": 616400000.0,
+            "durationInTicks": 17100000.0,
+            "nBest": [
+                {
+                    "confidence": 0.6760725,
+                    "lexical": "follow the rules then",
+                    "itn": "follow the rules then",
+                    "maskedITN": "follow the rules then",
+                    "display": "Follow the rules then."
+                },
+                {
+                    "confidence": 0.6472171,
+                    "lexical": "follow the rule",
+                    "itn": "follow the rule",
+                    "maskedITN": "follow the rule",
+                    "display": "follow the rule"
+                },
+                {
+                    "confidence": 0.65565675,
+                    "lexical": "follow the rule then",
+                    "itn": "follow the rule then",
+                    "maskedITN": "follow the rule then",
+                    "display": "follow the rule then"
+                },
+                {
+                    "confidence": 0.66128296,
+                    "lexical": "follow the rules",
+                    "itn": "follow the rules",
+                    "maskedITN": "follow the rules",
+                    "display": "follow the rules"
+                },
+                {
+                    "confidence": 0.6471437,
+                    "lexical": "follow the rules then umm",
+                    "itn": "follow the rules then umm",
+                    "maskedITN": "follow the rules then umm",
+                    "display": "follow the rules then umm"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT1M4.98S",
+            "duration": "PT2.9S",
+            "offsetInTicks": 649800000.0,
+            "durationInTicks": 29000000.0,
+            "nBest": [
+                {
+                    "confidence": 0.659226,
+                    "lexical": "is it going to make a load",
+                    "itn": "is it going to make a load",
+                    "maskedITN": "is it going to make a load",
+                    "display": "Is it going to make a load?"
+                },
+                {
+                    "confidence": 0.62102985,
+                    "lexical": "going to make a load",
+                    "itn": "going to make a load",
+                    "maskedITN": "going to make a load",
+                    "display": "going to make a load"
+                },
+                {
+                    "confidence": 0.6445186,
+                    "lexical": "going to make a loan",
+                    "itn": "going to make a loan",
+                    "maskedITN": "going to make a loan",
+                    "display": "going to make a loan"
+                },
+                {
+                    "confidence": 0.679534,
+                    "lexical": "is it going to make a loan",
+                    "itn": "is it going to make a loan",
+                    "maskedITN": "is it going to make a loan",
+                    "display": "is it going to make a loan"
+                },
+                {
+                    "confidence": 0.6461084,
+                    "lexical": "is going to make a loan",
+                    "itn": "is going to make a loan",
+                    "maskedITN": "is going to make a loan",
+                    "display": "is going to make a loan"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT1M11.3S",
+            "duration": "PT0.26S",
+            "offsetInTicks": 713000000.0,
+            "durationInTicks": 2600000.0,
+            "nBest": [
+                {
+                    "confidence": 0.71991456,
+                    "lexical": "yeah",
+                    "itn": "yeah",
+                    "maskedITN": "yeah",
+                    "display": "Yeah."
+                },
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.24456207,
+                    "lexical": "m",
+                    "itn": "m",
+                    "maskedITN": "m",
+                    "display": "M"
+                },
+                {
+                    "confidence": 0.3899301,
+                    "lexical": "umm",
+                    "itn": "umm",
+                    "maskedITN": "umm",
+                    "display": "umm"
+                },
+                {
+                    "confidence": 0.30818373,
+                    "lexical": "hmm",
+                    "itn": "hmm",
+                    "maskedITN": "hmm",
+                    "display": "hmm"
+                }
+            ]
+        }
+    ]
+}

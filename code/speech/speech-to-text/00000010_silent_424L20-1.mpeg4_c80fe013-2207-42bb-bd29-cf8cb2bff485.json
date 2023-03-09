@@ -1,0 +1,557 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000010_silent_424L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:44:46Z",
+    "durationInTicks": 619800000,
+    "duration": "PT1M1.98S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "is this another service OK uh B which file do you think it is OK for citizen to pay bribes when it happens when it helps them with their own personal problems do you think a it is OK for citizen to pay bribes when it helps them with their own personal problems covers only provides you solve issues B it is not OK for for citizen to pay bribes because it has other people in the society uh D no walking about right because you don't have to ring in uh M what's so what i mean wrongly M everything but yes that's the reservation",
+            "itn": "is this another service OK uh B which file do you think it is OK for citizen to pay bribes when it happens when it helps them with their own personal problems do you think a it is OK for citizen to pay bribes when it helps them with their own personal problems covers only provides you solve issues B it is not OK for for citizen to pay bribes because it has other people in the society uh D no walking about right because you don't have to ring in uh M what's so what i mean wrongly M everything but yes that's the reservation",
+            "maskedITN": "is this another service ok uh b which file do you think it is ok for citizen to pay bribes when it happens when it helps them with their own personal problems do you think a it is ok for citizen to pay bribes when it helps them with their own personal problems covers only provides you solve issues b it is not ok for for citizen to pay bribes because it has other people in the society uh d no walking about right because you don't have to ring in uh m what's so what i mean wrongly m everything but yes that's the reservation",
+            "display": "Is this another service? OK. Uh B, which file do you think it is OK for citizen to pay bribes when? It happens when it helps them with their own personal problems. Do you think a it is OK for citizen to pay bribes when it helps them with their own personal problems, covers only provides you solve issues B it is not OK for for citizen to pay bribes because it has other people in the society? Uh D. No walking about right, because you don't have to ring in. Uh M. What's so? What I mean wrongly? M. Everything but yes, that's the reservation."
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT0.24S",
+            "duration": "PT1.08S",
+            "offsetInTicks": 2400000.0,
+            "durationInTicks": 10800000.0,
+            "nBest": [
+                {
+                    "confidence": 0.53087497,
+                    "lexical": "is this another service",
+                    "itn": "is this another service",
+                    "maskedITN": "is this another service",
+                    "display": "Is this another service?"
+                },
+                {
+                    "confidence": 0.18670174,
+                    "lexical": "is this analysis",
+                    "itn": "is this analysis",
+                    "maskedITN": "is this analysis",
+                    "display": "is this analysis"
+                },
+                {
+                    "confidence": 0.4574995,
+                    "lexical": "is this another service in this",
+                    "itn": "is this another service in this",
+                    "maskedITN": "is this another service in this",
+                    "display": "is this another service in this"
+                },
+                {
+                    "confidence": 0.33439398,
+                    "lexical": "is this another service center",
+                    "itn": "is this another service center",
+                    "maskedITN": "is this another service center",
+                    "display": "is this another service center"
+                },
+                {
+                    "confidence": 0.45692423,
+                    "lexical": "is this another service isn't it",
+                    "itn": "is this another service isn't it",
+                    "maskedITN": "is this another service isn't it",
+                    "display": "is this another service isn't it"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT2.97S",
+            "duration": "PT0.38S",
+            "offsetInTicks": 29700000.0,
+            "durationInTicks": 3800000.0,
+            "nBest": [
+                {
+                    "confidence": 0.9682617,
+                    "lexical": "OK",
+                    "itn": "OK",
+                    "maskedITN": "ok",
+                    "display": "OK."
+                },
+                {
+                    "confidence": 0.765793,
+                    "lexical": "okay",
+                    "itn": "okay",
+                    "maskedITN": "okay",
+                    "display": "okay"
+                },
+                {
+                    "confidence": 0.9018943,
+                    "lexical": "ok so",
+                    "itn": "ok so",
+                    "maskedITN": "ok so",
+                    "display": "OK so"
+                },
+                {
+                    "confidence": 0.8647853,
+                    "lexical": "ok i",
+                    "itn": "ok i",
+                    "maskedITN": "ok i",
+                    "display": "OK i"
+                },
+                {
+                    "confidence": 0.89029753,
+                    "lexical": "oh ok",
+                    "itn": "oh ok",
+                    "maskedITN": "oh ok",
+                    "display": "oh OK"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT5.19S",
+            "duration": "PT6.92S",
+            "offsetInTicks": 51900000.0,
+            "durationInTicks": 69200000.0,
+            "nBest": [
+                {
+                    "confidence": 0.7230557,
+                    "lexical": "uh B which file do you think it is OK for citizen to pay bribes when",
+                    "itn": "uh B which file do you think it is OK for citizen to pay bribes when",
+                    "maskedITN": "uh b which file do you think it is ok for citizen to pay bribes when",
+                    "display": "Uh B, which file do you think it is OK for citizen to pay bribes when?"
+                },
+                {
+                    "confidence": 0.7292536,
+                    "lexical": "uh we we which file do you think it is ok for citizen to pay bribes when",
+                    "itn": "uh we we which file do you think it is ok for citizen to pay bribes when",
+                    "maskedITN": "uh we we which file do you think it is ok for citizen to pay bribes when",
+                    "display": "uh we we which file do you think it is OK for citizen to pay bribes when"
+                },
+                {
+                    "confidence": 0.7060824,
+                    "lexical": "uh b we which file do you think it is ok for citizen to pay bribes when",
+                    "itn": "uh b we which file do you think it is ok for citizen to pay bribes when",
+                    "maskedITN": "uh b we which file do you think it is ok for citizen to pay bribes when",
+                    "display": "uh B we which file do you think it is OK for citizen to pay bribes when"
+                },
+                {
+                    "confidence": 0.70428306,
+                    "lexical": "uh b uh which file do you think it is ok for citizen to pay bribes when",
+                    "itn": "uh b uh which file do you think it is ok for citizen to pay bribes when",
+                    "maskedITN": "uh b uh which file do you think it is ok for citizen to pay bribes when",
+                    "display": "uh B uh which file do you think it is OK for citizen to pay bribes when"
+                },
+                {
+                    "confidence": 0.73470914,
+                    "lexical": "uh b which file do you think it is ok for a citizen to pay bribes when",
+                    "itn": "uh b which file do you think it is ok for a citizen to pay bribes when",
+                    "maskedITN": "uh b which file do you think it is ok for a citizen to pay bribes when",
+                    "display": "uh B which file do you think it is OK for a citizen to pay bribes when"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT13.18S",
+            "duration": "PT3.79S",
+            "offsetInTicks": 131800000.0,
+            "durationInTicks": 37900000.0,
+            "nBest": [
+                {
+                    "confidence": 0.92178094,
+                    "lexical": "it happens when it helps them with their own personal problems",
+                    "itn": "it happens when it helps them with their own personal problems",
+                    "maskedITN": "it happens when it helps them with their own personal problems",
+                    "display": "It happens when it helps them with their own personal problems."
+                },
+                {
+                    "confidence": 0.92350674,
+                    "lexical": "it happened when it helps them with their own personal problems",
+                    "itn": "it happened when it helps them with their own personal problems",
+                    "maskedITN": "it happened when it helps them with their own personal problems",
+                    "display": "it happened when it helps them with their own personal problems"
+                },
+                {
+                    "confidence": 0.9155912,
+                    "lexical": "it happened when it helps them with their own personal problems sir",
+                    "itn": "it happened when it helps them with their own personal problems sir",
+                    "maskedITN": "it happened when it helps them with their own personal problems sir",
+                    "display": "it happened when it helps them with their own personal problems sir"
+                },
+                {
+                    "confidence": 0.9138692,
+                    "lexical": "it happens when it helps them with their own personal problems sir",
+                    "itn": "it happens when it helps them with their own personal problems sir",
+                    "maskedITN": "it happens when it helps them with their own personal problems sir",
+                    "display": "it happens when it helps them with their own personal problems sir"
+                },
+                {
+                    "confidence": 0.9152616,
+                    "lexical": "it happened when it helps them with their own personal problem sir",
+                    "itn": "it happened when it helps them with their own personal problem sir",
+                    "maskedITN": "it happened when it helps them with their own personal problem sir",
+                    "display": "it happened when it helps them with their own personal problem sir"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT19.03S",
+            "duration": "PT19.96S",
+            "offsetInTicks": 190300000.0,
+            "durationInTicks": 199600000.0,
+            "nBest": [
+                {
+                    "confidence": 0.76700896,
+                    "lexical": "do you think a it is OK for citizen to pay bribes when it helps them with their own personal problems covers only provides you solve issues B it is not OK for for citizen to pay bribes because it has other people in the society",
+                    "itn": "do you think a it is OK for citizen to pay bribes when it helps them with their own personal problems covers only provides you solve issues B it is not OK for for citizen to pay bribes because it has other people in the society",
+                    "maskedITN": "do you think a it is ok for citizen to pay bribes when it helps them with their own personal problems covers only provides you solve issues b it is not ok for for citizen to pay bribes because it has other people in the society",
+                    "display": "Do you think a it is OK for citizen to pay bribes when it helps them with their own personal problems, covers only provides you solve issues B it is not OK for for citizen to pay bribes because it has other people in the society?"
+                },
+                {
+                    "confidence": 0.75751203,
+                    "lexical": "do you think a it is ok for citizen to pay bribes when it helps them with their own personal problems covers only provides you solve issues that go b it is not ok for for citizen to pay bribes because it has other people in the society",
+                    "itn": "do you think a it is ok for citizen to pay bribes when it helps them with their own personal problems covers only provides you solve issues that go b it is not ok for for citizen to pay bribes because it has other people in the society",
+                    "maskedITN": "do you think a it is ok for citizen to pay bribes when it helps them with their own personal problems covers only provides you solve issues that go b it is not ok for for citizen to pay bribes because it has other people in the society",
+                    "display": "do you think a it is OK for citizen to pay bribes when it helps them with their own personal problems covers only provides you solve issues that go B it is not OK for for citizen to pay bribes because it has other people in the society"
+                },
+                {
+                    "confidence": 0.7437149,
+                    "lexical": "do you think a it is ok for citizen to pay bribes when it helps them with their own personal problems covers only provides the solve issues echo b it is not ok for for citizen to pay bribes because it has other people in the society",
+                    "itn": "do you think a it is ok for citizen to pay bribes when it helps them with their own personal problems covers only provides the solve issues echo b it is not ok for for citizen to pay bribes because it has other people in the society",
+                    "maskedITN": "do you think a it is ok for citizen to pay bribes when it helps them with their own personal problems covers only provides the solve issues echo b it is not ok for for citizen to pay bribes because it has other people in the society",
+                    "display": "do you think a it is OK for citizen to pay bribes when it helps them with their own personal problems covers only provides the solve issues echo B it is not OK for for citizen to pay bribes because it has other people in the society"
+                },
+                {
+                    "confidence": 0.7556389,
+                    "lexical": "do you think a it is ok for citizen to pay bribes when it helps them with their own personal problems covers only provides you solve issues echo b it is not ok for for citizen to pay bribes because it has other people in the society",
+                    "itn": "do you think a it is ok for citizen to pay bribes when it helps them with their own personal problems covers only provides you solve issues echo b it is not ok for for citizen to pay bribes because it has other people in the society",
+                    "maskedITN": "do you think a it is ok for citizen to pay bribes when it helps them with their own personal problems covers only provides you solve issues echo b it is not ok for for citizen to pay bribes because it has other people in the society",
+                    "display": "do you think a it is OK for citizen to pay bribes when it helps them with their own personal problems covers only provides you solve issues echo B it is not OK for for citizen to pay bribes because it has other people in the society"
+                },
+                {
+                    "confidence": 0.7578768,
+                    "lexical": "do you think a it is ok for citizen to pay bribes when it helps them with their own personal problems covers only provides you solve issues echo b it is not ok for for citizen to pay bribes because it hurts other people in the society",
+                    "itn": "do you think a it is ok for citizen to pay bribes when it helps them with their own personal problems covers only provides you solve issues echo b it is not ok for for citizen to pay bribes because it hurts other people in the society",
+                    "maskedITN": "do you think a it is ok for citizen to pay bribes when it helps them with their own personal problems covers only provides you solve issues echo b it is not ok for for citizen to pay bribes because it hurts other people in the society",
+                    "display": "do you think a it is OK for citizen to pay bribes when it helps them with their own personal problems covers only provides you solve issues echo B it is not OK for for citizen to pay bribes because it hurts other people in the society"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT42.91S",
+            "duration": "PT0.69S",
+            "offsetInTicks": 429100000.0,
+            "durationInTicks": 6900000.0,
+            "nBest": [
+                {
+                    "confidence": 0.5464786,
+                    "lexical": "uh D",
+                    "itn": "uh D",
+                    "maskedITN": "uh d",
+                    "display": "Uh D."
+                },
+                {
+                    "confidence": 0.26253587,
+                    "lexical": "uhd",
+                    "itn": "uhd",
+                    "maskedITN": "uhd",
+                    "display": "UHD"
+                },
+                {
+                    "confidence": 0.5354091,
+                    "lexical": "uh b",
+                    "itn": "uh b",
+                    "maskedITN": "uh b",
+                    "display": "uh B"
+                },
+                {
+                    "confidence": 0.64243853,
+                    "lexical": "uh the",
+                    "itn": "uh the",
+                    "maskedITN": "uh the",
+                    "display": "uh the"
+                },
+                {
+                    "confidence": 0.66949356,
+                    "lexical": "uh did",
+                    "itn": "uh did",
+                    "maskedITN": "uh did",
+                    "display": "uh did"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT45.09S",
+            "duration": "PT2.72S",
+            "offsetInTicks": 450900000.0,
+            "durationInTicks": 27200000.0,
+            "nBest": [
+                {
+                    "confidence": 0.57638884,
+                    "lexical": "no walking about right because you don't have to ring in",
+                    "itn": "no walking about right because you don't have to ring in",
+                    "maskedITN": "no walking about right because you don't have to ring in",
+                    "display": "No walking about right, because you don't have to ring in."
+                },
+                {
+                    "confidence": 0.5971988,
+                    "lexical": "no walking apart right because you don't have to ring in",
+                    "itn": "no walking apart right because you don't have to ring in",
+                    "maskedITN": "no walking apart right because you don't have to ring in",
+                    "display": "no walking apart right because you don't have to ring in"
+                },
+                {
+                    "confidence": 0.5949951,
+                    "lexical": "no walking apart right because we don't have to ring in",
+                    "itn": "no walking apart right because we don't have to ring in",
+                    "maskedITN": "no walking apart right because we don't have to ring in",
+                    "display": "no walking apart right because we don't have to ring in"
+                },
+                {
+                    "confidence": 0.59797007,
+                    "lexical": "no walking apart right because you don't have to ring in it",
+                    "itn": "no walking apart right because you don't have to ring in it",
+                    "maskedITN": "no walking apart right because you don't have to ring in it",
+                    "display": "no walking apart right because you don't have to ring in it"
+                },
+                {
+                    "confidence": 0.57956237,
+                    "lexical": "no walking apart right because you don't have to bring in",
+                    "itn": "no walking apart right because you don't have to bring in",
+                    "maskedITN": "no walking apart right because you don't have to bring in",
+                    "display": "no walking apart right because you don't have to bring in"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT49.69S",
+            "duration": "PT1.09S",
+            "offsetInTicks": 496900000.0,
+            "durationInTicks": 10900000.0,
+            "nBest": [
+                {
+                    "confidence": 0.5081156,
+                    "lexical": "uh M",
+                    "itn": "uh M",
+                    "maskedITN": "uh m",
+                    "display": "Uh M."
+                },
+                {
+                    "confidence": 0.5489962,
+                    "lexical": "uh",
+                    "itn": "uh",
+                    "maskedITN": "uh",
+                    "display": "uh"
+                },
+                {
+                    "confidence": 0.5388106,
+                    "lexical": "uh ma",
+                    "itn": "uh ma",
+                    "maskedITN": "uh ma",
+                    "display": "uh ma"
+                },
+                {
+                    "confidence": 0.41879264,
+                    "lexical": "huh",
+                    "itn": "huh",
+                    "maskedITN": "huh",
+                    "display": "huh"
+                },
+                {
+                    "confidence": 0.39664394,
+                    "lexical": "uh-huh",
+                    "itn": "uh-huh",
+                    "maskedITN": "uh-huh",
+                    "display": "uh-huh"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT52.91S",
+            "duration": "PT3.69S",
+            "offsetInTicks": 529100000.0,
+            "durationInTicks": 36900000.0,
+            "nBest": [
+                {
+                    "confidence": 0.34820336,
+                    "lexical": "what's so what i mean wrongly",
+                    "itn": "what's so what i mean wrongly",
+                    "maskedITN": "what's so what i mean wrongly",
+                    "display": "What's so? What I mean wrongly?"
+                },
+                {
+                    "confidence": 0.41848898,
+                    "lexical": "what's so what have i mean wrongly",
+                    "itn": "what's so what have i mean wrongly",
+                    "maskedITN": "what's so what have i mean wrongly",
+                    "display": "what's so what have i mean wrongly"
+                },
+                {
+                    "confidence": 0.52740806,
+                    "lexical": "oh it's so what have i mean wrongly",
+                    "itn": "oh it's so what have i mean wrongly",
+                    "maskedITN": "oh it's so what have i mean wrongly",
+                    "display": "oh it's so what have i mean wrongly"
+                },
+                {
+                    "confidence": 0.4899689,
+                    "lexical": "oh that's so what have i mean wrongly",
+                    "itn": "oh that's so what have i mean wrongly",
+                    "maskedITN": "oh that's so what have i mean wrongly",
+                    "display": "oh that's so what have i mean wrongly"
+                },
+                {
+                    "confidence": 0.48117092,
+                    "lexical": "what's so what have i mean strongly agree",
+                    "itn": "what's so what have i mean strongly agree",
+                    "maskedITN": "what's so what have i mean strongly agree",
+                    "display": "what's so what have i mean strongly agree"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT57.59S",
+            "duration": "PT0.46S",
+            "offsetInTicks": 575900000.0,
+            "durationInTicks": 4600000.0,
+            "nBest": [
+                {
+                    "confidence": 0.34659225,
+                    "lexical": "M",
+                    "itn": "M",
+                    "maskedITN": "m",
+                    "display": "M."
+                },
+                {
+                    "confidence": 0.42574942,
+                    "lexical": "mhm",
+                    "itn": "mhm",
+                    "maskedITN": "mhm",
+                    "display": "MHM"
+                },
+                {
+                    "confidence": 0.39853424,
+                    "lexical": "uhm",
+                    "itn": "uhm",
+                    "maskedITN": "uhm",
+                    "display": "uhm"
+                },
+                {
+                    "confidence": 0.38103086,
+                    "lexical": "ma",
+                    "itn": "ma",
+                    "maskedITN": "ma",
+                    "display": "ma"
+                },
+                {
+                    "confidence": 0.28408563,
+                    "lexical": "mm-hmm",
+                    "itn": "mm-hmm",
+                    "maskedITN": "mm-hmm",
+                    "display": "mm-hmm"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT58.7S",
+            "duration": "PT2.1S",
+            "offsetInTicks": 587000000.0,
+            "durationInTicks": 21000000.0,
+            "nBest": [
+                {
+                    "confidence": 0.59260136,
+                    "lexical": "everything but yes that's the reservation",
+                    "itn": "everything but yes that's the reservation",
+                    "maskedITN": "everything but yes that's the reservation",
+                    "display": "Everything but yes, that's the reservation."
+                },
+                {
+                    "confidence": 0.5230922,
+                    "lexical": "everything yes that's the reservation",
+                    "itn": "everything yes that's the reservation",
+                    "maskedITN": "everything yes that's the reservation",
+                    "display": "everything yes that's the reservation"
+                },
+                {
+                    "confidence": 0.5844177,
+                    "lexical": "everything but yes that's the reservations",
+                    "itn": "everything but yes that's the reservations",
+                    "maskedITN": "everything but yes that's the reservations",
+                    "display": "everything but yes that's the reservations"
+                },
+                {
+                    "confidence": 0.5155613,
+                    "lexical": "everything yes that's the reservations",
+                    "itn": "everything yes that's the reservations",
+                    "maskedITN": "everything yes that's the reservations",
+                    "display": "everything yes that's the reservations"
+                },
+                {
+                    "confidence": 0.5325008,
+                    "lexical": "everything but yes the reservations",
+                    "itn": "everything but yes the reservations",
+                    "maskedITN": "everything but yes the reservations",
+                    "display": "everything but yes the reservations"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT1M1.78S",
+            "duration": "PT0.2S",
+            "offsetInTicks": 617800000.0,
+            "durationInTicks": 2000000.0,
+            "nBest": [
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.65406096,
+                    "lexical": "so",
+                    "itn": "so",
+                    "maskedITN": "so",
+                    "display": "so"
+                },
+                {
+                    "confidence": 0.59063286,
+                    "lexical": "no",
+                    "itn": "no",
+                    "maskedITN": "no",
+                    "display": "no"
+                },
+                {
+                    "confidence": 0.48220268,
+                    "lexical": "b",
+                    "itn": "b",
+                    "maskedITN": "b",
+                    "display": "B"
+                },
+                {
+                    "confidence": 0.42759585,
+                    "lexical": "yes",
+                    "itn": "yes",
+                    "maskedITN": "yes",
+                    "display": "yes"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,467 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000006_silent_456L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:43:30Z",
+    "durationInTicks": 759000000,
+    "duration": "PT1M15.9S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "OK no more no and then uh uh well no this house when i drive is paid and the citizen who pays normally benefits small amount be the official who receives payments from",
+            "itn": "OK no more no and then uh uh well no this house when i drive is paid and the citizen who pays normally benefits small amount be the official who receives payments from",
+            "maskedITN": "ok no more no and then uh uh well no this house when i drive is paid and the citizen who pays normally benefits small amount be the official who receives payments from",
+            "display": "OK. No more, no. And then? Uh. Uh, well, no. This house. When I drive, is paid and the citizen who pays normally benefits small amount be the official who receives payments from."
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT0.74S",
+            "duration": "PT1.99S",
+            "offsetInTicks": 7400000.0,
+            "durationInTicks": 19900000.0,
+            "nBest": [
+                {
+                    "confidence": 0.7649759,
+                    "lexical": "OK no more no",
+                    "itn": "OK no more no",
+                    "maskedITN": "ok no more no",
+                    "display": "OK. No more, no."
+                },
+                {
+                    "confidence": 0.78410065,
+                    "lexical": "ok no more",
+                    "itn": "ok no more",
+                    "maskedITN": "ok no more",
+                    "display": "OK no more"
+                },
+                {
+                    "confidence": 0.8749734,
+                    "lexical": "ok",
+                    "itn": "ok",
+                    "maskedITN": "ok",
+                    "display": "OK"
+                },
+                {
+                    "confidence": 0.5819251,
+                    "lexical": "ok no",
+                    "itn": "ok no",
+                    "maskedITN": "ok no",
+                    "display": "OK no"
+                },
+                {
+                    "confidence": 0.64875257,
+                    "lexical": "ok uh",
+                    "itn": "ok uh",
+                    "maskedITN": "ok uh",
+                    "display": "OK uh"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT5.84S",
+            "duration": "PT0.32S",
+            "offsetInTicks": 58400000.0,
+            "durationInTicks": 3200000.0,
+            "nBest": [
+                {
+                    "confidence": 0.8163108,
+                    "lexical": "and then",
+                    "itn": "and then",
+                    "maskedITN": "and then",
+                    "display": "And then?"
+                },
+                {
+                    "confidence": 0.36569256,
+                    "lexical": "contact",
+                    "itn": "contact",
+                    "maskedITN": "contact",
+                    "display": "contact"
+                },
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.7582343,
+                    "lexical": "and",
+                    "itn": "and",
+                    "maskedITN": "and",
+                    "display": "and"
+                },
+                {
+                    "confidence": 0.23013285,
+                    "lexical": "contract",
+                    "itn": "contract",
+                    "maskedITN": "contract",
+                    "display": "contract"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT8.6S",
+            "duration": "PT0.46S",
+            "offsetInTicks": 86000000.0,
+            "durationInTicks": 4600000.0,
+            "nBest": [
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.47612184,
+                    "lexical": "ok",
+                    "itn": "ok",
+                    "maskedITN": "ok",
+                    "display": "OK"
+                },
+                {
+                    "confidence": 0.58797157,
+                    "lexical": "right",
+                    "itn": "right",
+                    "maskedITN": "right",
+                    "display": "right"
+                },
+                {
+                    "confidence": 0.3763647,
+                    "lexical": "alright",
+                    "itn": "alright",
+                    "maskedITN": "alright",
+                    "display": "alright"
+                },
+                {
+                    "confidence": 0.6495246,
+                    "lexical": "all right",
+                    "itn": "all right",
+                    "maskedITN": "all right",
+                    "display": "all right"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT10.13S",
+            "duration": "PT0.33S",
+            "offsetInTicks": 101300000.0,
+            "durationInTicks": 3300000.0,
+            "nBest": [
+                {
+                    "confidence": 0.5136915,
+                    "lexical": "uh",
+                    "itn": "uh",
+                    "maskedITN": "uh",
+                    "display": "Uh."
+                },
+                {
+                    "confidence": 0.5438417,
+                    "lexical": "hello",
+                    "itn": "hello",
+                    "maskedITN": "hello",
+                    "display": "hello"
+                },
+                {
+                    "confidence": 0.31913942,
+                    "lexical": "alright",
+                    "itn": "alright",
+                    "maskedITN": "alright",
+                    "display": "alright"
+                },
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.15147707,
+                    "lexical": "uh-huh",
+                    "itn": "uh-huh",
+                    "maskedITN": "uh-huh",
+                    "display": "uh-huh"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT12.04S",
+            "duration": "PT1.22S",
+            "offsetInTicks": 120400000.0,
+            "durationInTicks": 12200000.0,
+            "nBest": [
+                {
+                    "confidence": 0.4519789,
+                    "lexical": "uh well no",
+                    "itn": "uh well no",
+                    "maskedITN": "uh well no",
+                    "display": "Uh, well, no."
+                },
+                {
+                    "confidence": 0.50840104,
+                    "lexical": "uh no no",
+                    "itn": "uh no no",
+                    "maskedITN": "uh no no",
+                    "display": "uh no no"
+                },
+                {
+                    "confidence": 0.4319693,
+                    "lexical": "yeah well no",
+                    "itn": "yeah well no",
+                    "maskedITN": "yeah well no",
+                    "display": "yeah well no"
+                },
+                {
+                    "confidence": 0.5141068,
+                    "lexical": "uh well no i was checking",
+                    "itn": "uh well no i was checking",
+                    "maskedITN": "uh well no i was checking",
+                    "display": "uh well no i was checking"
+                },
+                {
+                    "confidence": 0.53654236,
+                    "lexical": "no",
+                    "itn": "no",
+                    "maskedITN": "no",
+                    "display": "no"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT14.5S",
+            "duration": "PT20S",
+            "offsetInTicks": 145000000.0,
+            "durationInTicks": 200000000.0,
+            "nBest": [
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.4984676,
+                    "lexical": "how",
+                    "itn": "how",
+                    "maskedITN": "how",
+                    "display": "how"
+                },
+                {
+                    "confidence": 0.39433047,
+                    "lexical": "hello",
+                    "itn": "hello",
+                    "maskedITN": "hello",
+                    "display": "hello"
+                },
+                {
+                    "confidence": 0.48504832,
+                    "lexical": "yeah",
+                    "itn": "yeah",
+                    "maskedITN": "yeah",
+                    "display": "yeah"
+                },
+                {
+                    "confidence": 0.49308118,
+                    "lexical": "no",
+                    "itn": "no",
+                    "maskedITN": "no",
+                    "display": "no"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT34.5S",
+            "duration": "PT20S",
+            "offsetInTicks": 345000000.0,
+            "durationInTicks": 200000000.0,
+            "nBest": [
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.5042551,
+                    "lexical": "no",
+                    "itn": "no",
+                    "maskedITN": "no",
+                    "display": "no"
+                },
+                {
+                    "confidence": 0.4548564,
+                    "lexical": "uh",
+                    "itn": "uh",
+                    "maskedITN": "uh",
+                    "display": "uh"
+                },
+                {
+                    "confidence": 0.4530787,
+                    "lexical": "oh",
+                    "itn": "oh",
+                    "maskedITN": "oh",
+                    "display": "oh"
+                },
+                {
+                    "confidence": 0.44428226,
+                    "lexical": "hi",
+                    "itn": "hi",
+                    "maskedITN": "hi",
+                    "display": "hi"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT1M0.77S",
+            "duration": "PT0.69S",
+            "offsetInTicks": 607700000.0,
+            "durationInTicks": 6900000.0,
+            "nBest": [
+                {
+                    "confidence": 0.36678398,
+                    "lexical": "this house",
+                    "itn": "this house",
+                    "maskedITN": "this house",
+                    "display": "This house."
+                },
+                {
+                    "confidence": 0.6244938,
+                    "lexical": "this",
+                    "itn": "this",
+                    "maskedITN": "this",
+                    "display": "this"
+                },
+                {
+                    "confidence": 0.30797356,
+                    "lexical": "this off",
+                    "itn": "this off",
+                    "maskedITN": "this off",
+                    "display": "this off"
+                },
+                {
+                    "confidence": 0.36660787,
+                    "lexical": "this out",
+                    "itn": "this out",
+                    "maskedITN": "this out",
+                    "display": "this out"
+                },
+                {
+                    "confidence": 0.7124601,
+                    "lexical": "this is",
+                    "itn": "this is",
+                    "maskedITN": "this is",
+                    "display": "this is"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT1M4.11S",
+            "duration": "PT7.36S",
+            "offsetInTicks": 641100000.0,
+            "durationInTicks": 73600000.0,
+            "nBest": [
+                {
+                    "confidence": 0.6370251,
+                    "lexical": "when i drive is paid and the citizen who pays normally benefits small amount be the official who receives payments from",
+                    "itn": "when i drive is paid and the citizen who pays normally benefits small amount be the official who receives payments from",
+                    "maskedITN": "when i drive is paid and the citizen who pays normally benefits small amount be the official who receives payments from",
+                    "display": "When I drive, is paid and the citizen who pays normally benefits small amount be the official who receives payments from."
+                },
+                {
+                    "confidence": 0.6394239,
+                    "lexical": "when i'm driving is paid and the citizen who pays normally benefits small amount be the official who receives payments from",
+                    "itn": "when i'm driving is paid and the citizen who pays normally benefits small amount be the official who receives payments from",
+                    "maskedITN": "when i'm driving is paid and the citizen who pays normally benefits small amount be the official who receives payments from",
+                    "display": "when i'm driving is paid and the citizen who pays normally benefits small amount be the official who receives payments from"
+                },
+                {
+                    "confidence": 0.6192351,
+                    "lexical": "when i drive is paid and the citizen who pays normally benefits small amount be the official who receives payments mobile",
+                    "itn": "when i drive is paid and the citizen who pays normally benefits small amount be the official who receives payments mobile",
+                    "maskedITN": "when i drive is paid and the citizen who pays normally benefits small amount be the official who receives payments mobile",
+                    "display": "when i drive is paid and the citizen who pays normally benefits small amount be the official who receives payments mobile"
+                },
+                {
+                    "confidence": 0.6124553,
+                    "lexical": "when i'm driving is paid and the citizen who pays normally benefits more amount be the official who receives payments mobile",
+                    "itn": "when i'm driving is paid and the citizen who pays normally benefits more amount be the official who receives payments mobile",
+                    "maskedITN": "when i'm driving is paid and the citizen who pays normally benefits more amount be the official who receives payments mobile",
+                    "display": "when i'm driving is paid and the citizen who pays normally benefits more amount be the official who receives payments mobile"
+                },
+                {
+                    "confidence": 0.62154853,
+                    "lexical": "when i'm driving is paid and the citizen who pays normally benefits small amount be the official who receives payments mobile",
+                    "itn": "when i'm driving is paid and the citizen who pays normally benefits small amount be the official who receives payments mobile",
+                    "maskedITN": "when i'm driving is paid and the citizen who pays normally benefits small amount be the official who receives payments mobile",
+                    "display": "when i'm driving is paid and the citizen who pays normally benefits small amount be the official who receives payments mobile"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT1M13.28S",
+            "duration": "PT2.62S",
+            "offsetInTicks": 732800000.0,
+            "durationInTicks": 26200000.0,
+            "nBest": [
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.72231036,
+                    "lexical": "so",
+                    "itn": "so",
+                    "maskedITN": "so",
+                    "display": "so"
+                },
+                {
+                    "confidence": 0.7597939,
+                    "lexical": "no",
+                    "itn": "no",
+                    "maskedITN": "no",
+                    "display": "no"
+                },
+                {
+                    "confidence": 0.49532166,
+                    "lexical": "yeah",
+                    "itn": "yeah",
+                    "maskedITN": "yeah",
+                    "display": "yeah"
+                },
+                {
+                    "confidence": 0.3905087,
+                    "lexical": "stop",
+                    "itn": "stop",
+                    "maskedITN": "stop",
+                    "display": "stop"
+                }
+            ]
+        }
+    ]
+}

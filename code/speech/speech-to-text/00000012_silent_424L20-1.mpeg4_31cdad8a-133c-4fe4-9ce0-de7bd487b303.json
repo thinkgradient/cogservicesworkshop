@@ -1,0 +1,152 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000012_silent_424L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:44:06Z",
+    "durationInTicks": 318400000,
+    "duration": "PT31.84S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "and do you think it's OK for citizens to pay bribes when it helps them with their own personal problems or it's not OK because it has other people in society do you think it's OK for citizens to pay bribes when it helps them with their own personal problem or it's not OK because it has other people and society strongly as sandwich",
+            "itn": "and do you think it's OK for citizens to pay bribes when it helps them with their own personal problems or it's not OK because it has other people in society do you think it's OK for citizens to pay bribes when it helps them with their own personal problem or it's not OK because it has other people and society strongly as sandwich",
+            "maskedITN": "and do you think it's ok for citizens to pay bribes when it helps them with their own personal problems or it's not ok because it has other people in society do you think it's ok for citizens to pay bribes when it helps them with their own personal problem or it's not ok because it has other people and society strongly as sandwich",
+            "display": "And do you think it's OK for citizens to pay bribes when it helps them with their own personal problems, or it's not OK because it has other people in society? Do you think it's OK for citizens to pay bribes when it helps them with their own personal problem? Or it's not OK because it has other people and society? Strongly as sandwich."
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT3.84S",
+            "duration": "PT7.56S",
+            "offsetInTicks": 38400000.0,
+            "durationInTicks": 75600000.0,
+            "nBest": [
+                {
+                    "confidence": 0.8986148,
+                    "lexical": "and do you think it's OK for citizens to pay bribes when it helps them with their own personal problems or it's not OK because it has other people in society",
+                    "itn": "and do you think it's OK for citizens to pay bribes when it helps them with their own personal problems or it's not OK because it has other people in society",
+                    "maskedITN": "and do you think it's ok for citizens to pay bribes when it helps them with their own personal problems or it's not ok because it has other people in society",
+                    "display": "And do you think it's OK for citizens to pay bribes when it helps them with their own personal problems, or it's not OK because it has other people in society?"
+                },
+                {
+                    "confidence": 0.89477473,
+                    "lexical": "and do you think it's ok for citizens to pay bribes when it helps them with their own personal problem or it's not ok because it has other people in society",
+                    "itn": "and do you think it's ok for citizens to pay bribes when it helps them with their own personal problem or it's not ok because it has other people in society",
+                    "maskedITN": "and do you think it's ok for citizens to pay bribes when it helps them with their own personal problem or it's not ok because it has other people in society",
+                    "display": "and do you think it's OK for citizens to pay bribes when it helps them with their own personal problem or it's not OK because it has other people in society"
+                },
+                {
+                    "confidence": 0.89233714,
+                    "lexical": "and do you think it's ok for citizens to pay bribes when it helps them with their own personal problems or it's not ok because it has other people and society",
+                    "itn": "and do you think it's ok for citizens to pay bribes when it helps them with their own personal problems or it's not ok because it has other people and society",
+                    "maskedITN": "and do you think it's ok for citizens to pay bribes when it helps them with their own personal problems or it's not ok because it has other people and society",
+                    "display": "and do you think it's OK for citizens to pay bribes when it helps them with their own personal problems or it's not OK because it has other people and society"
+                },
+                {
+                    "confidence": 0.888589,
+                    "lexical": "and do you think it's ok for citizens to pay bribes when it helps them with their own personal problem or it's not ok because it has other people and society",
+                    "itn": "and do you think it's ok for citizens to pay bribes when it helps them with their own personal problem or it's not ok because it has other people and society",
+                    "maskedITN": "and do you think it's ok for citizens to pay bribes when it helps them with their own personal problem or it's not ok because it has other people and society",
+                    "display": "and do you think it's OK for citizens to pay bribes when it helps them with their own personal problem or it's not OK because it has other people and society"
+                },
+                {
+                    "confidence": 0.8849495,
+                    "lexical": "and do you think it's ok for citizens to pay bribes when it helps them with their own personal problem or it's not ok because it had other people in society",
+                    "itn": "and do you think it's ok for citizens to pay bribes when it helps them with their own personal problem or it's not ok because it had other people in society",
+                    "maskedITN": "and do you think it's ok for citizens to pay bribes when it helps them with their own personal problem or it's not ok because it had other people in society",
+                    "display": "and do you think it's OK for citizens to pay bribes when it helps them with their own personal problem or it's not OK because it had other people in society"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT18.67S",
+            "duration": "PT8.85S",
+            "offsetInTicks": 186700000.0,
+            "durationInTicks": 88500000.0,
+            "nBest": [
+                {
+                    "confidence": 0.9013637,
+                    "lexical": "do you think it's OK for citizens to pay bribes when it helps them with their own personal problem or it's not OK because it has other people and society",
+                    "itn": "do you think it's OK for citizens to pay bribes when it helps them with their own personal problem or it's not OK because it has other people and society",
+                    "maskedITN": "do you think it's ok for citizens to pay bribes when it helps them with their own personal problem or it's not ok because it has other people and society",
+                    "display": "Do you think it's OK for citizens to pay bribes when it helps them with their own personal problem? Or it's not OK because it has other people and society?"
+                },
+                {
+                    "confidence": 0.88721967,
+                    "lexical": "do you think it's ok for citizens to pay bribes when it helps them with their own personal problem or it's not ok because it hurts other people and society",
+                    "itn": "do you think it's ok for citizens to pay bribes when it helps them with their own personal problem or it's not ok because it hurts other people and society",
+                    "maskedITN": "do you think it's ok for citizens to pay bribes when it helps them with their own personal problem or it's not ok because it hurts other people and society",
+                    "display": "do you think it's OK for citizens to pay bribes when it helps them with their own personal problem or it's not OK because it hurts other people and society"
+                },
+                {
+                    "confidence": 0.8961096,
+                    "lexical": "do you think it's ok for citizens to pay bribes when it helps them with their own personal problem or it's not ok because it has other people in society",
+                    "itn": "do you think it's ok for citizens to pay bribes when it helps them with their own personal problem or it's not ok because it has other people in society",
+                    "maskedITN": "do you think it's ok for citizens to pay bribes when it helps them with their own personal problem or it's not ok because it has other people in society",
+                    "display": "do you think it's OK for citizens to pay bribes when it helps them with their own personal problem or it's not OK because it has other people in society"
+                },
+                {
+                    "confidence": 0.8965571,
+                    "lexical": "do you think it's ok for citizens to pay bribes when it helps them with their own personal problem or it's not ok because it had other people and society",
+                    "itn": "do you think it's ok for citizens to pay bribes when it helps them with their own personal problem or it's not ok because it had other people and society",
+                    "maskedITN": "do you think it's ok for citizens to pay bribes when it helps them with their own personal problem or it's not ok because it had other people and society",
+                    "display": "do you think it's OK for citizens to pay bribes when it helps them with their own personal problem or it's not OK because it had other people and society"
+                },
+                {
+                    "confidence": 0.89948356,
+                    "lexical": "do you think it's ok for citizens to pay bribes when it helps them with their own personal problem or it's not ok because it has other people and societies",
+                    "itn": "do you think it's ok for citizens to pay bribes when it helps them with their own personal problem or it's not ok because it has other people and societies",
+                    "maskedITN": "do you think it's ok for citizens to pay bribes when it helps them with their own personal problem or it's not ok because it has other people and societies",
+                    "display": "do you think it's OK for citizens to pay bribes when it helps them with their own personal problem or it's not OK because it has other people and societies"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT29.2S",
+            "duration": "PT1.11S",
+            "offsetInTicks": 292000000.0,
+            "durationInTicks": 11100000.0,
+            "nBest": [
+                {
+                    "confidence": 0.44663915,
+                    "lexical": "strongly as sandwich",
+                    "itn": "strongly as sandwich",
+                    "maskedITN": "strongly as sandwich",
+                    "display": "Strongly as sandwich."
+                },
+                {
+                    "confidence": 0.19533,
+                    "lexical": "strongly sandwich",
+                    "itn": "strongly sandwich",
+                    "maskedITN": "strongly sandwich",
+                    "display": "strongly sandwich"
+                },
+                {
+                    "confidence": 0.50539476,
+                    "lexical": "strongly at that much",
+                    "itn": "strongly at that much",
+                    "maskedITN": "strongly at that much",
+                    "display": "strongly at that much"
+                },
+                {
+                    "confidence": 0.56691784,
+                    "lexical": "strongly as that much",
+                    "itn": "strongly as that much",
+                    "maskedITN": "strongly as that much",
+                    "display": "strongly as that much"
+                },
+                {
+                    "confidence": 0.3995095,
+                    "lexical": "strongly as sandwiches",
+                    "itn": "strongly as sandwiches",
+                    "maskedITN": "strongly as sandwiches",
+                    "display": "strongly as sandwiches"
+                }
+            ]
+        }
+    ]
+}

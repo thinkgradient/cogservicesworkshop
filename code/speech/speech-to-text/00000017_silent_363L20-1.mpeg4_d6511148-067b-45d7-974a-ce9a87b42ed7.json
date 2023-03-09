@@ -1,0 +1,152 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000017_silent_363L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:43:22Z",
+    "durationInTicks": 138800000,
+    "duration": "PT13.88S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "OK could you please tell me which of these age groups you fall into what is your current age thirty seven",
+            "itn": "OK could you please tell me which of these age groups you fall into what is your current age 37",
+            "maskedITN": "ok could you please tell me which of these age groups you fall into what is your current age 37",
+            "display": "OK. Could you please tell me which of these age groups you fall into? What is your current age? 37."
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT0.23S",
+            "duration": "PT0.41S",
+            "offsetInTicks": 2300000.0,
+            "durationInTicks": 4100000.0,
+            "nBest": [
+                {
+                    "confidence": 0.51607794,
+                    "lexical": "OK",
+                    "itn": "OK",
+                    "maskedITN": "ok",
+                    "display": "OK."
+                },
+                {
+                    "confidence": 0.6865346,
+                    "lexical": "it's ok",
+                    "itn": "it's ok",
+                    "maskedITN": "it's ok",
+                    "display": "it's OK"
+                },
+                {
+                    "confidence": 0.58164096,
+                    "lexical": "that's ok",
+                    "itn": "that's ok",
+                    "maskedITN": "that's ok",
+                    "display": "that's OK"
+                },
+                {
+                    "confidence": 0.61164206,
+                    "lexical": "so ok",
+                    "itn": "so ok",
+                    "maskedITN": "so ok",
+                    "display": "so OK"
+                },
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT4.04S",
+            "duration": "PT3.78S",
+            "offsetInTicks": 40400000.0,
+            "durationInTicks": 37800000.0,
+            "nBest": [
+                {
+                    "confidence": 0.7831093,
+                    "lexical": "could you please tell me which of these age groups you fall into what is your current age",
+                    "itn": "could you please tell me which of these age groups you fall into what is your current age",
+                    "maskedITN": "could you please tell me which of these age groups you fall into what is your current age",
+                    "display": "Could you please tell me which of these age groups you fall into? What is your current age?"
+                },
+                {
+                    "confidence": 0.77176255,
+                    "lexical": "could you please tell me which of these age groups you follow into what is your current age",
+                    "itn": "could you please tell me which of these age groups you follow into what is your current age",
+                    "maskedITN": "could you please tell me which of these age groups you follow into what is your current age",
+                    "display": "could you please tell me which of these age groups you follow into what is your current age"
+                },
+                {
+                    "confidence": 0.76569664,
+                    "lexical": "could you please tell me which of these age groups you're falling into what is your current age",
+                    "itn": "could you please tell me which of these age groups you're falling into what is your current age",
+                    "maskedITN": "could you please tell me which of these age groups you're falling into what is your current age",
+                    "display": "could you please tell me which of these age groups you're falling into what is your current age"
+                },
+                {
+                    "confidence": 0.7987151,
+                    "lexical": "could you please tell me which of these age groups you're following what is your current age",
+                    "itn": "could you please tell me which of these age groups you're following what is your current age",
+                    "maskedITN": "could you please tell me which of these age groups you're following what is your current age",
+                    "display": "could you please tell me which of these age groups you're following what is your current age"
+                },
+                {
+                    "confidence": 0.7685494,
+                    "lexical": "could you please tell me which of these age groups you falling into what is your current age",
+                    "itn": "could you please tell me which of these age groups you falling into what is your current age",
+                    "maskedITN": "could you please tell me which of these age groups you falling into what is your current age",
+                    "display": "could you please tell me which of these age groups you falling into what is your current age"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT10.86S",
+            "duration": "PT0.59S",
+            "offsetInTicks": 108600000.0,
+            "durationInTicks": 5900000.0,
+            "nBest": [
+                {
+                    "confidence": 0.63892096,
+                    "lexical": "thirty seven",
+                    "itn": "37",
+                    "maskedITN": "37",
+                    "display": "37."
+                },
+                {
+                    "confidence": 0.67469203,
+                    "lexical": "that's seven",
+                    "itn": "that's seven",
+                    "maskedITN": "that's seven",
+                    "display": "that's seven"
+                },
+                {
+                    "confidence": 0.57959145,
+                    "lexical": "thirty second",
+                    "itn": "thirty second",
+                    "maskedITN": "thirty second",
+                    "display": "thirty second"
+                },
+                {
+                    "confidence": 0.61050856,
+                    "lexical": "that second",
+                    "itn": "that second",
+                    "maskedITN": "that second",
+                    "display": "that second"
+                },
+                {
+                    "confidence": 0.6094838,
+                    "lexical": "that's even",
+                    "itn": "that's even",
+                    "maskedITN": "that's even",
+                    "display": "that's even"
+                }
+            ]
+        }
+    ]
+}

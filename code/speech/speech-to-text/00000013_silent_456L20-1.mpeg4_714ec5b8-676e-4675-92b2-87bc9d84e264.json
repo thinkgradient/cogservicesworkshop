@@ -1,0 +1,152 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000013_silent_456L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:43:46Z",
+    "durationInTicks": 199400000,
+    "duration": "PT19.94S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "official who received the payment official OK show me",
+            "itn": "official who received the payment official OK show me",
+            "maskedITN": "official who received the payment official ok show me",
+            "display": "Official who received the payment. Official. OK, show me."
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT9.56S",
+            "duration": "PT1.58S",
+            "offsetInTicks": 95600000.0,
+            "durationInTicks": 15800000.0,
+            "nBest": [
+                {
+                    "confidence": 0.62979174,
+                    "lexical": "official who received the payment",
+                    "itn": "official who received the payment",
+                    "maskedITN": "official who received the payment",
+                    "display": "Official who received the payment."
+                },
+                {
+                    "confidence": 0.6858013,
+                    "lexical": "the official who received the payment",
+                    "itn": "the official who received the payment",
+                    "maskedITN": "the official who received the payment",
+                    "display": "the official who received the payment"
+                },
+                {
+                    "confidence": 0.67504054,
+                    "lexical": "the official who receives the payment",
+                    "itn": "the official who receives the payment",
+                    "maskedITN": "the official who receives the payment",
+                    "display": "the official who receives the payment"
+                },
+                {
+                    "confidence": 0.64371836,
+                    "lexical": "the official who received the payment number",
+                    "itn": "the official who received the payment number",
+                    "maskedITN": "the official who received the payment number",
+                    "display": "the official who received the payment number"
+                },
+                {
+                    "confidence": 0.594523,
+                    "lexical": "official who received the payment number",
+                    "itn": "official who received the payment number",
+                    "maskedITN": "official who received the payment number",
+                    "display": "official who received the payment number"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT16.6S",
+            "duration": "PT0.55S",
+            "offsetInTicks": 166000000.0,
+            "durationInTicks": 5500000.0,
+            "nBest": [
+                {
+                    "confidence": 0.47887626,
+                    "lexical": "official",
+                    "itn": "official",
+                    "maskedITN": "official",
+                    "display": "Official."
+                },
+                {
+                    "confidence": 0.752603,
+                    "lexical": "the official",
+                    "itn": "the official",
+                    "maskedITN": "the official",
+                    "display": "the official"
+                },
+                {
+                    "confidence": 0.29376706,
+                    "lexical": "officials",
+                    "itn": "officials",
+                    "maskedITN": "officials",
+                    "display": "officials"
+                },
+                {
+                    "confidence": 0.48398557,
+                    "lexical": "the officials",
+                    "itn": "the officials",
+                    "maskedITN": "the officials",
+                    "display": "the officials"
+                },
+                {
+                    "confidence": 0.1486938,
+                    "lexical": "officially",
+                    "itn": "officially",
+                    "maskedITN": "officially",
+                    "display": "officially"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT18.73S",
+            "duration": "PT1.04S",
+            "offsetInTicks": 187300000.0,
+            "durationInTicks": 10400000.0,
+            "nBest": [
+                {
+                    "confidence": 0.67307204,
+                    "lexical": "OK show me",
+                    "itn": "OK show me",
+                    "maskedITN": "ok show me",
+                    "display": "OK, show me."
+                },
+                {
+                    "confidence": 0.7909628,
+                    "lexical": "show me",
+                    "itn": "show me",
+                    "maskedITN": "show me",
+                    "display": "show me"
+                },
+                {
+                    "confidence": 0.41640353,
+                    "lexical": "ok sure",
+                    "itn": "ok sure",
+                    "maskedITN": "ok sure",
+                    "display": "OK sure"
+                },
+                {
+                    "confidence": 0.54180205,
+                    "lexical": "yeah show me",
+                    "itn": "yeah show me",
+                    "maskedITN": "yeah show me",
+                    "display": "yeah show me"
+                },
+                {
+                    "confidence": 0.85188425,
+                    "lexical": "ok",
+                    "itn": "ok",
+                    "maskedITN": "ok",
+                    "display": "OK"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000009_silent_392L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:43:28Z",
+    "durationInTicks": 338800000,
+    "duration": "PT33.88S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "OK first do you think bribery is more of a problem when a citizen offers a bribe or B an official demand a bribe do you think do you think bribery is more of a problem when a citizens offer or an official demand financial demand and official demand you strongly agree or somehow",
+            "itn": "OK first do you think bribery is more of a problem when a citizen offers a bribe or B an official demand a bribe do you think do you think bribery is more of a problem when a citizens offer or an official demand financial demand and official demand you strongly agree or somehow",
+            "maskedITN": "ok first do you think bribery is more of a problem when a citizen offers a bribe or b an official demand a bribe do you think do you think bribery is more of a problem when a citizens offer or an official demand financial demand and official demand you strongly agree or somehow",
+            "display": "OK, first, do you think bribery is more of a problem when a citizen offers a bribe or B an official demand a bribe? Do you think do you think bribery is more of a problem when a citizens offer or an official demand? Financial demand and official demand? You strongly agree or somehow?"
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT3.47S",
+            "duration": "PT12.56S",
+            "offsetInTicks": 34700000.0,
+            "durationInTicks": 125600000.0,
+            "nBest": [
+                {
+                    "confidence": 0.74218535,
+                    "lexical": "OK first do you think bribery is more of a problem when a citizen offers a bribe or B an official demand a bribe",
+                    "itn": "OK first do you think bribery is more of a problem when a citizen offers a bribe or B an official demand a bribe",
+                    "maskedITN": "ok first do you think bribery is more of a problem when a citizen offers a bribe or b an official demand a bribe",
+                    "display": "OK, first, do you think bribery is more of a problem when a citizen offers a bribe or B an official demand a bribe?"
+                },
+                {
+                    "confidence": 0.73783594,
+                    "lexical": "ok fast do you think bribery is more of a problem when a citizen offers a bribe or b an official demand a bribe",
+                    "itn": "ok fast do you think bribery is more of a problem when a citizen offers a bribe or b an official demand a bribe",
+                    "maskedITN": "ok fast do you think bribery is more of a problem when a citizen offers a bribe or b an official demand a bribe",
+                    "display": "OK fast do you think bribery is more of a problem when a citizen offers a bribe or B an official demand a bribe"
+                },
+                {
+                    "confidence": 0.7519972,
+                    "lexical": "ok first do you think bribery is more of a problem when a a citizen offers a bribe or b an official demand a bribe",
+                    "itn": "ok first do you think bribery is more of a problem when a a citizen offers a bribe or b an official demand a bribe",
+                    "maskedITN": "ok first do you think bribery is more of a problem when a a citizen offers a bribe or b an official demand a bribe",
+                    "display": "OK first do you think bribery is more of a problem when a a citizen offers a bribe or B an official demand a bribe"
+                },
+                {
+                    "confidence": 0.748145,
+                    "lexical": "ok first thing do you think bribery is more of a problem when a citizen offers a bribe or b an official demand a bribe",
+                    "itn": "ok first thing do you think bribery is more of a problem when a citizen offers a bribe or b an official demand a bribe",
+                    "maskedITN": "ok first thing do you think bribery is more of a problem when a citizen offers a bribe or b an official demand a bribe",
+                    "display": "OK first thing do you think bribery is more of a problem when a citizen offers a bribe or B an official demand a bribe"
+                },
+                {
+                    "confidence": 0.7348646,
+                    "lexical": "ok first do you think bradbury is more of a problem when a citizen offers a bribe or b an official demand a bribe",
+                    "itn": "ok first do you think bradbury is more of a problem when a citizen offers a bribe or b an official demand a bribe",
+                    "maskedITN": "ok first do you think bradbury is more of a problem when a citizen offers a bribe or b an official demand a bribe",
+                    "display": "OK first do you think bradbury is more of a problem when a citizen offers a bribe or B an official demand a bribe"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT18.63S",
+            "duration": "PT8.23S",
+            "offsetInTicks": 186300000.0,
+            "durationInTicks": 82300000.0,
+            "nBest": [
+                {
+                    "confidence": 0.7914781,
+                    "lexical": "do you think do you think bribery is more of a problem when a citizens offer or an official demand",
+                    "itn": "do you think do you think bribery is more of a problem when a citizens offer or an official demand",
+                    "maskedITN": "do you think do you think bribery is more of a problem when a citizens offer or an official demand",
+                    "display": "Do you think do you think bribery is more of a problem when a citizens offer or an official demand?"
+                },
+                {
+                    "confidence": 0.8020376,
+                    "lexical": "do you think bradbury is more of a problem when a citizens offer or an official demand",
+                    "itn": "do you think bradbury is more of a problem when a citizens offer or an official demand",
+                    "maskedITN": "do you think bradbury is more of a problem when a citizens offer or an official demand",
+                    "display": "do you think bradbury is more of a problem when a citizens offer or an official demand"
+                },
+                {
+                    "confidence": 0.7932772,
+                    "lexical": "do you think do you think bradbury is more of a problem when a citizens offer or an official demand",
+                    "itn": "do you think do you think bradbury is more of a problem when a citizens offer or an official demand",
+                    "maskedITN": "do you think do you think bradbury is more of a problem when a citizens offer or an official demand",
+                    "display": "do you think do you think bradbury is more of a problem when a citizens offer or an official demand"
+                },
+                {
+                    "confidence": 0.7999513,
+                    "lexical": "do you think do you think bradbury is more of a problem when a citizen offer or an official demand",
+                    "itn": "do you think do you think bradbury is more of a problem when a citizen offer or an official demand",
+                    "maskedITN": "do you think do you think bradbury is more of a problem when a citizen offer or an official demand",
+                    "display": "do you think do you think bradbury is more of a problem when a citizen offer or an official demand"
+                },
+                {
+                    "confidence": 0.79586536,
+                    "lexical": "do you think do you think bradbury is more of a problem when the citizens offer or an official demand",
+                    "itn": "do you think do you think bradbury is more of a problem when the citizens offer or an official demand",
+                    "maskedITN": "do you think do you think bradbury is more of a problem when the citizens offer or an official demand",
+                    "display": "do you think do you think bradbury is more of a problem when the citizens offer or an official demand"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT27.58S",
+            "duration": "PT4.83S",
+            "offsetInTicks": 275800000.0,
+            "durationInTicks": 48300000.0,
+            "nBest": [
+                {
+                    "confidence": 0.6213467,
+                    "lexical": "financial demand and official demand you strongly agree or somehow",
+                    "itn": "financial demand and official demand you strongly agree or somehow",
+                    "maskedITN": "financial demand and official demand you strongly agree or somehow",
+                    "display": "Financial demand and official demand? You strongly agree or somehow?"
+                },
+                {
+                    "confidence": 0.6475067,
+                    "lexical": "financial demand and on official demand you strongly agree or somehow",
+                    "itn": "financial demand and on official demand you strongly agree or somehow",
+                    "maskedITN": "financial demand and on official demand you strongly agree or somehow",
+                    "display": "financial demand and on official demand you strongly agree or somehow"
+                },
+                {
+                    "confidence": 0.6047382,
+                    "lexical": "financial demand and official demand you're strongly agree or somehow",
+                    "itn": "financial demand and official demand you're strongly agree or somehow",
+                    "maskedITN": "financial demand and official demand you're strongly agree or somehow",
+                    "display": "financial demand and official demand you're strongly agree or somehow"
+                },
+                {
+                    "confidence": 0.6308982,
+                    "lexical": "financial demand and on official demand you're strongly agree or somehow",
+                    "itn": "financial demand and on official demand you're strongly agree or somehow",
+                    "maskedITN": "financial demand and on official demand you're strongly agree or somehow",
+                    "display": "financial demand and on official demand you're strongly agree or somehow"
+                },
+                {
+                    "confidence": 0.6713074,
+                    "lexical": "financial demand and on future demand you strongly agree or somehow",
+                    "itn": "financial demand and on future demand you strongly agree or somehow",
+                    "maskedITN": "financial demand and on future demand you strongly agree or somehow",
+                    "display": "financial demand and on future demand you strongly agree or somehow"
+                }
+            ]
+        }
+    ]
+}

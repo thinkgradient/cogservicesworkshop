@@ -1,0 +1,332 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000001_silent_424L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:43:13Z",
+    "durationInTicks": 332800000,
+    "duration": "PT33.28S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "no i agree yeah uh do you think if it is OK for citizens to pay bribes when it helps them with their own personal problem and maybe it is not OK for citizens to pay bribes because it hurts other people in society before strongly agree for someone OK",
+            "itn": "no i agree yeah uh do you think if it is OK for citizens to pay bribes when it helps them with their own personal problem and maybe it is not OK for citizens to pay bribes because it hurts other people in society before strongly agree for someone OK",
+            "maskedITN": "no i agree yeah uh do you think if it is ok for citizens to pay bribes when it helps them with their own personal problem and maybe it is not ok for citizens to pay bribes because it hurts other people in society before strongly agree for someone ok",
+            "display": "No, I agree. Yeah. Uh, do you think if it is OK for citizens to pay bribes when it helps them with their own personal problem? And maybe it is not OK for citizens to pay bribes because it hurts other people in society? Before. Strongly agree. For someone. OK."
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT1.05S",
+            "duration": "PT1.95S",
+            "offsetInTicks": 10500000.0,
+            "durationInTicks": 19500000.0,
+            "nBest": [
+                {
+                    "confidence": 0.5998723,
+                    "lexical": "no i agree",
+                    "itn": "no i agree",
+                    "maskedITN": "no i agree",
+                    "display": "No, I agree."
+                },
+                {
+                    "confidence": 0.38361445,
+                    "lexical": "no address",
+                    "itn": "no address",
+                    "maskedITN": "no address",
+                    "display": "no address"
+                },
+                {
+                    "confidence": 0.66350794,
+                    "lexical": "no",
+                    "itn": "no",
+                    "maskedITN": "no",
+                    "display": "no"
+                },
+                {
+                    "confidence": 0.22869948,
+                    "lexical": "yeah no",
+                    "itn": "yeah no",
+                    "maskedITN": "yeah no",
+                    "display": "yeah no"
+                },
+                {
+                    "confidence": 0.34705633,
+                    "lexical": "yeah yeah no",
+                    "itn": "yeah yeah no",
+                    "maskedITN": "yeah yeah no",
+                    "display": "yeah yeah no"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT3.26S",
+            "duration": "PT0.18S",
+            "offsetInTicks": 32600000.0,
+            "durationInTicks": 1800000.0,
+            "nBest": [
+                {
+                    "confidence": 0.79367924,
+                    "lexical": "yeah",
+                    "itn": "yeah",
+                    "maskedITN": "yeah",
+                    "display": "Yeah."
+                },
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.60796285,
+                    "lexical": "yep",
+                    "itn": "yep",
+                    "maskedITN": "yep",
+                    "display": "yep"
+                },
+                {
+                    "confidence": 0.52300924,
+                    "lexical": "yeah yeah",
+                    "itn": "yeah yeah",
+                    "maskedITN": "yeah yeah",
+                    "display": "yeah yeah"
+                },
+                {
+                    "confidence": 0.51337683,
+                    "lexical": "yes",
+                    "itn": "yes",
+                    "maskedITN": "yes",
+                    "display": "yes"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT5.42S",
+            "duration": "PT13.02S",
+            "offsetInTicks": 54200000.0,
+            "durationInTicks": 130200000.0,
+            "nBest": [
+                {
+                    "confidence": 0.854753,
+                    "lexical": "uh do you think if it is OK for citizens to pay bribes when it helps them with their own personal problem and maybe it is not OK for citizens to pay bribes because it hurts other people in society",
+                    "itn": "uh do you think if it is OK for citizens to pay bribes when it helps them with their own personal problem and maybe it is not OK for citizens to pay bribes because it hurts other people in society",
+                    "maskedITN": "uh do you think if it is ok for citizens to pay bribes when it helps them with their own personal problem and maybe it is not ok for citizens to pay bribes because it hurts other people in society",
+                    "display": "Uh, do you think if it is OK for citizens to pay bribes when it helps them with their own personal problem? And maybe it is not OK for citizens to pay bribes because it hurts other people in society?"
+                },
+                {
+                    "confidence": 0.8586177,
+                    "lexical": "uh do you think if it is ok for citizens to pay bribes when it helps them with their own personal problem i'm abby it is not ok for citizens to pay bribes because it hurts other people in society",
+                    "itn": "uh do you think if it is ok for citizens to pay bribes when it helps them with their own personal problem i'm abby it is not ok for citizens to pay bribes because it hurts other people in society",
+                    "maskedITN": "uh do you think if it is ok for citizens to pay bribes when it helps them with their own personal problem i'm abby it is not ok for citizens to pay bribes because it hurts other people in society",
+                    "display": "uh do you think if it is OK for citizens to pay bribes when it helps them with their own personal problem i'm abby it is not OK for citizens to pay bribes because it hurts other people in society"
+                },
+                {
+                    "confidence": 0.86694133,
+                    "lexical": "uh do you think if it is ok for citizens to pay bribes when it helps them with their own personal problem i'm a be it is not ok for citizens to pay bribes because it hurts other people in society",
+                    "itn": "uh do you think if it is ok for citizens to pay bribes when it helps them with their own personal problem i'm a be it is not ok for citizens to pay bribes because it hurts other people in society",
+                    "maskedITN": "uh do you think if it is ok for citizens to pay bribes when it helps them with their own personal problem i'm a be it is not ok for citizens to pay bribes because it hurts other people in society",
+                    "display": "uh do you think if it is OK for citizens to pay bribes when it helps them with their own personal problem i'm a be it is not OK for citizens to pay bribes because it hurts other people in society"
+                },
+                {
+                    "confidence": 0.85560316,
+                    "lexical": "uh do you think if it is ok for citizens to pay bribes when it helps them with their own personal problem i'm abby it is not ok for citizens to pay bribes because it hurts other people and society",
+                    "itn": "uh do you think if it is ok for citizens to pay bribes when it helps them with their own personal problem i'm abby it is not ok for citizens to pay bribes because it hurts other people and society",
+                    "maskedITN": "uh do you think if it is ok for citizens to pay bribes when it helps them with their own personal problem i'm abby it is not ok for citizens to pay bribes because it hurts other people and society",
+                    "display": "uh do you think if it is OK for citizens to pay bribes when it helps them with their own personal problem i'm abby it is not OK for citizens to pay bribes because it hurts other people and society"
+                },
+                {
+                    "confidence": 0.8532106,
+                    "lexical": "uh do you think if it is ok for citizens to pay bribes when it helps them with their own personal problem i'm away it is not ok for citizens to pay bribes because it hurts other people in society",
+                    "itn": "uh do you think if it is ok for citizens to pay bribes when it helps them with their own personal problem i'm away it is not ok for citizens to pay bribes because it hurts other people in society",
+                    "maskedITN": "uh do you think if it is ok for citizens to pay bribes when it helps them with their own personal problem i'm away it is not ok for citizens to pay bribes because it hurts other people in society",
+                    "display": "uh do you think if it is OK for citizens to pay bribes when it helps them with their own personal problem i'm away it is not OK for citizens to pay bribes because it hurts other people in society"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT21.98S",
+            "duration": "PT0.42S",
+            "offsetInTicks": 219800000.0,
+            "durationInTicks": 4200000.0,
+            "nBest": [
+                {
+                    "confidence": 0.6781349,
+                    "lexical": "before",
+                    "itn": "before",
+                    "maskedITN": "before",
+                    "display": "Before."
+                },
+                {
+                    "confidence": 0.4186371,
+                    "lexical": "before in",
+                    "itn": "before in",
+                    "maskedITN": "before in",
+                    "display": "before in"
+                },
+                {
+                    "confidence": 0.3894375,
+                    "lexical": "before you",
+                    "itn": "before you",
+                    "maskedITN": "before you",
+                    "display": "before you"
+                },
+                {
+                    "confidence": 0.3823763,
+                    "lexical": "before eight",
+                    "itn": "before eight",
+                    "maskedITN": "before eight",
+                    "display": "before eight"
+                },
+                {
+                    "confidence": 0.3944059,
+                    "lexical": "before it",
+                    "itn": "before it",
+                    "maskedITN": "before it",
+                    "display": "before it"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT24.32S",
+            "duration": "PT0.71S",
+            "offsetInTicks": 243200000.0,
+            "durationInTicks": 7100000.0,
+            "nBest": [
+                {
+                    "confidence": 0.5722265,
+                    "lexical": "strongly agree",
+                    "itn": "strongly agree",
+                    "maskedITN": "strongly agree",
+                    "display": "Strongly agree."
+                },
+                {
+                    "confidence": 0.5448502,
+                    "lexical": "strongly agreed",
+                    "itn": "strongly agreed",
+                    "maskedITN": "strongly agreed",
+                    "display": "strongly agreed"
+                },
+                {
+                    "confidence": 0.44279292,
+                    "lexical": "strongly agrees",
+                    "itn": "strongly agrees",
+                    "maskedITN": "strongly agrees",
+                    "display": "strongly agrees"
+                },
+                {
+                    "confidence": 0.5178193,
+                    "lexical": "strongly agree to",
+                    "itn": "strongly agree to",
+                    "maskedITN": "strongly agree to",
+                    "display": "strongly agree to"
+                },
+                {
+                    "confidence": 0.51053053,
+                    "lexical": "strongly agree on",
+                    "itn": "strongly agree on",
+                    "maskedITN": "strongly agree on",
+                    "display": "strongly agree on"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT27.05S",
+            "duration": "PT0.71S",
+            "offsetInTicks": 270500000.0,
+            "durationInTicks": 7100000.0,
+            "nBest": [
+                {
+                    "confidence": 0.42625606,
+                    "lexical": "for someone",
+                    "itn": "for someone",
+                    "maskedITN": "for someone",
+                    "display": "For someone."
+                },
+                {
+                    "confidence": 0.40514666,
+                    "lexical": "or someone",
+                    "itn": "or someone",
+                    "maskedITN": "or someone",
+                    "display": "or someone"
+                },
+                {
+                    "confidence": 0.13700062,
+                    "lexical": "someone",
+                    "itn": "someone",
+                    "maskedITN": "someone",
+                    "display": "someone"
+                },
+                {
+                    "confidence": 0.41985747,
+                    "lexical": "with someone",
+                    "itn": "with someone",
+                    "maskedITN": "with someone",
+                    "display": "with someone"
+                },
+                {
+                    "confidence": 0.09879249,
+                    "lexical": "somewhat",
+                    "itn": "somewhat",
+                    "maskedITN": "somewhat",
+                    "display": "somewhat"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT31.91S",
+            "duration": "PT0.44S",
+            "offsetInTicks": 319100000.0,
+            "durationInTicks": 4400000.0,
+            "nBest": [
+                {
+                    "confidence": 0.8742517,
+                    "lexical": "OK",
+                    "itn": "OK",
+                    "maskedITN": "ok",
+                    "display": "OK."
+                },
+                {
+                    "confidence": 0.55345875,
+                    "lexical": "o k",
+                    "itn": "o k",
+                    "maskedITN": "o k",
+                    "display": "O K"
+                },
+                {
+                    "confidence": 0.70712656,
+                    "lexical": "that's ok",
+                    "itn": "that's ok",
+                    "maskedITN": "that's ok",
+                    "display": "that's OK"
+                },
+                {
+                    "confidence": 0.8132127,
+                    "lexical": "ok ok",
+                    "itn": "ok ok",
+                    "maskedITN": "ok ok",
+                    "display": "OK OK"
+                },
+                {
+                    "confidence": 0.8471296,
+                    "lexical": "oh ok",
+                    "itn": "oh ok",
+                    "maskedITN": "oh ok",
+                    "display": "oh OK"
+                }
+            ]
+        }
+    ]
+}

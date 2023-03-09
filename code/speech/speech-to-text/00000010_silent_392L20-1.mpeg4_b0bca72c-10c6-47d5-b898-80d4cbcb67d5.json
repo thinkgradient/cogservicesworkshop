@@ -1,0 +1,467 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000010_silent_392L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:43:58Z",
+    "durationInTicks": 538200000,
+    "duration": "PT53.82S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "i will start off do you think bribery is more of a problem when a a citizen offers a bribe B an official demand a bribe what do you think no problem do you mind subscribe uh between those two which one do you think bribery is more of a problem the less it is enough fabric and our official do unattackable you somewhat agree and uh you uh strongly agree which one which one do you fall apart somewhat agree with",
+            "itn": "i will start off do you think bribery is more of a problem when a a citizen offers a bribe B an official demand a bribe what do you think no problem do you mind subscribe uh between those two which one do you think bribery is more of a problem the less it is enough fabric and our official do unattackable you somewhat agree and uh you uh strongly agree which one which one do you fall apart somewhat agree with",
+            "maskedITN": "i will start off do you think bribery is more of a problem when a a citizen offers a bribe b an official demand a bribe what do you think no problem do you mind subscribe uh between those two which one do you think bribery is more of a problem the less it is enough fabric and our official do unattackable you somewhat agree and uh you uh strongly agree which one which one do you fall apart somewhat agree with",
+            "display": "I will start off. Do you think bribery is more of a problem when a a citizen offers a bribe B an official demand a bribe? What do you think? No problem. Do you mind subscribe? Uh, between those two, which one do you think bribery is more of a problem? The less it is enough fabric and our official do unattackable. You somewhat agree, and uh, you uh, strongly agree. Which one? Which one? Do you fall apart? Somewhat agree with."
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT0.64S",
+            "duration": "PT1.02S",
+            "offsetInTicks": 6400000.0,
+            "durationInTicks": 10200000.0,
+            "nBest": [
+                {
+                    "confidence": 0.7705235,
+                    "lexical": "i will start off",
+                    "itn": "i will start off",
+                    "maskedITN": "i will start off",
+                    "display": "I will start off."
+                },
+                {
+                    "confidence": 0.74052197,
+                    "lexical": "uh we'll start off",
+                    "itn": "uh we'll start off",
+                    "maskedITN": "uh we'll start off",
+                    "display": "uh we'll start off"
+                },
+                {
+                    "confidence": 0.76071167,
+                    "lexical": "i will start up",
+                    "itn": "i will start up",
+                    "maskedITN": "i will start up",
+                    "display": "i will start up"
+                },
+                {
+                    "confidence": 0.7382049,
+                    "lexical": "uh we'll start up",
+                    "itn": "uh we'll start up",
+                    "maskedITN": "uh we'll start up",
+                    "display": "uh we'll start up"
+                },
+                {
+                    "confidence": 0.71796227,
+                    "lexical": "i will set up",
+                    "itn": "i will set up",
+                    "maskedITN": "i will set up",
+                    "display": "i will set up"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT4.87S",
+            "duration": "PT10.47S",
+            "offsetInTicks": 48700000.0,
+            "durationInTicks": 104700000.0,
+            "nBest": [
+                {
+                    "confidence": 0.6514782,
+                    "lexical": "do you think bribery is more of a problem when a a citizen offers a bribe B an official demand a bribe",
+                    "itn": "do you think bribery is more of a problem when a a citizen offers a bribe B an official demand a bribe",
+                    "maskedITN": "do you think bribery is more of a problem when a a citizen offers a bribe b an official demand a bribe",
+                    "display": "Do you think bribery is more of a problem when a a citizen offers a bribe B an official demand a bribe?"
+                },
+                {
+                    "confidence": 0.6504128,
+                    "lexical": "uh do you think bribery is more of a problem when a a citizen offers a bribe b an official demand a bribe",
+                    "itn": "uh do you think bribery is more of a problem when a a citizen offers a bribe b an official demand a bribe",
+                    "maskedITN": "uh do you think bribery is more of a problem when a a citizen offers a bribe b an official demand a bribe",
+                    "display": "uh do you think bribery is more of a problem when a a citizen offers a bribe B an official demand a bribe"
+                },
+                {
+                    "confidence": 0.64869845,
+                    "lexical": "i do you think bribery is more of a problem when a a citizen offers a bribe b an official demand a bribe",
+                    "itn": "i do you think bribery is more of a problem when a a citizen offers a bribe b an official demand a bribe",
+                    "maskedITN": "i do you think bribery is more of a problem when a a citizen offers a bribe b an official demand a bribe",
+                    "display": "i do you think bribery is more of a problem when a a citizen offers a bribe B an official demand a bribe"
+                },
+                {
+                    "confidence": 0.6407033,
+                    "lexical": "uh do you think blueberry is more of a problem when a a citizen offers a bribe b an official demand a bribe",
+                    "itn": "uh do you think blueberry is more of a problem when a a citizen offers a bribe b an official demand a bribe",
+                    "maskedITN": "uh do you think blueberry is more of a problem when a a citizen offers a bribe b an official demand a bribe",
+                    "display": "uh do you think blueberry is more of a problem when a a citizen offers a bribe B an official demand a bribe"
+                },
+                {
+                    "confidence": 0.64273137,
+                    "lexical": "do you think bradbury is more of a problem when a a citizen offers a bribe b an official demand a bribe",
+                    "itn": "do you think bradbury is more of a problem when a a citizen offers a bribe b an official demand a bribe",
+                    "maskedITN": "do you think bradbury is more of a problem when a a citizen offers a bribe b an official demand a bribe",
+                    "display": "do you think bradbury is more of a problem when a a citizen offers a bribe B an official demand a bribe"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT15.98S",
+            "duration": "PT0.89S",
+            "offsetInTicks": 159800000.0,
+            "durationInTicks": 8900000.0,
+            "nBest": [
+                {
+                    "confidence": 0.94114584,
+                    "lexical": "what do you think",
+                    "itn": "what do you think",
+                    "maskedITN": "what do you think",
+                    "display": "What do you think?"
+                },
+                {
+                    "confidence": 0.84879524,
+                    "lexical": "where do you think",
+                    "itn": "where do you think",
+                    "maskedITN": "where do you think",
+                    "display": "where do you think"
+                },
+                {
+                    "confidence": 0.87547,
+                    "lexical": "what did you think",
+                    "itn": "what did you think",
+                    "maskedITN": "what did you think",
+                    "display": "what did you think"
+                },
+                {
+                    "confidence": 0.89161295,
+                    "lexical": "so what do you think",
+                    "itn": "so what do you think",
+                    "maskedITN": "so what do you think",
+                    "display": "so what do you think"
+                },
+                {
+                    "confidence": 0.81553113,
+                    "lexical": "when do you think",
+                    "itn": "when do you think",
+                    "maskedITN": "when do you think",
+                    "display": "when do you think"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT21.16S",
+            "duration": "PT0.5S",
+            "offsetInTicks": 211600000.0,
+            "durationInTicks": 5000000.0,
+            "nBest": [
+                {
+                    "confidence": 0.5685171,
+                    "lexical": "no problem",
+                    "itn": "no problem",
+                    "maskedITN": "no problem",
+                    "display": "No problem."
+                },
+                {
+                    "confidence": 0.47066435,
+                    "lexical": "no problem there",
+                    "itn": "no problem there",
+                    "maskedITN": "no problem there",
+                    "display": "no problem there"
+                },
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.45617726,
+                    "lexical": "no problem then",
+                    "itn": "no problem then",
+                    "maskedITN": "no problem then",
+                    "display": "no problem then"
+                },
+                {
+                    "confidence": 0.5351142,
+                    "lexical": "good",
+                    "itn": "good",
+                    "maskedITN": "good",
+                    "display": "good"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT23.95S",
+            "duration": "PT0.98S",
+            "offsetInTicks": 239500000.0,
+            "durationInTicks": 9800000.0,
+            "nBest": [
+                {
+                    "confidence": 0.6019106,
+                    "lexical": "do you mind subscribe",
+                    "itn": "do you mind subscribe",
+                    "maskedITN": "do you mind subscribe",
+                    "display": "Do you mind subscribe?"
+                },
+                {
+                    "confidence": 0.364935,
+                    "lexical": "ok do you mind subscribe",
+                    "itn": "ok do you mind subscribe",
+                    "maskedITN": "ok do you mind subscribe",
+                    "display": "OK do you mind subscribe"
+                },
+                {
+                    "confidence": 0.4281984,
+                    "lexical": "do you mind surprise",
+                    "itn": "do you mind surprise",
+                    "maskedITN": "do you mind surprise",
+                    "display": "do you mind surprise"
+                },
+                {
+                    "confidence": 0.26046944,
+                    "lexical": "ok do you mind surprise",
+                    "itn": "ok do you mind surprise",
+                    "maskedITN": "ok do you mind surprise",
+                    "display": "OK do you mind surprise"
+                },
+                {
+                    "confidence": 0.5775822,
+                    "lexical": "ok ok do you mind subscribe",
+                    "itn": "ok ok do you mind subscribe",
+                    "maskedITN": "ok ok do you mind subscribe",
+                    "display": "OK OK do you mind subscribe"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT27.52S",
+            "duration": "PT5.33S",
+            "offsetInTicks": 275200000.0,
+            "durationInTicks": 53300000.0,
+            "nBest": [
+                {
+                    "confidence": 0.7282436,
+                    "lexical": "uh between those two which one do you think bribery is more of a problem",
+                    "itn": "uh between those two which one do you think bribery is more of a problem",
+                    "maskedITN": "uh between those two which one do you think bribery is more of a problem",
+                    "display": "Uh, between those two, which one do you think bribery is more of a problem?"
+                },
+                {
+                    "confidence": 0.8004998,
+                    "lexical": "uh between those two which one do you think is more of a problem",
+                    "itn": "uh between those two which one do you think is more of a problem",
+                    "maskedITN": "uh between those two which one do you think is more of a problem",
+                    "display": "uh between those two which one do you think is more of a problem"
+                },
+                {
+                    "confidence": 0.72801673,
+                    "lexical": "uh between those two which one do you think rebody is more of a problem",
+                    "itn": "uh between those two which one do you think rebody is more of a problem",
+                    "maskedITN": "uh between those two which one do you think rebody is more of a problem",
+                    "display": "uh between those two which one do you think rebody is more of a problem"
+                },
+                {
+                    "confidence": 0.88698053,
+                    "lexical": "between those two which one do you think is more of a problem",
+                    "itn": "between those two which one do you think is more of a problem",
+                    "maskedITN": "between those two which one do you think is more of a problem",
+                    "display": "between those two which one do you think is more of a problem"
+                },
+                {
+                    "confidence": 0.7276449,
+                    "lexical": "uh between those two which one do you think bradbury is more of a problem",
+                    "itn": "uh between those two which one do you think bradbury is more of a problem",
+                    "maskedITN": "uh between those two which one do you think bradbury is more of a problem",
+                    "display": "uh between those two which one do you think bradbury is more of a problem"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT34.59S",
+            "duration": "PT4.51S",
+            "offsetInTicks": 345900000.0,
+            "durationInTicks": 45100000.0,
+            "nBest": [
+                {
+                    "confidence": 0.4430828,
+                    "lexical": "the less it is enough fabric and our official do unattackable",
+                    "itn": "the less it is enough fabric and our official do unattackable",
+                    "maskedITN": "the less it is enough fabric and our official do unattackable",
+                    "display": "The less it is enough fabric and our official do unattackable."
+                },
+                {
+                    "confidence": 0.44396386,
+                    "lexical": "the less it is enough for brides and our official do unattackable",
+                    "itn": "the less it is enough for brides and our official do unattackable",
+                    "maskedITN": "the less it is enough for brides and our official do unattackable",
+                    "display": "the less it is enough for brides and our official do unattackable"
+                },
+                {
+                    "confidence": 0.3791707,
+                    "lexical": "the less it is enough fabric i'm official do unattackable",
+                    "itn": "the less it is enough fabric i'm official do unattackable",
+                    "maskedITN": "the less it is enough fabric i'm official do unattackable",
+                    "display": "the less it is enough fabric i'm official do unattackable"
+                },
+                {
+                    "confidence": 0.49690694,
+                    "lexical": "the less it is enough fabric i'm official",
+                    "itn": "the less it is enough fabric i'm official",
+                    "maskedITN": "the less it is enough fabric i'm official",
+                    "display": "the less it is enough fabric i'm official"
+                },
+                {
+                    "confidence": 0.58362186,
+                    "lexical": "the less it is enough fabric and our official",
+                    "itn": "the less it is enough fabric and our official",
+                    "maskedITN": "the less it is enough fabric and our official",
+                    "display": "the less it is enough fabric and our official"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT40.83S",
+            "duration": "PT7.34S",
+            "offsetInTicks": 408300000.0,
+            "durationInTicks": 73400000.0,
+            "nBest": [
+                {
+                    "confidence": 0.7037389,
+                    "lexical": "you somewhat agree and uh you uh strongly agree which one which one do you fall apart",
+                    "itn": "you somewhat agree and uh you uh strongly agree which one which one do you fall apart",
+                    "maskedITN": "you somewhat agree and uh you uh strongly agree which one which one do you fall apart",
+                    "display": "You somewhat agree, and uh, you uh, strongly agree. Which one? Which one? Do you fall apart?"
+                },
+                {
+                    "confidence": 0.7089177,
+                    "lexical": "you somewhat agree i'm uh you uh strongly agree which one which one do you fall apart",
+                    "itn": "you somewhat agree i'm uh you uh strongly agree which one which one do you fall apart",
+                    "maskedITN": "you somewhat agree i'm uh you uh strongly agree which one which one do you fall apart",
+                    "display": "you somewhat agree i'm uh you uh strongly agree which one which one do you fall apart"
+                },
+                {
+                    "confidence": 0.6916387,
+                    "lexical": "you somewhat agree i'm a you uh strongly agree which one which one do you fall apart",
+                    "itn": "you somewhat agree i'm a you uh strongly agree which one which one do you fall apart",
+                    "maskedITN": "you somewhat agree i'm a you uh strongly agree which one which one do you fall apart",
+                    "display": "you somewhat agree i'm a you uh strongly agree which one which one do you fall apart"
+                },
+                {
+                    "confidence": 0.68727255,
+                    "lexical": "you somewhat agree amar you uh strongly agree which one which one do you fall apart",
+                    "itn": "you somewhat agree amar you uh strongly agree which one which one do you fall apart",
+                    "maskedITN": "you somewhat agree amar you uh strongly agree which one which one do you fall apart",
+                    "display": "you somewhat agree amar you uh strongly agree which one which one do you fall apart"
+                },
+                {
+                    "confidence": 0.6889311,
+                    "lexical": "use somewhat agree i'm uh you uh strongly agree which one which one do you fall apart",
+                    "itn": "use somewhat agree i'm uh you uh strongly agree which one which one do you fall apart",
+                    "maskedITN": "use somewhat agree i'm uh you uh strongly agree which one which one do you fall apart",
+                    "display": "use somewhat agree i'm uh you uh strongly agree which one which one do you fall apart"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT49.85S",
+            "duration": "PT1.24S",
+            "offsetInTicks": 498500000.0,
+            "durationInTicks": 12400000.0,
+            "nBest": [
+                {
+                    "confidence": 0.66451776,
+                    "lexical": "somewhat agree with",
+                    "itn": "somewhat agree with",
+                    "maskedITN": "somewhat agree with",
+                    "display": "Somewhat agree with."
+                },
+                {
+                    "confidence": 0.67137915,
+                    "lexical": "somewhat agree with you",
+                    "itn": "somewhat agree with you",
+                    "maskedITN": "somewhat agree with you",
+                    "display": "somewhat agree with you"
+                },
+                {
+                    "confidence": 0.8104388,
+                    "lexical": "so much agree with",
+                    "itn": "so much agree with",
+                    "maskedITN": "so much agree with",
+                    "display": "so much agree with"
+                },
+                {
+                    "confidence": 0.67393386,
+                    "lexical": "somewhat agree with me",
+                    "itn": "somewhat agree with me",
+                    "maskedITN": "somewhat agree with me",
+                    "display": "somewhat agree with me"
+                },
+                {
+                    "confidence": 0.7507817,
+                    "lexical": "so most agree with",
+                    "itn": "so most agree with",
+                    "maskedITN": "so most agree with",
+                    "display": "so most agree with"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT52.46S",
+            "duration": "PT1.36S",
+            "offsetInTicks": 524600000.0,
+            "durationInTicks": 13600000.0,
+            "nBest": [
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.38166854,
+                    "lexical": "uh",
+                    "itn": "uh",
+                    "maskedITN": "uh",
+                    "display": "uh"
+                },
+                {
+                    "confidence": 0.35842037,
+                    "lexical": "no",
+                    "itn": "no",
+                    "maskedITN": "no",
+                    "display": "no"
+                },
+                {
+                    "confidence": 0.36197937,
+                    "lexical": "so",
+                    "itn": "so",
+                    "maskedITN": "so",
+                    "display": "so"
+                },
+                {
+                    "confidence": 0.33817947,
+                    "lexical": "oh",
+                    "itn": "oh",
+                    "maskedITN": "oh",
+                    "display": "oh"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,422 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000014_silent_392L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:43:36Z",
+    "durationInTicks": 441600000,
+    "duration": "PT44.16S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "so do you think bravery is more of a problem when a citizen offers a bribe or be an official demands a bribe OK just strongly agree with your answer or somewhat agree with your answer um uh no yeah so strongly or somewhat agree so much of what unofficial demand applied so do you strongly stand by that or someone right that's OK",
+            "itn": "so do you think bravery is more of a problem when a citizen offers a bribe or be an official demands a bribe OK just strongly agree with your answer or somewhat agree with your answer um uh no yeah so strongly or somewhat agree so much of what unofficial demand applied so do you strongly stand by that or someone right that's OK",
+            "maskedITN": "so do you think bravery is more of a problem when a citizen offers a bribe or be an official demands a bribe ok just strongly agree with your answer or somewhat agree with your answer um uh no yeah so strongly or somewhat agree so much of what unofficial demand applied so do you strongly stand by that or someone right that's ok",
+            "display": "So do you think bravery is more of a problem when a citizen offers a bribe or be an official demands a bribe? OK, just strongly agree with your answer or somewhat agree with your answer. Um. Uh, no. Yeah. So strongly or somewhat agree. So much of what unofficial demand applied, so do you strongly stand by that or someone? Right. That's OK."
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT2.87S",
+            "duration": "PT8.32S",
+            "offsetInTicks": 28700000.0,
+            "durationInTicks": 83200000.0,
+            "nBest": [
+                {
+                    "confidence": 0.72577214,
+                    "lexical": "so do you think bravery is more of a problem when a citizen offers a bribe or be an official demands a bribe",
+                    "itn": "so do you think bravery is more of a problem when a citizen offers a bribe or be an official demands a bribe",
+                    "maskedITN": "so do you think bravery is more of a problem when a citizen offers a bribe or be an official demands a bribe",
+                    "display": "So do you think bravery is more of a problem when a citizen offers a bribe or be an official demands a bribe?"
+                },
+                {
+                    "confidence": 0.72814643,
+                    "lexical": "so do you think bravery is more of a problem when a citizen offers a bribe or be an official demand a bribe",
+                    "itn": "so do you think bravery is more of a problem when a citizen offers a bribe or be an official demand a bribe",
+                    "maskedITN": "so do you think bravery is more of a problem when a citizen offers a bribe or be an official demand a bribe",
+                    "display": "so do you think bravery is more of a problem when a citizen offers a bribe or be an official demand a bribe"
+                },
+                {
+                    "confidence": 0.71691626,
+                    "lexical": "so you think bravery is more of a problem when a citizen offers a bribe or be an official demand a bribe",
+                    "itn": "so you think bravery is more of a problem when a citizen offers a bribe or be an official demand a bribe",
+                    "maskedITN": "so you think bravery is more of a problem when a citizen offers a bribe or be an official demand a bribe",
+                    "display": "so you think bravery is more of a problem when a citizen offers a bribe or be an official demand a bribe"
+                },
+                {
+                    "confidence": 0.71944386,
+                    "lexical": "so do you think bravery is more of a problem when a citizen offers a bribe or be an official demanded a bribe",
+                    "itn": "so do you think bravery is more of a problem when a citizen offers a bribe or be an official demanded a bribe",
+                    "maskedITN": "so do you think bravery is more of a problem when a citizen offers a bribe or be an official demanded a bribe",
+                    "display": "so do you think bravery is more of a problem when a citizen offers a bribe or be an official demanded a bribe"
+                },
+                {
+                    "confidence": 0.7166133,
+                    "lexical": "so do you think bravery is more of a problem when a citizen offers a bribe or b an official demand a bribe",
+                    "itn": "so do you think bravery is more of a problem when a citizen offers a bribe or b an official demand a bribe",
+                    "maskedITN": "so do you think bravery is more of a problem when a citizen offers a bribe or b an official demand a bribe",
+                    "display": "so do you think bravery is more of a problem when a citizen offers a bribe or B an official demand a bribe"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT15.73S",
+            "duration": "PT3.83S",
+            "offsetInTicks": 157300000.0,
+            "durationInTicks": 38300000.0,
+            "nBest": [
+                {
+                    "confidence": 0.7670779,
+                    "lexical": "OK just strongly agree with your answer or somewhat agree with your answer",
+                    "itn": "OK just strongly agree with your answer or somewhat agree with your answer",
+                    "maskedITN": "ok just strongly agree with your answer or somewhat agree with your answer",
+                    "display": "OK, just strongly agree with your answer or somewhat agree with your answer."
+                },
+                {
+                    "confidence": 0.63769156,
+                    "lexical": "remember ok just strongly agree with your answer or somewhat agree with your answer",
+                    "itn": "remember ok just strongly agree with your answer or somewhat agree with your answer",
+                    "maskedITN": "remember ok just strongly agree with your answer or somewhat agree with your answer",
+                    "display": "remember OK just strongly agree with your answer or somewhat agree with your answer"
+                },
+                {
+                    "confidence": 0.58961207,
+                    "lexical": "official remember ok just strongly agree with your answer or somewhat agree with your answer",
+                    "itn": "official remember ok just strongly agree with your answer or somewhat agree with your answer",
+                    "maskedITN": "official remember ok just strongly agree with your answer or somewhat agree with your answer",
+                    "display": "official remember OK just strongly agree with your answer or somewhat agree with your answer"
+                },
+                {
+                    "confidence": 0.76169753,
+                    "lexical": "ok just strongly agree with your answer for somewhat agree with your answer",
+                    "itn": "ok just strongly agree with your answer for somewhat agree with your answer",
+                    "maskedITN": "ok just strongly agree with your answer for somewhat agree with your answer",
+                    "display": "OK just strongly agree with your answer for somewhat agree with your answer"
+                },
+                {
+                    "confidence": 0.58972406,
+                    "lexical": "official remember ok you strongly agree with your answer or somewhat agree with your answer",
+                    "itn": "official remember ok you strongly agree with your answer or somewhat agree with your answer",
+                    "maskedITN": "official remember ok you strongly agree with your answer or somewhat agree with your answer",
+                    "display": "official remember OK you strongly agree with your answer or somewhat agree with your answer"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT21.43S",
+            "duration": "PT0.76S",
+            "offsetInTicks": 214300000.0,
+            "durationInTicks": 7600000.0,
+            "nBest": [
+                {
+                    "confidence": 0.46801808,
+                    "lexical": "um",
+                    "itn": "um",
+                    "maskedITN": "um",
+                    "display": "Um."
+                },
+                {
+                    "confidence": 0.44973403,
+                    "lexical": "um my",
+                    "itn": "um my",
+                    "maskedITN": "um my",
+                    "display": "um my"
+                },
+                {
+                    "confidence": 0.46287075,
+                    "lexical": "um may",
+                    "itn": "um may",
+                    "maskedITN": "um may",
+                    "display": "um may"
+                },
+                {
+                    "confidence": 0.37024638,
+                    "lexical": "uhm",
+                    "itn": "uhm",
+                    "maskedITN": "uhm",
+                    "display": "uhm"
+                },
+                {
+                    "confidence": 0.49764207,
+                    "lexical": "uh",
+                    "itn": "uh",
+                    "maskedITN": "uh",
+                    "display": "uh"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT23.93S",
+            "duration": "PT1.19S",
+            "offsetInTicks": 239300000.0,
+            "durationInTicks": 11900000.0,
+            "nBest": [
+                {
+                    "confidence": 0.24791056,
+                    "lexical": "uh no",
+                    "itn": "uh no",
+                    "maskedITN": "uh no",
+                    "display": "Uh, no."
+                },
+                {
+                    "confidence": 0.1650551,
+                    "lexical": "uh",
+                    "itn": "uh",
+                    "maskedITN": "uh",
+                    "display": "uh"
+                },
+                {
+                    "confidence": 0.36411107,
+                    "lexical": "uh you know",
+                    "itn": "uh you know",
+                    "maskedITN": "uh you know",
+                    "display": "uh you know"
+                },
+                {
+                    "confidence": 0.33104816,
+                    "lexical": "it's uh",
+                    "itn": "it's uh",
+                    "maskedITN": "it's uh",
+                    "display": "it's uh"
+                },
+                {
+                    "confidence": 0.3375381,
+                    "lexical": "and uh",
+                    "itn": "and uh",
+                    "maskedITN": "and uh",
+                    "display": "and uh"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT26.79S",
+            "duration": "PT0.71S",
+            "offsetInTicks": 267900000.0,
+            "durationInTicks": 7100000.0,
+            "nBest": [
+                {
+                    "confidence": 0.43136516,
+                    "lexical": "yeah",
+                    "itn": "yeah",
+                    "maskedITN": "yeah",
+                    "display": "Yeah."
+                },
+                {
+                    "confidence": 0.44786355,
+                    "lexical": "yeah yeah",
+                    "itn": "yeah yeah",
+                    "maskedITN": "yeah yeah",
+                    "display": "yeah yeah"
+                },
+                {
+                    "confidence": 0.44646508,
+                    "lexical": "oh yeah",
+                    "itn": "oh yeah",
+                    "maskedITN": "oh yeah",
+                    "display": "oh yeah"
+                },
+                {
+                    "confidence": 0.38854018,
+                    "lexical": "so yeah",
+                    "itn": "so yeah",
+                    "maskedITN": "so yeah",
+                    "display": "so yeah"
+                },
+                {
+                    "confidence": 0.35504404,
+                    "lexical": "ok yeah",
+                    "itn": "ok yeah",
+                    "maskedITN": "ok yeah",
+                    "display": "OK yeah"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT28.71S",
+            "duration": "PT2.77S",
+            "offsetInTicks": 287100000.0,
+            "durationInTicks": 27700000.0,
+            "nBest": [
+                {
+                    "confidence": 0.54508287,
+                    "lexical": "so strongly or somewhat agree",
+                    "itn": "so strongly or somewhat agree",
+                    "maskedITN": "so strongly or somewhat agree",
+                    "display": "So strongly or somewhat agree."
+                },
+                {
+                    "confidence": 0.5093348,
+                    "lexical": "so strongly agree with or someone that really",
+                    "itn": "so strongly agree with or someone that really",
+                    "maskedITN": "so strongly agree with or someone that really",
+                    "display": "so strongly agree with or someone that really"
+                },
+                {
+                    "confidence": 0.5130824,
+                    "lexical": "so strongly that theory or some other daily",
+                    "itn": "so strongly that theory or some other daily",
+                    "maskedITN": "so strongly that theory or some other daily",
+                    "display": "so strongly that theory or some other daily"
+                },
+                {
+                    "confidence": 0.5443154,
+                    "lexical": "so strongly that theory or some other day",
+                    "itn": "so strongly that theory or some other day",
+                    "maskedITN": "so strongly that theory or some other day",
+                    "display": "so strongly that theory or some other day"
+                },
+                {
+                    "confidence": 0.42776796,
+                    "lexical": "so strongly agree or someone that really",
+                    "itn": "so strongly agree or someone that really",
+                    "maskedITN": "so strongly agree or someone that really",
+                    "display": "so strongly agree or someone that really"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT33.19S",
+            "duration": "PT5.53S",
+            "offsetInTicks": 331900000.0,
+            "durationInTicks": 55300000.0,
+            "nBest": [
+                {
+                    "confidence": 0.67465675,
+                    "lexical": "so much of what unofficial demand applied so do you strongly stand by that or someone",
+                    "itn": "so much of what unofficial demand applied so do you strongly stand by that or someone",
+                    "maskedITN": "so much of what unofficial demand applied so do you strongly stand by that or someone",
+                    "display": "So much of what unofficial demand applied, so do you strongly stand by that or someone?"
+                },
+                {
+                    "confidence": 0.71768653,
+                    "lexical": "so much of what an official demand applies so do you strongly stand by that or someone",
+                    "itn": "so much of what an official demand applies so do you strongly stand by that or someone",
+                    "maskedITN": "so much of what an official demand applies so do you strongly stand by that or someone",
+                    "display": "so much of what an official demand applies so do you strongly stand by that or someone"
+                },
+                {
+                    "confidence": 0.729641,
+                    "lexical": "so much of what an official demand applied so do you strongly stand by that or someone",
+                    "itn": "so much of what an official demand applied so do you strongly stand by that or someone",
+                    "maskedITN": "so much of what an official demand applied so do you strongly stand by that or someone",
+                    "display": "so much of what an official demand applied so do you strongly stand by that or someone"
+                },
+                {
+                    "confidence": 0.655059,
+                    "lexical": "so my jaguar unofficial demand applied so do you strongly stand by that or someone",
+                    "itn": "so my jaguar unofficial demand applied so do you strongly stand by that or someone",
+                    "maskedITN": "so my jaguar unofficial demand applied so do you strongly stand by that or someone",
+                    "display": "so my jaguar unofficial demand applied so do you strongly stand by that or someone"
+                },
+                {
+                    "confidence": 0.72058994,
+                    "lexical": "so much of what an official demand upright so do you strongly stand by that or someone",
+                    "itn": "so much of what an official demand upright so do you strongly stand by that or someone",
+                    "maskedITN": "so much of what an official demand upright so do you strongly stand by that or someone",
+                    "display": "so much of what an official demand upright so do you strongly stand by that or someone"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT39.85S",
+            "duration": "PT0.26S",
+            "offsetInTicks": 398500000.0,
+            "durationInTicks": 2600000.0,
+            "nBest": [
+                {
+                    "confidence": 0.5567172,
+                    "lexical": "right",
+                    "itn": "right",
+                    "maskedITN": "right",
+                    "display": "Right."
+                },
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.43519962,
+                    "lexical": "good",
+                    "itn": "good",
+                    "maskedITN": "good",
+                    "display": "good"
+                },
+                {
+                    "confidence": 0.40056002,
+                    "lexical": "alright",
+                    "itn": "alright",
+                    "maskedITN": "alright",
+                    "display": "alright"
+                },
+                {
+                    "confidence": 0.25695693,
+                    "lexical": "great",
+                    "itn": "great",
+                    "maskedITN": "great",
+                    "display": "great"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT40.93S",
+            "duration": "PT2.19S",
+            "offsetInTicks": 409300000.0,
+            "durationInTicks": 21900000.0,
+            "nBest": [
+                {
+                    "confidence": 0.5341687,
+                    "lexical": "that's OK",
+                    "itn": "that's OK",
+                    "maskedITN": "that's ok",
+                    "display": "That's OK."
+                },
+                {
+                    "confidence": 0.5131375,
+                    "lexical": "just one ok",
+                    "itn": "just one ok",
+                    "maskedITN": "just one ok",
+                    "display": "just one OK"
+                },
+                {
+                    "confidence": 0.4791433,
+                    "lexical": "this one ok",
+                    "itn": "this one ok",
+                    "maskedITN": "this one ok",
+                    "display": "this one OK"
+                },
+                {
+                    "confidence": 0.3931749,
+                    "lexical": "just ok",
+                    "itn": "just ok",
+                    "maskedITN": "just ok",
+                    "display": "just OK"
+                },
+                {
+                    "confidence": 0.833394,
+                    "lexical": "ok",
+                    "itn": "ok",
+                    "maskedITN": "ok",
+                    "display": "OK"
+                }
+            ]
+        }
+    ]
+}

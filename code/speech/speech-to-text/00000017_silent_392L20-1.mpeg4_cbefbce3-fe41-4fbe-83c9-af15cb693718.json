@@ -1,0 +1,197 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000017_silent_392L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:43:49Z",
+    "durationInTicks": 266000000,
+    "duration": "PT26.6S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "alright do you think everybody is more of a problem when a citizen offers a briber or when an official demand a bribe do you think bribery is more of a problem when a citizen offers a bribe or when an official demands a bribe unofficial strongly agree i'm a somewhat",
+            "itn": "alright do you think everybody is more of a problem when a citizen offers a briber or when an official demand a bribe do you think bribery is more of a problem when a citizen offers a bribe or when an official demands a bribe unofficial strongly agree i'm a somewhat",
+            "maskedITN": "alright do you think everybody is more of a problem when a citizen offers a briber or when an official demand a bribe do you think bribery is more of a problem when a citizen offers a bribe or when an official demands a bribe unofficial strongly agree i'm a somewhat",
+            "display": "Alright. Do you think everybody is more of a problem when a citizen offers a briber or when an official demand a bribe? Do you think bribery is more of a problem when a citizen offers a bribe or when an official demands a bribe? Unofficial strongly agree I'm a somewhat."
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT2.55S",
+            "duration": "PT0.49S",
+            "offsetInTicks": 25500000.0,
+            "durationInTicks": 4900000.0,
+            "nBest": [
+                {
+                    "confidence": 0.74759054,
+                    "lexical": "alright",
+                    "itn": "alright",
+                    "maskedITN": "alright",
+                    "display": "Alright."
+                },
+                {
+                    "confidence": 0.81273437,
+                    "lexical": "all right",
+                    "itn": "all right",
+                    "maskedITN": "all right",
+                    "display": "all right"
+                },
+                {
+                    "confidence": 0.62322056,
+                    "lexical": "uh yeah",
+                    "itn": "uh yeah",
+                    "maskedITN": "uh yeah",
+                    "display": "uh yeah"
+                },
+                {
+                    "confidence": 0.6560795,
+                    "lexical": "oh yeah",
+                    "itn": "oh yeah",
+                    "maskedITN": "oh yeah",
+                    "display": "oh yeah"
+                },
+                {
+                    "confidence": 0.20283642,
+                    "lexical": "uh-huh",
+                    "itn": "uh-huh",
+                    "maskedITN": "uh-huh",
+                    "display": "uh-huh"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT5.8S",
+            "duration": "PT5.59S",
+            "offsetInTicks": 58000000.0,
+            "durationInTicks": 55900000.0,
+            "nBest": [
+                {
+                    "confidence": 0.7121892,
+                    "lexical": "do you think everybody is more of a problem when a citizen offers a briber or when an official demand a bribe",
+                    "itn": "do you think everybody is more of a problem when a citizen offers a briber or when an official demand a bribe",
+                    "maskedITN": "do you think everybody is more of a problem when a citizen offers a briber or when an official demand a bribe",
+                    "display": "Do you think everybody is more of a problem when a citizen offers a briber or when an official demand a bribe?"
+                },
+                {
+                    "confidence": 0.75150967,
+                    "lexical": "do you think everybody is more of a problem when a citizen offers a bright bar or when an official demand a bribe",
+                    "itn": "do you think everybody is more of a problem when a citizen offers a bright bar or when an official demand a bribe",
+                    "maskedITN": "do you think everybody is more of a problem when a citizen offers a bright bar or when an official demand a bribe",
+                    "display": "do you think everybody is more of a problem when a citizen offers a bright bar or when an official demand a bribe"
+                },
+                {
+                    "confidence": 0.78037924,
+                    "lexical": "do you think everybody is more of a problem when a citizen offers a break or when an official demand a bribe",
+                    "itn": "do you think everybody is more of a problem when a citizen offers a break or when an official demand a bribe",
+                    "maskedITN": "do you think everybody is more of a problem when a citizen offers a break or when an official demand a bribe",
+                    "display": "do you think everybody is more of a problem when a citizen offers a break or when an official demand a bribe"
+                },
+                {
+                    "confidence": 0.71649104,
+                    "lexical": "do you think everybody is more of a problem when a citizen offers a briber or when an official demand a bride",
+                    "itn": "do you think everybody is more of a problem when a citizen offers a briber or when an official demand a bride",
+                    "maskedITN": "do you think everybody is more of a problem when a citizen offers a briber or when an official demand a bride",
+                    "display": "do you think everybody is more of a problem when a citizen offers a briber or when an official demand a bride"
+                },
+                {
+                    "confidence": 0.7699223,
+                    "lexical": "do you think everybody is more of a problem when a citizen offers a bright or when an official demand a bribe",
+                    "itn": "do you think everybody is more of a problem when a citizen offers a bright or when an official demand a bribe",
+                    "maskedITN": "do you think everybody is more of a problem when a citizen offers a bright or when an official demand a bribe",
+                    "display": "do you think everybody is more of a problem when a citizen offers a bright or when an official demand a bribe"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT14.22S",
+            "duration": "PT6.99S",
+            "offsetInTicks": 142200000.0,
+            "durationInTicks": 69900000.0,
+            "nBest": [
+                {
+                    "confidence": 0.7756609,
+                    "lexical": "do you think bribery is more of a problem when a citizen offers a bribe or when an official demands a bribe",
+                    "itn": "do you think bribery is more of a problem when a citizen offers a bribe or when an official demands a bribe",
+                    "maskedITN": "do you think bribery is more of a problem when a citizen offers a bribe or when an official demands a bribe",
+                    "display": "Do you think bribery is more of a problem when a citizen offers a bribe or when an official demands a bribe?"
+                },
+                {
+                    "confidence": 0.79420173,
+                    "lexical": "do you think bribery is more of a problem when a citizen offers a break or when an official demands a bribe",
+                    "itn": "do you think bribery is more of a problem when a citizen offers a break or when an official demands a bribe",
+                    "maskedITN": "do you think bribery is more of a problem when a citizen offers a break or when an official demands a bribe",
+                    "display": "do you think bribery is more of a problem when a citizen offers a break or when an official demands a bribe"
+                },
+                {
+                    "confidence": 0.79094684,
+                    "lexical": "do you think bribery is more of a problem when a citizen offers a bride or when an official demands a bribe",
+                    "itn": "do you think bribery is more of a problem when a citizen offers a bride or when an official demands a bribe",
+                    "maskedITN": "do you think bribery is more of a problem when a citizen offers a bride or when an official demands a bribe",
+                    "display": "do you think bribery is more of a problem when a citizen offers a bride or when an official demands a bribe"
+                },
+                {
+                    "confidence": 0.7827045,
+                    "lexical": "do you think bribery is more of a problem when a citizen offers a bread or when an official demands a bribe",
+                    "itn": "do you think bribery is more of a problem when a citizen offers a bread or when an official demands a bribe",
+                    "maskedITN": "do you think bribery is more of a problem when a citizen offers a bread or when an official demands a bribe",
+                    "display": "do you think bribery is more of a problem when a citizen offers a bread or when an official demands a bribe"
+                },
+                {
+                    "confidence": 0.78561497,
+                    "lexical": "do you think bribery is more of a problem when a citizen offers a braid or when an official demands a bribe",
+                    "itn": "do you think bribery is more of a problem when a citizen offers a braid or when an official demands a bribe",
+                    "maskedITN": "do you think bribery is more of a problem when a citizen offers a braid or when an official demands a bribe",
+                    "display": "do you think bribery is more of a problem when a citizen offers a braid or when an official demands a bribe"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT22.53S",
+            "duration": "PT2.98S",
+            "offsetInTicks": 225300000.0,
+            "durationInTicks": 29800000.0,
+            "nBest": [
+                {
+                    "confidence": 0.725303,
+                    "lexical": "unofficial strongly agree i'm a somewhat",
+                    "itn": "unofficial strongly agree i'm a somewhat",
+                    "maskedITN": "unofficial strongly agree i'm a somewhat",
+                    "display": "Unofficial strongly agree I'm a somewhat."
+                },
+                {
+                    "confidence": 0.6853785,
+                    "lexical": "unofficial strongly agree i'm as somewhat",
+                    "itn": "unofficial strongly agree i'm as somewhat",
+                    "maskedITN": "unofficial strongly agree i'm as somewhat",
+                    "display": "unofficial strongly agree i'm as somewhat"
+                },
+                {
+                    "confidence": 0.70295775,
+                    "lexical": "unofficial strongly agreed i'm a somewhat",
+                    "itn": "unofficial strongly agreed i'm a somewhat",
+                    "maskedITN": "unofficial strongly agreed i'm a somewhat",
+                    "display": "unofficial strongly agreed i'm a somewhat"
+                },
+                {
+                    "confidence": 0.675279,
+                    "lexical": "unofficial strongly agree i'm at somewhat",
+                    "itn": "unofficial strongly agree i'm at somewhat",
+                    "maskedITN": "unofficial strongly agree i'm at somewhat",
+                    "display": "unofficial strongly agree i'm at somewhat"
+                },
+                {
+                    "confidence": 0.7334061,
+                    "lexical": "an official strongly agree i'm a somewhat",
+                    "itn": "an official strongly agree i'm a somewhat",
+                    "maskedITN": "an official strongly agree i'm a somewhat",
+                    "display": "an official strongly agree i'm a somewhat"
+                }
+            ]
+        }
+    ]
+}

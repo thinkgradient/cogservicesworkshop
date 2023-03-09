@@ -1,0 +1,152 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000008_silent_363L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:43:17Z",
+    "durationInTicks": 121800000,
+    "duration": "PT12.18S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "your age fifteen twenty five twenty nine thank you five to twenty nine",
+            "itn": "your age 152529 thank you 5 to 29",
+            "maskedITN": "your age 152529 thank you 5 to 29",
+            "display": "Your age. 152529. Thank you 5 to 29."
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT4.27S",
+            "duration": "PT1.28S",
+            "offsetInTicks": 42700000.0,
+            "durationInTicks": 12800000.0,
+            "nBest": [
+                {
+                    "confidence": 0.31648827,
+                    "lexical": "your age",
+                    "itn": "your age",
+                    "maskedITN": "your age",
+                    "display": "Your age."
+                },
+                {
+                    "confidence": 0.41032177,
+                    "lexical": "you are age",
+                    "itn": "you are age",
+                    "maskedITN": "you are age",
+                    "display": "you are age"
+                },
+                {
+                    "confidence": 0.49771914,
+                    "lexical": "in your age",
+                    "itn": "in your age",
+                    "maskedITN": "in your age",
+                    "display": "in your age"
+                },
+                {
+                    "confidence": 0.36515328,
+                    "lexical": "you are each",
+                    "itn": "you are each",
+                    "maskedITN": "you are each",
+                    "display": "you are each"
+                },
+                {
+                    "confidence": 0.66396075,
+                    "lexical": "you are",
+                    "itn": "you are",
+                    "maskedITN": "you are",
+                    "display": "you are"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT7.73S",
+            "duration": "PT1.23S",
+            "offsetInTicks": 77300000.0,
+            "durationInTicks": 12300000.0,
+            "nBest": [
+                {
+                    "confidence": 0.7363807,
+                    "lexical": "fifteen twenty five twenty nine",
+                    "itn": "152529",
+                    "maskedITN": "152529",
+                    "display": "152529."
+                },
+                {
+                    "confidence": 0.70389855,
+                    "lexical": "fifteen twenty five point nine",
+                    "itn": "fifteen twenty five point nine",
+                    "maskedITN": "fifteen twenty five point nine",
+                    "display": "fifteen twenty five point nine"
+                },
+                {
+                    "confidence": 0.7028697,
+                    "lexical": "sixteen twenty five twenty nine",
+                    "itn": "sixteen twenty five twenty nine",
+                    "maskedITN": "sixteen twenty five twenty nine",
+                    "display": "sixteen twenty five twenty nine"
+                },
+                {
+                    "confidence": 0.691372,
+                    "lexical": "between twenty five twenty nine",
+                    "itn": "between twenty five twenty nine",
+                    "maskedITN": "between twenty five twenty nine",
+                    "display": "between twenty five twenty nine"
+                },
+                {
+                    "confidence": 0.6951494,
+                    "lexical": "thirteen twenty five twenty nine",
+                    "itn": "thirteen twenty five twenty nine",
+                    "maskedITN": "thirteen twenty five twenty nine",
+                    "display": "thirteen twenty five twenty nine"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT10.62S",
+            "duration": "PT1.52S",
+            "offsetInTicks": 106200000.0,
+            "durationInTicks": 15200000.0,
+            "nBest": [
+                {
+                    "confidence": 0.79308,
+                    "lexical": "thank you five to twenty nine",
+                    "itn": "thank you 5 to 29",
+                    "maskedITN": "thank you 5 to 29",
+                    "display": "Thank you 5 to 29."
+                },
+                {
+                    "confidence": 0.651182,
+                    "lexical": "thank you five twenty nine",
+                    "itn": "thank you five twenty nine",
+                    "maskedITN": "thank you five twenty nine",
+                    "display": "thank you five twenty nine"
+                },
+                {
+                    "confidence": 0.71767515,
+                    "lexical": "thank you five to seventy nine",
+                    "itn": "thank you five to seventy nine",
+                    "maskedITN": "thank you five to seventy nine",
+                    "display": "thank you five to seventy nine"
+                },
+                {
+                    "confidence": 0.72051054,
+                    "lexical": "thank you five to twenty ninth",
+                    "itn": "thank you five to twenty ninth",
+                    "maskedITN": "thank you five to twenty ninth",
+                    "display": "thank you five to twenty ninth"
+                },
+                {
+                    "confidence": 0.7688384,
+                    "lexical": "thank you five to ninety nine",
+                    "itn": "thank you five to ninety nine",
+                    "maskedITN": "thank you five to ninety nine",
+                    "display": "thank you five to ninety nine"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,377 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000001_silent_456L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:43:37Z",
+    "durationInTicks": 303200000,
+    "duration": "PT30.32S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "that has the money one bubbly shielder umm when when we go yes i do drive is paid who has more of a uh on a baby's paid a the citizen who pays normally benefits more i'm gonna be the official who receives payments now beneficial officials strongly OK",
+            "itn": "that has the money 1 bubbly shielder umm when when we go yes i do drive is paid who has more of a uh on a baby's paid a the citizen who pays normally benefits more i'm gonna be the official who receives payments now beneficial officials strongly OK",
+            "maskedITN": "that has the money 1 bubbly shielder umm when when we go yes i do drive is paid who has more of a uh on a baby's paid a the citizen who pays normally benefits more i'm gonna be the official who receives payments now beneficial officials strongly ok",
+            "display": "That has the money 1 bubbly shielder. Umm. When, when? We go. Yes, I do. Drive is paid who has more of a? Uh, on a baby's paid a the citizen who pays normally benefits more. I'm gonna be the official who receives payments now, beneficial officials strongly. OK."
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT0.49S",
+            "duration": "PT1.93S",
+            "offsetInTicks": 4900000.0,
+            "durationInTicks": 19300000.0,
+            "nBest": [
+                {
+                    "confidence": 0.412787,
+                    "lexical": "that has the money one bubbly shielder",
+                    "itn": "that has the money 1 bubbly shielder",
+                    "maskedITN": "that has the money 1 bubbly shielder",
+                    "display": "That has the money 1 bubbly shielder."
+                },
+                {
+                    "confidence": 0.4072662,
+                    "lexical": "such as the money one bubbling shielder",
+                    "itn": "such as the money one bubbling shielder",
+                    "maskedITN": "such as the money one bubbling shielder",
+                    "display": "such as the money one bubbling shielder"
+                },
+                {
+                    "confidence": 0.39691347,
+                    "lexical": "that has some money one bubbling shielder",
+                    "itn": "that has some money one bubbling shielder",
+                    "maskedITN": "that has some money one bubbling shielder",
+                    "display": "that has some money one bubbling shielder"
+                },
+                {
+                    "confidence": 0.4054402,
+                    "lexical": "that has the money one bubbling shielder",
+                    "itn": "that has the money one bubbling shielder",
+                    "maskedITN": "that has the money one bubbling shielder",
+                    "display": "that has the money one bubbling shielder"
+                },
+                {
+                    "confidence": 0.42104137,
+                    "lexical": "that has the money one bubbling sheila",
+                    "itn": "that has the money one bubbling sheila",
+                    "maskedITN": "that has the money one bubbling sheila",
+                    "display": "that has the money one bubbling sheila"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT3.79S",
+            "duration": "PT0.45S",
+            "offsetInTicks": 37900000.0,
+            "durationInTicks": 4500000.0,
+            "nBest": [
+                {
+                    "confidence": 0.2430911,
+                    "lexical": "umm",
+                    "itn": "umm",
+                    "maskedITN": "umm",
+                    "display": "Umm."
+                },
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.15583922,
+                    "lexical": "hmm",
+                    "itn": "hmm",
+                    "maskedITN": "hmm",
+                    "display": "hmm"
+                },
+                {
+                    "confidence": 0.14316455,
+                    "lexical": "uh",
+                    "itn": "uh",
+                    "maskedITN": "uh",
+                    "display": "uh"
+                },
+                {
+                    "confidence": 0.78594744,
+                    "lexical": "no",
+                    "itn": "no",
+                    "maskedITN": "no",
+                    "display": "no"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT6.41S",
+            "duration": "PT0.85S",
+            "offsetInTicks": 64100000.0,
+            "durationInTicks": 8500000.0,
+            "nBest": [
+                {
+                    "confidence": 0.75990194,
+                    "lexical": "when when",
+                    "itn": "when when",
+                    "maskedITN": "when when",
+                    "display": "When, when?"
+                },
+                {
+                    "confidence": 0.815492,
+                    "lexical": "when when i",
+                    "itn": "when when i",
+                    "maskedITN": "when when i",
+                    "display": "when when i"
+                },
+                {
+                    "confidence": 0.70837426,
+                    "lexical": "yes when when",
+                    "itn": "yes when when",
+                    "maskedITN": "yes when when",
+                    "display": "yes when when"
+                },
+                {
+                    "confidence": 0.39705765,
+                    "lexical": "when when when",
+                    "itn": "when when when",
+                    "maskedITN": "when when when",
+                    "display": "when when when"
+                },
+                {
+                    "confidence": 0.78874665,
+                    "lexical": "when when i get there",
+                    "itn": "when when i get there",
+                    "maskedITN": "when when i get there",
+                    "display": "when when i get there"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT8.72S",
+            "duration": "PT0.58S",
+            "offsetInTicks": 87200000.0,
+            "durationInTicks": 5800000.0,
+            "nBest": [
+                {
+                    "confidence": 0.49189314,
+                    "lexical": "we go",
+                    "itn": "we go",
+                    "maskedITN": "we go",
+                    "display": "We go."
+                },
+                {
+                    "confidence": 0.5127009,
+                    "lexical": "we'll go",
+                    "itn": "we'll go",
+                    "maskedITN": "we'll go",
+                    "display": "we'll go"
+                },
+                {
+                    "confidence": 0.54846966,
+                    "lexical": "would you",
+                    "itn": "would you",
+                    "maskedITN": "would you",
+                    "display": "would you"
+                },
+                {
+                    "confidence": 0.55388564,
+                    "lexical": "would you go",
+                    "itn": "would you go",
+                    "maskedITN": "would you go",
+                    "display": "would you go"
+                },
+                {
+                    "confidence": 0.40948966,
+                    "lexical": "would go",
+                    "itn": "would go",
+                    "maskedITN": "would go",
+                    "display": "would go"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT10.4S",
+            "duration": "PT0.71S",
+            "offsetInTicks": 104000000.0,
+            "durationInTicks": 7100000.0,
+            "nBest": [
+                {
+                    "confidence": 0.7141529,
+                    "lexical": "yes i do",
+                    "itn": "yes i do",
+                    "maskedITN": "yes i do",
+                    "display": "Yes, I do."
+                },
+                {
+                    "confidence": 0.63957363,
+                    "lexical": "so you do",
+                    "itn": "so you do",
+                    "maskedITN": "so you do",
+                    "display": "so you do"
+                },
+                {
+                    "confidence": 0.64263165,
+                    "lexical": "so i do",
+                    "itn": "so i do",
+                    "maskedITN": "so i do",
+                    "display": "so i do"
+                },
+                {
+                    "confidence": 0.660175,
+                    "lexical": "yes you do",
+                    "itn": "yes you do",
+                    "maskedITN": "yes you do",
+                    "display": "yes you do"
+                },
+                {
+                    "confidence": 0.6022953,
+                    "lexical": "because i do",
+                    "itn": "because i do",
+                    "maskedITN": "because i do",
+                    "display": "because i do"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT13.54S",
+            "duration": "PT2.08S",
+            "offsetInTicks": 135400000.0,
+            "durationInTicks": 20800000.0,
+            "nBest": [
+                {
+                    "confidence": 0.6159864,
+                    "lexical": "drive is paid who has more of a",
+                    "itn": "drive is paid who has more of a",
+                    "maskedITN": "drive is paid who has more of a",
+                    "display": "Drive is paid who has more of a?"
+                },
+                {
+                    "confidence": 0.6295983,
+                    "lexical": "my number five is paid who has more of a",
+                    "itn": "my number five is paid who has more of a",
+                    "maskedITN": "my number five is paid who has more of a",
+                    "display": "my number five is paid who has more of a"
+                },
+                {
+                    "confidence": 0.608874,
+                    "lexical": "drive is paid who has more of a uh but that one",
+                    "itn": "drive is paid who has more of a uh but that one",
+                    "maskedITN": "drive is paid who has more of a uh but that one",
+                    "display": "drive is paid who has more of a uh but that one"
+                },
+                {
+                    "confidence": 0.6191558,
+                    "lexical": "my number five is paid who has more of a uh but that one",
+                    "itn": "my number five is paid who has more of a uh but that one",
+                    "maskedITN": "my number five is paid who has more of a uh but that one",
+                    "display": "my number five is paid who has more of a uh but that one"
+                },
+                {
+                    "confidence": 0.6055939,
+                    "lexical": "drive is paid who has more of a umm but that one",
+                    "itn": "drive is paid who has more of a umm but that one",
+                    "maskedITN": "drive is paid who has more of a umm but that one",
+                    "display": "drive is paid who has more of a umm but that one"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT17.03S",
+            "duration": "PT11.69S",
+            "offsetInTicks": 170300000.0,
+            "durationInTicks": 116900000.0,
+            "nBest": [
+                {
+                    "confidence": 0.689443,
+                    "lexical": "uh on a baby's paid a the citizen who pays normally benefits more i'm gonna be the official who receives payments now beneficial officials strongly",
+                    "itn": "uh on a baby's paid a the citizen who pays normally benefits more i'm gonna be the official who receives payments now beneficial officials strongly",
+                    "maskedITN": "uh on a baby's paid a the citizen who pays normally benefits more i'm gonna be the official who receives payments now beneficial officials strongly",
+                    "display": "Uh, on a baby's paid a the citizen who pays normally benefits more. I'm gonna be the official who receives payments now, beneficial officials strongly."
+                },
+                {
+                    "confidence": 0.69684553,
+                    "lexical": "uh on a baby's paid the citizen who pays normally benefits more i'm gonna be the official who receives payments now beneficial officials strongly",
+                    "itn": "uh on a baby's paid the citizen who pays normally benefits more i'm gonna be the official who receives payments now beneficial officials strongly",
+                    "maskedITN": "uh on a baby's paid the citizen who pays normally benefits more i'm gonna be the official who receives payments now beneficial officials strongly",
+                    "display": "uh on a baby's paid the citizen who pays normally benefits more i'm gonna be the official who receives payments now beneficial officials strongly"
+                },
+                {
+                    "confidence": 0.6988824,
+                    "lexical": "uh on a baby's pain is the citizen who pays normally benefits more i'm gonna be the official who receives payments now beneficial officials strongly",
+                    "itn": "uh on a baby's pain is the citizen who pays normally benefits more i'm gonna be the official who receives payments now beneficial officials strongly",
+                    "maskedITN": "uh on a baby's pain is the citizen who pays normally benefits more i'm gonna be the official who receives payments now beneficial officials strongly",
+                    "display": "uh on a baby's pain is the citizen who pays normally benefits more i'm gonna be the official who receives payments now beneficial officials strongly"
+                },
+                {
+                    "confidence": 0.6960174,
+                    "lexical": "uh on a baby's pain the citizen who pays normally benefits more i'm gonna be the official who receives payments now beneficial officials strongly",
+                    "itn": "uh on a baby's pain the citizen who pays normally benefits more i'm gonna be the official who receives payments now beneficial officials strongly",
+                    "maskedITN": "uh on a baby's pain the citizen who pays normally benefits more i'm gonna be the official who receives payments now beneficial officials strongly",
+                    "display": "uh on a baby's pain the citizen who pays normally benefits more i'm gonna be the official who receives payments now beneficial officials strongly"
+                },
+                {
+                    "confidence": 0.7056267,
+                    "lexical": "uh on a baby's page eight the citizen who pays normally benefits more i'm gonna be the official who receives payments now beneficial officials strongly",
+                    "itn": "uh on a baby's page eight the citizen who pays normally benefits more i'm gonna be the official who receives payments now beneficial officials strongly",
+                    "maskedITN": "uh on a baby's page eight the citizen who pays normally benefits more i'm gonna be the official who receives payments now beneficial officials strongly",
+                    "display": "uh on a baby's page eight the citizen who pays normally benefits more i'm gonna be the official who receives payments now beneficial officials strongly"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT29.69S",
+            "duration": "PT0.51S",
+            "offsetInTicks": 296900000.0,
+            "durationInTicks": 5100000.0,
+            "nBest": [
+                {
+                    "confidence": 0.23388195,
+                    "lexical": "OK",
+                    "itn": "OK",
+                    "maskedITN": "ok",
+                    "display": "OK."
+                },
+                {
+                    "confidence": 0.4746694,
+                    "lexical": "all right",
+                    "itn": "all right",
+                    "maskedITN": "all right",
+                    "display": "all right"
+                },
+                {
+                    "confidence": 0.4893053,
+                    "lexical": "that's great",
+                    "itn": "that's great",
+                    "maskedITN": "that's great",
+                    "display": "that's great"
+                },
+                {
+                    "confidence": 0.45311365,
+                    "lexical": "that's right",
+                    "itn": "that's right",
+                    "maskedITN": "that's right",
+                    "display": "that's right"
+                },
+                {
+                    "confidence": 0.46423966,
+                    "lexical": "that's good",
+                    "itn": "that's good",
+                    "maskedITN": "that's good",
+                    "display": "that's good"
+                }
+            ]
+        }
+    ]
+}

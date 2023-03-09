@@ -1,0 +1,242 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000006_silent_392L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:43:34Z",
+    "durationInTicks": 230200000,
+    "duration": "PT23.02S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "not doing anything do you think bribery is more but problem on a citizen offers OK and official demands applied OK i agree B number sure",
+            "itn": "not doing anything do you think bribery is more but problem on a citizen offers OK and official demands applied OK i agree B number sure",
+            "maskedITN": "not doing anything do you think bribery is more but problem on a citizen offers ok and official demands applied ok i agree b number sure",
+            "display": "Not doing anything. Do you think bribery is more but problem on a citizen offers OK and official demands applied? OK, I agree B. Number. Sure."
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT0.69S",
+            "duration": "PT1.07S",
+            "offsetInTicks": 6900000.0,
+            "durationInTicks": 10700000.0,
+            "nBest": [
+                {
+                    "confidence": 0.4289532,
+                    "lexical": "not doing anything",
+                    "itn": "not doing anything",
+                    "maskedITN": "not doing anything",
+                    "display": "Not doing anything."
+                },
+                {
+                    "confidence": 0.500376,
+                    "lexical": "is not doing anything",
+                    "itn": "is not doing anything",
+                    "maskedITN": "is not doing anything",
+                    "display": "is not doing anything"
+                },
+                {
+                    "confidence": 0.5245026,
+                    "lexical": "i'm not doing anything",
+                    "itn": "i'm not doing anything",
+                    "maskedITN": "i'm not doing anything",
+                    "display": "i'm not doing anything"
+                },
+                {
+                    "confidence": 0.5223891,
+                    "lexical": "it's not doing anything",
+                    "itn": "it's not doing anything",
+                    "maskedITN": "it's not doing anything",
+                    "display": "it's not doing anything"
+                },
+                {
+                    "confidence": 0.4567038,
+                    "lexical": "and not doing anything",
+                    "itn": "and not doing anything",
+                    "maskedITN": "and not doing anything",
+                    "display": "and not doing anything"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT5.27S",
+            "duration": "PT7.26S",
+            "offsetInTicks": 52700000.0,
+            "durationInTicks": 72600000.0,
+            "nBest": [
+                {
+                    "confidence": 0.6067072,
+                    "lexical": "do you think bribery is more but problem on a citizen offers OK and official demands applied",
+                    "itn": "do you think bribery is more but problem on a citizen offers OK and official demands applied",
+                    "maskedITN": "do you think bribery is more but problem on a citizen offers ok and official demands applied",
+                    "display": "Do you think bribery is more but problem on a citizen offers OK and official demands applied?"
+                },
+                {
+                    "confidence": 0.6197874,
+                    "lexical": "do you think bribery is more but problem of a citizen offers ok and official demands applied",
+                    "itn": "do you think bribery is more but problem of a citizen offers ok and official demands applied",
+                    "maskedITN": "do you think bribery is more but problem of a citizen offers ok and official demands applied",
+                    "display": "do you think bribery is more but problem of a citizen offers OK and official demands applied"
+                },
+                {
+                    "confidence": 0.5481697,
+                    "lexical": "do you think bribery is more but problem on a citizen offers okay knowledge and official demands applied",
+                    "itn": "do you think bribery is more but problem on a citizen offers okay knowledge and official demands applied",
+                    "maskedITN": "do you think bribery is more but problem on a citizen offers okay knowledge and official demands applied",
+                    "display": "do you think bribery is more but problem on a citizen offers okay knowledge and official demands applied"
+                },
+                {
+                    "confidence": 0.5875975,
+                    "lexical": "do you think bribery is more but problem on a citizen offers ok no it's an official demands applied",
+                    "itn": "do you think bribery is more but problem on a citizen offers ok no it's an official demands applied",
+                    "maskedITN": "do you think bribery is more but problem on a citizen offers ok no it's an official demands applied",
+                    "display": "do you think bribery is more but problem on a citizen offers OK no it's an official demands applied"
+                },
+                {
+                    "confidence": 0.6163212,
+                    "lexical": "do you think bribery is more but problem on a citizen offers ok and official demand supply",
+                    "itn": "do you think bribery is more but problem on a citizen offers ok and official demand supply",
+                    "maskedITN": "do you think bribery is more but problem on a citizen offers ok and official demand supply",
+                    "display": "do you think bribery is more but problem on a citizen offers OK and official demand supply"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT14.58S",
+            "duration": "PT2.14S",
+            "offsetInTicks": 145800000.0,
+            "durationInTicks": 21400000.0,
+            "nBest": [
+                {
+                    "confidence": 0.5475908,
+                    "lexical": "OK i agree B",
+                    "itn": "OK i agree B",
+                    "maskedITN": "ok i agree b",
+                    "display": "OK, I agree B."
+                },
+                {
+                    "confidence": 0.55878145,
+                    "lexical": "ok i agree bc",
+                    "itn": "ok i agree bc",
+                    "maskedITN": "ok i agree bc",
+                    "display": "OK i agree BC"
+                },
+                {
+                    "confidence": 0.6696427,
+                    "lexical": "ok i agree",
+                    "itn": "ok i agree",
+                    "maskedITN": "ok i agree",
+                    "display": "OK i agree"
+                },
+                {
+                    "confidence": 0.5210157,
+                    "lexical": "ok i agree bi",
+                    "itn": "ok i agree bi",
+                    "maskedITN": "ok i agree bi",
+                    "display": "OK i agree bi"
+                },
+                {
+                    "confidence": 0.5535755,
+                    "lexical": "ok i agree bb",
+                    "itn": "ok i agree bb",
+                    "maskedITN": "ok i agree bb",
+                    "display": "OK i agree BB"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT19.62S",
+            "duration": "PT0.38S",
+            "offsetInTicks": 196200000.0,
+            "durationInTicks": 3800000.0,
+            "nBest": [
+                {
+                    "confidence": 0.42301476,
+                    "lexical": "number",
+                    "itn": "number",
+                    "maskedITN": "number",
+                    "display": "Number."
+                },
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.35450017,
+                    "lexical": "email",
+                    "itn": "email",
+                    "maskedITN": "email",
+                    "display": "email"
+                },
+                {
+                    "confidence": 0.2258341,
+                    "lexical": "someone",
+                    "itn": "someone",
+                    "maskedITN": "someone",
+                    "display": "someone"
+                },
+                {
+                    "confidence": 0.6279788,
+                    "lexical": "tell me",
+                    "itn": "tell me",
+                    "maskedITN": "tell me",
+                    "display": "tell me"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT21.49S",
+            "duration": "PT0.27S",
+            "offsetInTicks": 214900000.0,
+            "durationInTicks": 2700000.0,
+            "nBest": [
+                {
+                    "confidence": 0.6550971,
+                    "lexical": "sure",
+                    "itn": "sure",
+                    "maskedITN": "sure",
+                    "display": "Sure."
+                },
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.5098729,
+                    "lexical": "so",
+                    "itn": "so",
+                    "maskedITN": "so",
+                    "display": "so"
+                },
+                {
+                    "confidence": 0.4744962,
+                    "lexical": "show",
+                    "itn": "show",
+                    "maskedITN": "show",
+                    "display": "show"
+                },
+                {
+                    "confidence": 0.18752858,
+                    "lexical": "something",
+                    "itn": "something",
+                    "maskedITN": "something",
+                    "display": "something"
+                }
+            ]
+        }
+    ]
+}

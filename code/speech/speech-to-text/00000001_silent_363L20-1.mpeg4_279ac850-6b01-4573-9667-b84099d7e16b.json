@@ -1,0 +1,197 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000001_silent_363L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:42:53Z",
+    "durationInTicks": 149800000,
+    "duration": "PT14.98S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "continue or so uh could you please tell me which of these eight groups you fall into",
+            "itn": "continue or so uh could you please tell me which of these eight groups you fall into",
+            "maskedITN": "continue or so uh could you please tell me which of these eight groups you fall into",
+            "display": "Continue. Or so. Uh, could you please tell me which of these eight groups you fall into?"
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT0.2S",
+            "duration": "PT0.85S",
+            "offsetInTicks": 2000000.0,
+            "durationInTicks": 8500000.0,
+            "nBest": [
+                {
+                    "confidence": 0.5613578,
+                    "lexical": "continue",
+                    "itn": "continue",
+                    "maskedITN": "continue",
+                    "display": "Continue."
+                },
+                {
+                    "confidence": 0.23491065,
+                    "lexical": "continue to",
+                    "itn": "continue to",
+                    "maskedITN": "continue to",
+                    "display": "continue to"
+                },
+                {
+                    "confidence": 0.074424595,
+                    "lexical": "continuing",
+                    "itn": "continuing",
+                    "maskedITN": "continuing",
+                    "display": "continuing"
+                },
+                {
+                    "confidence": 0.099001765,
+                    "lexical": "continuum",
+                    "itn": "continuum",
+                    "maskedITN": "continuum",
+                    "display": "continuum"
+                },
+                {
+                    "confidence": 0.100946754,
+                    "lexical": "continued",
+                    "itn": "continued",
+                    "maskedITN": "continued",
+                    "display": "continued"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT1.9S",
+            "duration": "PT0.62S",
+            "offsetInTicks": 19000000.0,
+            "durationInTicks": 6200000.0,
+            "nBest": [
+                {
+                    "confidence": 0.41856167,
+                    "lexical": "or so",
+                    "itn": "or so",
+                    "maskedITN": "or so",
+                    "display": "Or so."
+                },
+                {
+                    "confidence": 0.061306775,
+                    "lexical": "awesome",
+                    "itn": "awesome",
+                    "maskedITN": "awesome",
+                    "display": "awesome"
+                },
+                {
+                    "confidence": 0.101723075,
+                    "lexical": "also",
+                    "itn": "also",
+                    "maskedITN": "also",
+                    "display": "also"
+                },
+                {
+                    "confidence": 0.5684762,
+                    "lexical": "alright so",
+                    "itn": "alright so",
+                    "maskedITN": "alright so",
+                    "display": "alright so"
+                },
+                {
+                    "confidence": 0.5484171,
+                    "lexical": "what's your name",
+                    "itn": "what's your name",
+                    "maskedITN": "what's your name",
+                    "display": "what's your name"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT4.82S",
+            "duration": "PT3.59S",
+            "offsetInTicks": 48200000.0,
+            "durationInTicks": 35900000.0,
+            "nBest": [
+                {
+                    "confidence": 0.8205721,
+                    "lexical": "uh could you please tell me which of these eight groups you fall into",
+                    "itn": "uh could you please tell me which of these eight groups you fall into",
+                    "maskedITN": "uh could you please tell me which of these eight groups you fall into",
+                    "display": "Uh, could you please tell me which of these eight groups you fall into?"
+                },
+                {
+                    "confidence": 0.80448407,
+                    "lexical": "uh could you please tell me which of these eight groups we fall into",
+                    "itn": "uh could you please tell me which of these eight groups we fall into",
+                    "maskedITN": "uh could you please tell me which of these eight groups we fall into",
+                    "display": "uh could you please tell me which of these eight groups we fall into"
+                },
+                {
+                    "confidence": 0.80457044,
+                    "lexical": "uh could you please tell me which of these eight groups they fall into",
+                    "itn": "uh could you please tell me which of these eight groups they fall into",
+                    "maskedITN": "uh could you please tell me which of these eight groups they fall into",
+                    "display": "uh could you please tell me which of these eight groups they fall into"
+                },
+                {
+                    "confidence": 0.7935496,
+                    "lexical": "uh could you please tell me which of these eight groups you'll fall into",
+                    "itn": "uh could you please tell me which of these eight groups you'll fall into",
+                    "maskedITN": "uh could you please tell me which of these eight groups you'll fall into",
+                    "display": "uh could you please tell me which of these eight groups you'll fall into"
+                },
+                {
+                    "confidence": 0.747526,
+                    "lexical": "uh could you please tell me which of these eight groups fall into",
+                    "itn": "uh could you please tell me which of these eight groups fall into",
+                    "maskedITN": "uh could you please tell me which of these eight groups fall into",
+                    "display": "uh could you please tell me which of these eight groups fall into"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT12.6S",
+            "duration": "PT2.38S",
+            "offsetInTicks": 126000000.0,
+            "durationInTicks": 23800000.0,
+            "nBest": [
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.7143837,
+                    "lexical": "no",
+                    "itn": "no",
+                    "maskedITN": "no",
+                    "display": "no"
+                },
+                {
+                    "confidence": 0.6148661,
+                    "lexical": "hey",
+                    "itn": "hey",
+                    "maskedITN": "hey",
+                    "display": "hey"
+                },
+                {
+                    "confidence": 0.48244983,
+                    "lexical": "yeah",
+                    "itn": "yeah",
+                    "maskedITN": "yeah",
+                    "display": "yeah"
+                },
+                {
+                    "confidence": 0.63117355,
+                    "lexical": "oh",
+                    "itn": "oh",
+                    "maskedITN": "oh",
+                    "display": "oh"
+                }
+            ]
+        }
+    ]
+}

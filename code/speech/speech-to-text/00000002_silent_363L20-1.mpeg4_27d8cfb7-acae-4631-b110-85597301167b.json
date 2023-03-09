@@ -1,0 +1,422 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000002_silent_363L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:43:02Z",
+    "durationInTicks": 354000000,
+    "duration": "PT35.4S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "you are huge yeah thank you nine nineteen ninety seven OK seven since twenty one it's a bad deal twenty four",
+            "itn": "you are huge yeah thank you 919 97 OK 7 since 21 it's a bad deal 24",
+            "maskedITN": "you are huge yeah thank you 919 97 ok 7 since 21 it's a bad deal 24",
+            "display": "You are huge. Yeah. Thank you. 919. 97. OK, 7. Since 21. It's a bad deal. 24."
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT5.23S",
+            "duration": "PT0.91S",
+            "offsetInTicks": 52300000.0,
+            "durationInTicks": 9100000.0,
+            "nBest": [
+                {
+                    "confidence": 0.43032223,
+                    "lexical": "you are huge",
+                    "itn": "you are huge",
+                    "maskedITN": "you are huge",
+                    "display": "You are huge."
+                },
+                {
+                    "confidence": 0.483574,
+                    "lexical": "you are age",
+                    "itn": "you are age",
+                    "maskedITN": "you are age",
+                    "display": "you are age"
+                },
+                {
+                    "confidence": 0.86345804,
+                    "lexical": "you are",
+                    "itn": "you are",
+                    "maskedITN": "you are",
+                    "display": "you are"
+                },
+                {
+                    "confidence": 0.7242765,
+                    "lexical": "you are here",
+                    "itn": "you are here",
+                    "maskedITN": "you are here",
+                    "display": "you are here"
+                },
+                {
+                    "confidence": 0.62074053,
+                    "lexical": "yeah",
+                    "itn": "yeah",
+                    "maskedITN": "yeah",
+                    "display": "yeah"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT8.63S",
+            "duration": "PT0.29S",
+            "offsetInTicks": 86300000.0,
+            "durationInTicks": 2900000.0,
+            "nBest": [
+                {
+                    "confidence": 0.58009505,
+                    "lexical": "yeah",
+                    "itn": "yeah",
+                    "maskedITN": "yeah",
+                    "display": "Yeah."
+                },
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.42099467,
+                    "lexical": "yes",
+                    "itn": "yes",
+                    "maskedITN": "yes",
+                    "display": "yes"
+                },
+                {
+                    "confidence": 0.22611284,
+                    "lexical": "good",
+                    "itn": "good",
+                    "maskedITN": "good",
+                    "display": "good"
+                },
+                {
+                    "confidence": 0.4082422,
+                    "lexical": "yep",
+                    "itn": "yep",
+                    "maskedITN": "yep",
+                    "display": "yep"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT11.04S",
+            "duration": "PT0.37S",
+            "offsetInTicks": 110400000.0,
+            "durationInTicks": 3700000.0,
+            "nBest": [
+                {
+                    "confidence": 0.7161003,
+                    "lexical": "thank you",
+                    "itn": "thank you",
+                    "maskedITN": "thank you",
+                    "display": "Thank you."
+                },
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.37413126,
+                    "lexical": "ok",
+                    "itn": "ok",
+                    "maskedITN": "ok",
+                    "display": "OK"
+                },
+                {
+                    "confidence": 0.38772666,
+                    "lexical": "thanks",
+                    "itn": "thanks",
+                    "maskedITN": "thanks",
+                    "display": "thanks"
+                },
+                {
+                    "confidence": 0.36001515,
+                    "lexical": "please",
+                    "itn": "please",
+                    "maskedITN": "please",
+                    "display": "please"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT13.66S",
+            "duration": "PT1.17S",
+            "offsetInTicks": 136600000.0,
+            "durationInTicks": 11700000.0,
+            "nBest": [
+                {
+                    "confidence": 0.49694127,
+                    "lexical": "nine nineteen",
+                    "itn": "919",
+                    "maskedITN": "919",
+                    "display": "919."
+                },
+                {
+                    "confidence": 0.64455724,
+                    "lexical": "no nine nineteen",
+                    "itn": "no nine nineteen",
+                    "maskedITN": "no nine nineteen",
+                    "display": "no nine nineteen"
+                },
+                {
+                    "confidence": 0.47952318,
+                    "lexical": "nineteen",
+                    "itn": "nineteen",
+                    "maskedITN": "nineteen",
+                    "display": "nineteen"
+                },
+                {
+                    "confidence": 0.6672497,
+                    "lexical": "no nineteen",
+                    "itn": "no nineteen",
+                    "maskedITN": "no nineteen",
+                    "display": "no nineteen"
+                },
+                {
+                    "confidence": 0.4424029,
+                    "lexical": "uh nineteen",
+                    "itn": "uh nineteen",
+                    "maskedITN": "uh nineteen",
+                    "display": "uh nineteen"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT16.72S",
+            "duration": "PT0.84S",
+            "offsetInTicks": 167200000.0,
+            "durationInTicks": 8400000.0,
+            "nBest": [
+                {
+                    "confidence": 0.832115,
+                    "lexical": "ninety seven",
+                    "itn": "97",
+                    "maskedITN": "97",
+                    "display": "97."
+                },
+                {
+                    "confidence": 0.7045067,
+                    "lexical": "ninety seven f",
+                    "itn": "ninety seven f",
+                    "maskedITN": "ninety seven f",
+                    "display": "ninety seven F"
+                },
+                {
+                    "confidence": 0.7362954,
+                    "lexical": "ninety seven x",
+                    "itn": "ninety seven x",
+                    "maskedITN": "ninety seven x",
+                    "display": "ninety seven X"
+                },
+                {
+                    "confidence": 0.71451956,
+                    "lexical": "ninety seven s",
+                    "itn": "ninety seven s",
+                    "maskedITN": "ninety seven s",
+                    "display": "ninety seven S"
+                },
+                {
+                    "confidence": 0.6805957,
+                    "lexical": "ninety seven v",
+                    "itn": "ninety seven v",
+                    "maskedITN": "ninety seven v",
+                    "display": "ninety seven V"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT19.53S",
+            "duration": "PT1.83S",
+            "offsetInTicks": 195300000.0,
+            "durationInTicks": 18300000.0,
+            "nBest": [
+                {
+                    "confidence": 0.22735934,
+                    "lexical": "OK seven",
+                    "itn": "OK 7",
+                    "maskedITN": "ok 7",
+                    "display": "OK, 7."
+                },
+                {
+                    "confidence": 0.5067829,
+                    "lexical": "two seven",
+                    "itn": "two seven",
+                    "maskedITN": "two seven",
+                    "display": "two seven"
+                },
+                {
+                    "confidence": 0.29081833,
+                    "lexical": "thank you seven",
+                    "itn": "thank you seven",
+                    "maskedITN": "thank you seven",
+                    "display": "thank you seven"
+                },
+                {
+                    "confidence": 0.32731277,
+                    "lexical": "okay seven",
+                    "itn": "okay seven",
+                    "maskedITN": "okay seven",
+                    "display": "okay seven"
+                },
+                {
+                    "confidence": 0.3386997,
+                    "lexical": "seven",
+                    "itn": "seven",
+                    "maskedITN": "seven",
+                    "display": "seven"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT25.38S",
+            "duration": "PT1.19S",
+            "offsetInTicks": 253800000.0,
+            "durationInTicks": 11900000.0,
+            "nBest": [
+                {
+                    "confidence": 0.439551,
+                    "lexical": "since twenty one",
+                    "itn": "since 21",
+                    "maskedITN": "since 21",
+                    "display": "Since 21."
+                },
+                {
+                    "confidence": 0.59278566,
+                    "lexical": "twenty one",
+                    "itn": "twenty one",
+                    "maskedITN": "twenty one",
+                    "display": "twenty one"
+                },
+                {
+                    "confidence": 0.59376925,
+                    "lexical": "one",
+                    "itn": "one",
+                    "maskedITN": "one",
+                    "display": "one"
+                },
+                {
+                    "confidence": 0.4078625,
+                    "lexical": "since one",
+                    "itn": "since one",
+                    "maskedITN": "since one",
+                    "display": "since one"
+                },
+                {
+                    "confidence": 0.2566176,
+                    "lexical": "since twenty eleven",
+                    "itn": "since twenty eleven",
+                    "maskedITN": "since twenty eleven",
+                    "display": "since twenty eleven"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT28.43S",
+            "duration": "PT0.78S",
+            "offsetInTicks": 284300000.0,
+            "durationInTicks": 7800000.0,
+            "nBest": [
+                {
+                    "confidence": 0.73373157,
+                    "lexical": "it's a bad deal",
+                    "itn": "it's a bad deal",
+                    "maskedITN": "it's a bad deal",
+                    "display": "It's a bad deal."
+                },
+                {
+                    "confidence": 0.71725386,
+                    "lexical": "it's a bad thing",
+                    "itn": "it's a bad thing",
+                    "maskedITN": "it's a bad thing",
+                    "display": "it's a bad thing"
+                },
+                {
+                    "confidence": 0.73100525,
+                    "lexical": "it's a bad day",
+                    "itn": "it's a bad day",
+                    "maskedITN": "it's a bad day",
+                    "display": "it's a bad day"
+                },
+                {
+                    "confidence": 0.68633115,
+                    "lexical": "that's a bad thing",
+                    "itn": "that's a bad thing",
+                    "maskedITN": "that's a bad thing",
+                    "display": "that's a bad thing"
+                },
+                {
+                    "confidence": 0.6758379,
+                    "lexical": "it's a bad",
+                    "itn": "it's a bad",
+                    "maskedITN": "it's a bad",
+                    "display": "it's a bad"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT32.05S",
+            "duration": "PT0.68S",
+            "offsetInTicks": 320500000.0,
+            "durationInTicks": 6800000.0,
+            "nBest": [
+                {
+                    "confidence": 0.85219896,
+                    "lexical": "twenty four",
+                    "itn": "24",
+                    "maskedITN": "24",
+                    "display": "24."
+                },
+                {
+                    "confidence": 0.61443615,
+                    "lexical": "seventy four",
+                    "itn": "seventy four",
+                    "maskedITN": "seventy four",
+                    "display": "seventy four"
+                },
+                {
+                    "confidence": 0.7042629,
+                    "lexical": "twenty fourth",
+                    "itn": "twenty fourth",
+                    "maskedITN": "twenty fourth",
+                    "display": "twenty fourth"
+                },
+                {
+                    "confidence": 0.6102043,
+                    "lexical": "ninety four",
+                    "itn": "ninety four",
+                    "maskedITN": "ninety four",
+                    "display": "ninety four"
+                },
+                {
+                    "confidence": 0.5117324,
+                    "lexical": "thirty four",
+                    "itn": "thirty four",
+                    "maskedITN": "thirty four",
+                    "display": "thirty four"
+                }
+            ]
+        }
+    ]
+}

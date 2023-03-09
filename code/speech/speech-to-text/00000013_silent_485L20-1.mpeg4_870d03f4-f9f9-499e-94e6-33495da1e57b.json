@@ -1,0 +1,62 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000013_silent_485L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:44:00Z",
+    "durationInTicks": 306400000,
+    "duration": "PT30.64S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "next let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it's part of the normal expected system not a even though there is someone each individual is responsible for their own decisions about whether or not you pay a price or be individuals cannot be blamed for their decisions to pay bribes it's common they must do it strongly",
+            "itn": "next let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it's part of the normal expected system not a even though there is someone each individual is responsible for their own decisions about whether or not you pay a price or be individuals cannot be blamed for their decisions to pay bribes it's common they must do it strongly",
+            "maskedITN": "next let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it's part of the normal expected system not a even though there is someone each individual is responsible for their own decisions about whether or not you pay a price or be individuals cannot be blamed for their decisions to pay bribes it's common they must do it strongly",
+            "display": "Next, let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it's part of the normal, expected system, not a even though there is someone, each individual is responsible for their own decisions about whether or not you pay a price or be. Individuals cannot be blamed for their decisions to pay bribes. It's common. They must do it strongly."
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT4.38S",
+            "duration": "PT25S",
+            "offsetInTicks": 43800000.0,
+            "durationInTicks": 250000000.0,
+            "nBest": [
+                {
+                    "confidence": 0.80314356,
+                    "lexical": "next let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it's part of the normal expected system not a even though there is someone each individual is responsible for their own decisions about whether or not you pay a price or be individuals cannot be blamed for their decisions to pay bribes it's common they must do it strongly",
+                    "itn": "next let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it's part of the normal expected system not a even though there is someone each individual is responsible for their own decisions about whether or not you pay a price or be individuals cannot be blamed for their decisions to pay bribes it's common they must do it strongly",
+                    "maskedITN": "next let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it's part of the normal expected system not a even though there is someone each individual is responsible for their own decisions about whether or not you pay a price or be individuals cannot be blamed for their decisions to pay bribes it's common they must do it strongly",
+                    "display": "Next, let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it's part of the normal, expected system, not a even though there is someone, each individual is responsible for their own decisions about whether or not you pay a price or be. Individuals cannot be blamed for their decisions to pay bribes. It's common. They must do it strongly."
+                },
+                {
+                    "confidence": 0.8014942,
+                    "lexical": "next let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it's part of the normal expected system not a even though there is someone each individual is responsible for their own decisions about whether or not you pay a price or be individuals cannot be blamed for their decisions to pay bribes this common they must do it strongly",
+                    "itn": "next let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it's part of the normal expected system not a even though there is someone each individual is responsible for their own decisions about whether or not you pay a price or be individuals cannot be blamed for their decisions to pay bribes this common they must do it strongly",
+                    "maskedITN": "next let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it's part of the normal expected system not a even though there is someone each individual is responsible for their own decisions about whether or not you pay a price or be individuals cannot be blamed for their decisions to pay bribes this common they must do it strongly",
+                    "display": "next let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it's part of the normal expected system not a even though there is someone each individual is responsible for their own decisions about whether or not you pay a price or be individuals cannot be blamed for their decisions to pay bribes this common they must do it strongly"
+                },
+                {
+                    "confidence": 0.80162704,
+                    "lexical": "next let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it's part of the normal expected system not a even though there is someone each individual is responsible for their own decisions about whether or not to pay a price or be individuals cannot be blamed for their decisions to pay bribes this common they must do it strongly",
+                    "itn": "next let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it's part of the normal expected system not a even though there is someone each individual is responsible for their own decisions about whether or not to pay a price or be individuals cannot be blamed for their decisions to pay bribes this common they must do it strongly",
+                    "maskedITN": "next let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it's part of the normal expected system not a even though there is someone each individual is responsible for their own decisions about whether or not to pay a price or be individuals cannot be blamed for their decisions to pay bribes this common they must do it strongly",
+                    "display": "next let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it's part of the normal expected system not a even though there is someone each individual is responsible for their own decisions about whether or not to pay a price or be individuals cannot be blamed for their decisions to pay bribes this common they must do it strongly"
+                },
+                {
+                    "confidence": 0.8005635,
+                    "lexical": "next let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it's part of the normal expected system not a even though there is someone each individual is responsible for their own decisions about whether or not you pay a price or be individuals cannot be blamed for their decisions to pay bribes these common they must do it strongly",
+                    "itn": "next let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it's part of the normal expected system not a even though there is someone each individual is responsible for their own decisions about whether or not you pay a price or be individuals cannot be blamed for their decisions to pay bribes these common they must do it strongly",
+                    "maskedITN": "next let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it's part of the normal expected system not a even though there is someone each individual is responsible for their own decisions about whether or not you pay a price or be individuals cannot be blamed for their decisions to pay bribes these common they must do it strongly",
+                    "display": "next let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it's part of the normal expected system not a even though there is someone each individual is responsible for their own decisions about whether or not you pay a price or be individuals cannot be blamed for their decisions to pay bribes these common they must do it strongly"
+                },
+                {
+                    "confidence": 0.7946102,
+                    "lexical": "next let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it's part of the normal expected system not a even though there is someone each individual is responsible for their own decisions about whether or not you pay a price or be individuals cannot be blamed for their decisions to pay bribes this common they must do it they strongly",
+                    "itn": "next let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it's part of the normal expected system not a even though there is someone each individual is responsible for their own decisions about whether or not you pay a price or be individuals cannot be blamed for their decisions to pay bribes this common they must do it they strongly",
+                    "maskedITN": "next let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it's part of the normal expected system not a even though there is someone each individual is responsible for their own decisions about whether or not you pay a price or be individuals cannot be blamed for their decisions to pay bribes this common they must do it they strongly",
+                    "display": "next let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it's part of the normal expected system not a even though there is someone each individual is responsible for their own decisions about whether or not you pay a price or be individuals cannot be blamed for their decisions to pay bribes this common they must do it they strongly"
+                }
+            ]
+        }
+    ]
+}

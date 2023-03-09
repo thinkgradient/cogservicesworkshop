@@ -1,0 +1,107 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000014_silent_456L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:43:34Z",
+    "durationInTicks": 175000000,
+    "duration": "PT17.5S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "when a bride is paid the citizen who pays normally benefits more or the official who received the payments normally beneficial okay strongly",
+            "itn": "when a bride is paid the citizen who pays normally benefits more or the official who received the payments normally beneficial okay strongly",
+            "maskedITN": "when a bride is paid the citizen who pays normally benefits more or the official who received the payments normally beneficial okay strongly",
+            "display": "When a bride is paid, the citizen who pays normally benefits more or the official who received the payments normally beneficial. Okay, strongly."
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT3.92S",
+            "duration": "PT10.45S",
+            "offsetInTicks": 39200000.0,
+            "durationInTicks": 104500000.0,
+            "nBest": [
+                {
+                    "confidence": 0.6411641,
+                    "lexical": "when a bride is paid the citizen who pays normally benefits more or the official who received the payments normally beneficial okay strongly",
+                    "itn": "when a bride is paid the citizen who pays normally benefits more or the official who received the payments normally beneficial okay strongly",
+                    "maskedITN": "when a bride is paid the citizen who pays normally benefits more or the official who received the payments normally beneficial okay strongly",
+                    "display": "When a bride is paid, the citizen who pays normally benefits more or the official who received the payments normally beneficial. Okay, strongly."
+                },
+                {
+                    "confidence": 0.63532126,
+                    "lexical": "when a bride is paid the citizen who pays normally benefits more or the official who received the payment normally beneficial okay strongly",
+                    "itn": "when a bride is paid the citizen who pays normally benefits more or the official who received the payment normally beneficial okay strongly",
+                    "maskedITN": "when a bride is paid the citizen who pays normally benefits more or the official who received the payment normally beneficial okay strongly",
+                    "display": "when a bride is paid the citizen who pays normally benefits more or the official who received the payment normally beneficial okay strongly"
+                },
+                {
+                    "confidence": 0.63169414,
+                    "lexical": "when a bride is paid the citizen who pays normally benefits more or the official who received the payment normally beneficial months okay strongly",
+                    "itn": "when a bride is paid the citizen who pays normally benefits more or the official who received the payment normally beneficial months okay strongly",
+                    "maskedITN": "when a bride is paid the citizen who pays normally benefits more or the official who received the payment normally beneficial months okay strongly",
+                    "display": "when a bride is paid the citizen who pays normally benefits more or the official who received the payment normally beneficial months okay strongly"
+                },
+                {
+                    "confidence": 0.63398904,
+                    "lexical": "when a bridge is paid the citizen who pays normally benefits more or the official who received the payment normally beneficial okay strongly",
+                    "itn": "when a bridge is paid the citizen who pays normally benefits more or the official who received the payment normally beneficial okay strongly",
+                    "maskedITN": "when a bridge is paid the citizen who pays normally benefits more or the official who received the payment normally beneficial okay strongly",
+                    "display": "when a bridge is paid the citizen who pays normally benefits more or the official who received the payment normally beneficial okay strongly"
+                },
+                {
+                    "confidence": 0.6304003,
+                    "lexical": "when a bridge is paid the citizen who pays normally benefits more or the official who received the payment normally beneficial months okay strongly",
+                    "itn": "when a bridge is paid the citizen who pays normally benefits more or the official who received the payment normally beneficial months okay strongly",
+                    "maskedITN": "when a bridge is paid the citizen who pays normally benefits more or the official who received the payment normally beneficial months okay strongly",
+                    "display": "when a bridge is paid the citizen who pays normally benefits more or the official who received the payment normally beneficial months okay strongly"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT15.91S",
+            "duration": "PT1.59S",
+            "offsetInTicks": 159100000.0,
+            "durationInTicks": 15900000.0,
+            "nBest": [
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.4142217,
+                    "lexical": "sure",
+                    "itn": "sure",
+                    "maskedITN": "sure",
+                    "display": "sure"
+                },
+                {
+                    "confidence": 0.4796406,
+                    "lexical": "yeah",
+                    "itn": "yeah",
+                    "maskedITN": "yeah",
+                    "display": "yeah"
+                },
+                {
+                    "confidence": 0.58003527,
+                    "lexical": "yes",
+                    "itn": "yes",
+                    "maskedITN": "yes",
+                    "display": "yes"
+                },
+                {
+                    "confidence": 0.6272746,
+                    "lexical": "no",
+                    "itn": "no",
+                    "maskedITN": "no",
+                    "display": "no"
+                }
+            ]
+        }
+    ]
+}

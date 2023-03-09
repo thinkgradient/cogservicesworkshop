@@ -1,0 +1,152 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000010_silent_363L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:43:32Z",
+    "durationInTicks": 215400000,
+    "duration": "PT21.54S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "OK uh the moines uh can you please tell me which of the following is group do you fold or call how how which is group default i i was the question you how old are you and your four very urgent",
+            "itn": "OK uh the moines uh can you please tell me which of the following is group do you fold or call how how which is group default i i was the question you how old are you and your four very urgent",
+            "maskedITN": "ok uh the moines uh can you please tell me which of the following is group do you fold or call how how which is group default i i was the question you how old are you and your four very urgent",
+            "display": "OK. Uh, the Moines? Uh, can you please tell me which of the following is group? Do you fold or call? How? How? Which is group default? I I was the question you how old are you? And your four very urgent."
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT0.07S",
+            "duration": "PT0.45S",
+            "offsetInTicks": 700000.0,
+            "durationInTicks": 4500000.0,
+            "nBest": [
+                {
+                    "confidence": 0.74014974,
+                    "lexical": "OK",
+                    "itn": "OK",
+                    "maskedITN": "ok",
+                    "display": "OK."
+                },
+                {
+                    "confidence": 0.34301847,
+                    "lexical": "okay",
+                    "itn": "okay",
+                    "maskedITN": "okay",
+                    "display": "okay"
+                },
+                {
+                    "confidence": 0.5786901,
+                    "lexical": "ok so",
+                    "itn": "ok so",
+                    "maskedITN": "ok so",
+                    "display": "OK so"
+                },
+                {
+                    "confidence": 0.55888796,
+                    "lexical": "ok yeah",
+                    "itn": "ok yeah",
+                    "maskedITN": "ok yeah",
+                    "display": "OK yeah"
+                },
+                {
+                    "confidence": 0.4824958,
+                    "lexical": "ok uh",
+                    "itn": "ok uh",
+                    "maskedITN": "ok uh",
+                    "display": "OK uh"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT4.01S",
+            "duration": "PT8.73S",
+            "offsetInTicks": 40100000.0,
+            "durationInTicks": 87300000.0,
+            "nBest": [
+                {
+                    "confidence": 0.71988297,
+                    "lexical": "uh the moines uh can you please tell me which of the following is group do you fold or call how how which is group default",
+                    "itn": "uh the moines uh can you please tell me which of the following is group do you fold or call how how which is group default",
+                    "maskedITN": "uh the moines uh can you please tell me which of the following is group do you fold or call how how which is group default",
+                    "display": "Uh, the Moines? Uh, can you please tell me which of the following is group? Do you fold or call? How? How? Which is group default?"
+                },
+                {
+                    "confidence": 0.7231424,
+                    "lexical": "uh the moines can you please tell me which of the following is group do you fold or call how how which is group default",
+                    "itn": "uh the moines can you please tell me which of the following is group do you fold or call how how which is group default",
+                    "maskedITN": "uh the moines can you please tell me which of the following is group do you fold or call how how which is group default",
+                    "display": "uh the moines can you please tell me which of the following is group do you fold or call how how which is group default"
+                },
+                {
+                    "confidence": 0.6770586,
+                    "lexical": "uh demoing uh can you please tell me which of the following is group do you fold or call how how which age group default",
+                    "itn": "uh demoing uh can you please tell me which of the following is group do you fold or call how how which age group default",
+                    "maskedITN": "uh demoing uh can you please tell me which of the following is group do you fold or call how how which age group default",
+                    "display": "uh demoing uh can you please tell me which of the following is group do you fold or call how how which age group default"
+                },
+                {
+                    "confidence": 0.7128627,
+                    "lexical": "uh the moines uh can you please tell me which of the following is group do you fold or call how how which age group default",
+                    "itn": "uh the moines uh can you please tell me which of the following is group do you fold or call how how which age group default",
+                    "maskedITN": "uh the moines uh can you please tell me which of the following is group do you fold or call how how which age group default",
+                    "display": "uh the moines uh can you please tell me which of the following is group do you fold or call how how which age group default"
+                },
+                {
+                    "confidence": 0.7159806,
+                    "lexical": "uh the moines can you please tell me which of the following is group do you fold or call how how which age group default",
+                    "itn": "uh the moines can you please tell me which of the following is group do you fold or call how how which age group default",
+                    "maskedITN": "uh the moines can you please tell me which of the following is group do you fold or call how how which age group default",
+                    "display": "uh the moines can you please tell me which of the following is group do you fold or call how how which age group default"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT15.11S",
+            "duration": "PT4.55S",
+            "offsetInTicks": 151100000.0,
+            "durationInTicks": 45500000.0,
+            "nBest": [
+                {
+                    "confidence": 0.78535324,
+                    "lexical": "i i was the question you how old are you and your four very urgent",
+                    "itn": "i i was the question you how old are you and your four very urgent",
+                    "maskedITN": "i i was the question you how old are you and your four very urgent",
+                    "display": "I I was the question you how old are you? And your four very urgent."
+                },
+                {
+                    "confidence": 0.79465324,
+                    "lexical": "i i was the question here how old are you and your four very urgent",
+                    "itn": "i i was the question here how old are you and your four very urgent",
+                    "maskedITN": "i i was the question here how old are you and your four very urgent",
+                    "display": "i i was the question here how old are you and your four very urgent"
+                },
+                {
+                    "confidence": 0.77105653,
+                    "lexical": "i i was the question how old are you and your four very urgent",
+                    "itn": "i i was the question how old are you and your four very urgent",
+                    "maskedITN": "i i was the question how old are you and your four very urgent",
+                    "display": "i i was the question how old are you and your four very urgent"
+                },
+                {
+                    "confidence": 0.7587384,
+                    "lexical": "i i was the question how old are you and you're four very urgent",
+                    "itn": "i i was the question how old are you and you're four very urgent",
+                    "maskedITN": "i i was the question how old are you and you're four very urgent",
+                    "display": "i i was the question how old are you and you're four very urgent"
+                },
+                {
+                    "confidence": 0.76503485,
+                    "lexical": "i i was a question how old are you and your four very urgent",
+                    "itn": "i i was a question how old are you and your four very urgent",
+                    "maskedITN": "i i was a question how old are you and your four very urgent",
+                    "display": "i i was a question how old are you and your four very urgent"
+                }
+            ]
+        }
+    ]
+}

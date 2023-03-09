@@ -1,0 +1,197 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000009_silent_456L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:43:18Z",
+    "durationInTicks": 164600000,
+    "duration": "PT16.46S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "no M when a bride is paid a the citizen who pays normally benefits more or the official who will receive the payment normally benefits more",
+            "itn": "no M when a bride is paid a the citizen who pays normally benefits more or the official who will receive the payment normally benefits more",
+            "maskedITN": "no m when a bride is paid a the citizen who pays normally benefits more or the official who will receive the payment normally benefits more",
+            "display": "No. M. When a bride is paid a the citizen who pays normally benefits more or the official who will receive the payment normally benefits more."
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT0.62S",
+            "duration": "PT0.23S",
+            "offsetInTicks": 6200000.0,
+            "durationInTicks": 2300000.0,
+            "nBest": [
+                {
+                    "confidence": 0.80509466,
+                    "lexical": "no",
+                    "itn": "no",
+                    "maskedITN": "no",
+                    "display": "No."
+                },
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.48032677,
+                    "lexical": "good enough",
+                    "itn": "good enough",
+                    "maskedITN": "good enough",
+                    "display": "good enough"
+                },
+                {
+                    "confidence": 0.25280505,
+                    "lexical": "different",
+                    "itn": "different",
+                    "maskedITN": "different",
+                    "display": "different"
+                },
+                {
+                    "confidence": 0.34754977,
+                    "lexical": "enough",
+                    "itn": "enough",
+                    "maskedITN": "enough",
+                    "display": "enough"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT2.43S",
+            "duration": "PT0.55S",
+            "offsetInTicks": 24300000.0,
+            "durationInTicks": 5500000.0,
+            "nBest": [
+                {
+                    "confidence": 0.30049163,
+                    "lexical": "M",
+                    "itn": "M",
+                    "maskedITN": "m",
+                    "display": "M."
+                },
+                {
+                    "confidence": 0.6673525,
+                    "lexical": "hmm",
+                    "itn": "hmm",
+                    "maskedITN": "hmm",
+                    "display": "hmm"
+                },
+                {
+                    "confidence": 0.32697704,
+                    "lexical": "mhm",
+                    "itn": "mhm",
+                    "maskedITN": "mhm",
+                    "display": "MHM"
+                },
+                {
+                    "confidence": 0.7415261,
+                    "lexical": "umm",
+                    "itn": "umm",
+                    "maskedITN": "umm",
+                    "display": "umm"
+                },
+                {
+                    "confidence": 0.6045739,
+                    "lexical": "mm-hmm",
+                    "itn": "mm-hmm",
+                    "maskedITN": "mm-hmm",
+                    "display": "mm-hmm"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT4.09S",
+            "duration": "PT8.65S",
+            "offsetInTicks": 40900000.0,
+            "durationInTicks": 86500000.0,
+            "nBest": [
+                {
+                    "confidence": 0.77702004,
+                    "lexical": "when a bride is paid a the citizen who pays normally benefits more or the official who will receive the payment normally benefits more",
+                    "itn": "when a bride is paid a the citizen who pays normally benefits more or the official who will receive the payment normally benefits more",
+                    "maskedITN": "when a bride is paid a the citizen who pays normally benefits more or the official who will receive the payment normally benefits more",
+                    "display": "When a bride is paid a the citizen who pays normally benefits more or the official who will receive the payment normally benefits more."
+                },
+                {
+                    "confidence": 0.7760156,
+                    "lexical": "when a brand is paid a the citizen who pays normally benefits more or the official who will receive the payment normally benefits more",
+                    "itn": "when a brand is paid a the citizen who pays normally benefits more or the official who will receive the payment normally benefits more",
+                    "maskedITN": "when a brand is paid a the citizen who pays normally benefits more or the official who will receive the payment normally benefits more",
+                    "display": "when a brand is paid a the citizen who pays normally benefits more or the official who will receive the payment normally benefits more"
+                },
+                {
+                    "confidence": 0.7752988,
+                    "lexical": "when a bridge is paid a the citizen who pays normally benefits more or the official who will receive the payment normally benefits more",
+                    "itn": "when a bridge is paid a the citizen who pays normally benefits more or the official who will receive the payment normally benefits more",
+                    "maskedITN": "when a bridge is paid a the citizen who pays normally benefits more or the official who will receive the payment normally benefits more",
+                    "display": "when a bridge is paid a the citizen who pays normally benefits more or the official who will receive the payment normally benefits more"
+                },
+                {
+                    "confidence": 0.76424134,
+                    "lexical": "when i break this paid a the citizen who pays normally benefits more or the official who will receive the payment normally benefits more",
+                    "itn": "when i break this paid a the citizen who pays normally benefits more or the official who will receive the payment normally benefits more",
+                    "maskedITN": "when i break this paid a the citizen who pays normally benefits more or the official who will receive the payment normally benefits more",
+                    "display": "when i break this paid a the citizen who pays normally benefits more or the official who will receive the payment normally benefits more"
+                },
+                {
+                    "confidence": 0.764415,
+                    "lexical": "when i brought this paid a the citizen who pays normally benefits more or the official who will receive the payment normally benefits more",
+                    "itn": "when i brought this paid a the citizen who pays normally benefits more or the official who will receive the payment normally benefits more",
+                    "maskedITN": "when i brought this paid a the citizen who pays normally benefits more or the official who will receive the payment normally benefits more",
+                    "display": "when i brought this paid a the citizen who pays normally benefits more or the official who will receive the payment normally benefits more"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT13.66S",
+            "duration": "PT2.8S",
+            "offsetInTicks": 136600000.0,
+            "durationInTicks": 28000000.0,
+            "nBest": [
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.59495705,
+                    "lexical": "yes",
+                    "itn": "yes",
+                    "maskedITN": "yes",
+                    "display": "yes"
+                },
+                {
+                    "confidence": 0.48480377,
+                    "lexical": "no",
+                    "itn": "no",
+                    "maskedITN": "no",
+                    "display": "no"
+                },
+                {
+                    "confidence": 0.528049,
+                    "lexical": "yeah",
+                    "itn": "yeah",
+                    "maskedITN": "yeah",
+                    "display": "yeah"
+                },
+                {
+                    "confidence": 0.4537056,
+                    "lexical": "sure",
+                    "itn": "sure",
+                    "maskedITN": "sure",
+                    "display": "sure"
+                }
+            ]
+        }
+    ]
+}

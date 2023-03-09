@@ -1,0 +1,467 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000012_silent_392L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:43:52Z",
+    "durationInTicks": 509800000,
+    "duration": "PT50.98S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "OK so do you think bribery is more of a problem when a citizen offers a bribe or an official demand the price do you think bribery is more of a problem when a citizen offers a bribe or B an official demand a bribe OK uh do you strongly agree with your answer and somewhat agree with your answer let me see strongly osama strongly assembled strongly you strongly agree with your answer or someone OK",
+            "itn": "OK so do you think bribery is more of a problem when a citizen offers a bribe or an official demand the price do you think bribery is more of a problem when a citizen offers a bribe or B an official demand a bribe OK uh do you strongly agree with your answer and somewhat agree with your answer let me see strongly osama strongly assembled strongly you strongly agree with your answer or someone OK",
+            "maskedITN": "ok so do you think bribery is more of a problem when a citizen offers a bribe or an official demand the price do you think bribery is more of a problem when a citizen offers a bribe or b an official demand a bribe ok uh do you strongly agree with your answer and somewhat agree with your answer let me see strongly osama strongly assembled strongly you strongly agree with your answer or someone ok",
+            "display": "OK, so. Do you think bribery is more of a problem when a citizen offers a bribe? Or an official demand, the price. Do you think bribery is more of a problem when a citizen offers a bribe or B an official demand a bribe? OK. Uh, do you strongly agree with your answer and somewhat agree with your answer? Let me see. Strongly Osama. Strongly assembled, strongly you strongly agree with your answer or someone. OK."
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT1.52S",
+            "duration": "PT1.29S",
+            "offsetInTicks": 15200000.0,
+            "durationInTicks": 12900000.0,
+            "nBest": [
+                {
+                    "confidence": 0.9454664,
+                    "lexical": "OK so",
+                    "itn": "OK so",
+                    "maskedITN": "ok so",
+                    "display": "OK, so."
+                },
+                {
+                    "confidence": 0.8435672,
+                    "lexical": "ok so so",
+                    "itn": "ok so so",
+                    "maskedITN": "ok so so",
+                    "display": "OK so so"
+                },
+                {
+                    "confidence": 0.8199115,
+                    "lexical": "okay so",
+                    "itn": "okay so",
+                    "maskedITN": "okay so",
+                    "display": "okay so"
+                },
+                {
+                    "confidence": 0.93953437,
+                    "lexical": "ok so i",
+                    "itn": "ok so i",
+                    "maskedITN": "ok so i",
+                    "display": "OK so i"
+                },
+                {
+                    "confidence": 0.9351242,
+                    "lexical": "ok so uh",
+                    "itn": "ok so uh",
+                    "maskedITN": "ok so uh",
+                    "display": "OK so uh"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT4.05S",
+            "duration": "PT4.69S",
+            "offsetInTicks": 40500000.0,
+            "durationInTicks": 46900000.0,
+            "nBest": [
+                {
+                    "confidence": 0.7533017,
+                    "lexical": "do you think bribery is more of a problem when a citizen offers a bribe",
+                    "itn": "do you think bribery is more of a problem when a citizen offers a bribe",
+                    "maskedITN": "do you think bribery is more of a problem when a citizen offers a bribe",
+                    "display": "Do you think bribery is more of a problem when a citizen offers a bribe?"
+                },
+                {
+                    "confidence": 0.76540256,
+                    "lexical": "do you think bribery is more of a problem when a a citizen offers a bribe",
+                    "itn": "do you think bribery is more of a problem when a a citizen offers a bribe",
+                    "maskedITN": "do you think bribery is more of a problem when a a citizen offers a bribe",
+                    "display": "do you think bribery is more of a problem when a a citizen offers a bribe"
+                },
+                {
+                    "confidence": 0.75704587,
+                    "lexical": "do you think bravery is more of a problem when a citizen offers a bribe",
+                    "itn": "do you think bravery is more of a problem when a citizen offers a bribe",
+                    "maskedITN": "do you think bravery is more of a problem when a citizen offers a bribe",
+                    "display": "do you think bravery is more of a problem when a citizen offers a bribe"
+                },
+                {
+                    "confidence": 0.7691139,
+                    "lexical": "do you think bravery is more of a problem when a a citizen offers a bribe",
+                    "itn": "do you think bravery is more of a problem when a a citizen offers a bribe",
+                    "maskedITN": "do you think bravery is more of a problem when a a citizen offers a bribe",
+                    "display": "do you think bravery is more of a problem when a a citizen offers a bribe"
+                },
+                {
+                    "confidence": 0.7330852,
+                    "lexical": "do you think bradbury is more of a problem when a citizen offers a bribe",
+                    "itn": "do you think bradbury is more of a problem when a citizen offers a bribe",
+                    "maskedITN": "do you think bradbury is more of a problem when a citizen offers a bribe",
+                    "display": "do you think bradbury is more of a problem when a citizen offers a bribe"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT9.74S",
+            "duration": "PT1.58S",
+            "offsetInTicks": 97400000.0,
+            "durationInTicks": 15800000.0,
+            "nBest": [
+                {
+                    "confidence": 0.7144087,
+                    "lexical": "or an official demand the price",
+                    "itn": "or an official demand the price",
+                    "maskedITN": "or an official demand the price",
+                    "display": "Or an official demand, the price."
+                },
+                {
+                    "confidence": 0.5360892,
+                    "lexical": "or unofficial demand the price",
+                    "itn": "or unofficial demand the price",
+                    "maskedITN": "or unofficial demand the price",
+                    "display": "or unofficial demand the price"
+                },
+                {
+                    "confidence": 0.5992642,
+                    "lexical": "or an official demand apply",
+                    "itn": "or an official demand apply",
+                    "maskedITN": "or an official demand apply",
+                    "display": "or an official demand apply"
+                },
+                {
+                    "confidence": 0.69809085,
+                    "lexical": "or an official demand the guy",
+                    "itn": "or an official demand the guy",
+                    "maskedITN": "or an official demand the guy",
+                    "display": "or an official demand the guy"
+                },
+                {
+                    "confidence": 0.6945758,
+                    "lexical": "or an official demand that guy",
+                    "itn": "or an official demand that guy",
+                    "maskedITN": "or an official demand that guy",
+                    "display": "or an official demand that guy"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT14.85S",
+            "duration": "PT7.69S",
+            "offsetInTicks": 148500000.0,
+            "durationInTicks": 76900000.0,
+            "nBest": [
+                {
+                    "confidence": 0.7550574,
+                    "lexical": "do you think bribery is more of a problem when a citizen offers a bribe or B an official demand a bribe",
+                    "itn": "do you think bribery is more of a problem when a citizen offers a bribe or B an official demand a bribe",
+                    "maskedITN": "do you think bribery is more of a problem when a citizen offers a bribe or b an official demand a bribe",
+                    "display": "Do you think bribery is more of a problem when a citizen offers a bribe or B an official demand a bribe?"
+                },
+                {
+                    "confidence": 0.7667482,
+                    "lexical": "do you think bribery is more of a problem when a a citizen offers a bribe or b an official demand a bribe",
+                    "itn": "do you think bribery is more of a problem when a a citizen offers a bribe or b an official demand a bribe",
+                    "maskedITN": "do you think bribery is more of a problem when a a citizen offers a bribe or b an official demand a bribe",
+                    "display": "do you think bribery is more of a problem when a a citizen offers a bribe or B an official demand a bribe"
+                },
+                {
+                    "confidence": 0.74820304,
+                    "lexical": "do you think bribery is more of a problem when a citizen offers a bribes or b an official demand a bribe",
+                    "itn": "do you think bribery is more of a problem when a citizen offers a bribes or b an official demand a bribe",
+                    "maskedITN": "do you think bribery is more of a problem when a citizen offers a bribes or b an official demand a bribe",
+                    "display": "do you think bribery is more of a problem when a citizen offers a bribes or B an official demand a bribe"
+                },
+                {
+                    "confidence": 0.75983596,
+                    "lexical": "do you think bribery is more of a problem when a a citizen offers a bribes or b an official demand a bribe",
+                    "itn": "do you think bribery is more of a problem when a a citizen offers a bribes or b an official demand a bribe",
+                    "maskedITN": "do you think bribery is more of a problem when a a citizen offers a bribes or b an official demand a bribe",
+                    "display": "do you think bribery is more of a problem when a a citizen offers a bribes or B an official demand a bribe"
+                },
+                {
+                    "confidence": 0.7557375,
+                    "lexical": "do you think bribery is more of a problem when a citizen offers are bribes or b an official demand a bribe",
+                    "itn": "do you think bribery is more of a problem when a citizen offers are bribes or b an official demand a bribe",
+                    "maskedITN": "do you think bribery is more of a problem when a citizen offers are bribes or b an official demand a bribe",
+                    "display": "do you think bribery is more of a problem when a citizen offers are bribes or B an official demand a bribe"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT24.17S",
+            "duration": "PT0.33S",
+            "offsetInTicks": 241700000.0,
+            "durationInTicks": 3300000.0,
+            "nBest": [
+                {
+                    "confidence": 0.9253169,
+                    "lexical": "OK",
+                    "itn": "OK",
+                    "maskedITN": "ok",
+                    "display": "OK."
+                },
+                {
+                    "confidence": 0.64222896,
+                    "lexical": "okay",
+                    "itn": "okay",
+                    "maskedITN": "okay",
+                    "display": "okay"
+                },
+                {
+                    "confidence": 0.8233025,
+                    "lexical": "ok so",
+                    "itn": "ok so",
+                    "maskedITN": "ok so",
+                    "display": "OK so"
+                },
+                {
+                    "confidence": 0.69297683,
+                    "lexical": "ok ok",
+                    "itn": "ok ok",
+                    "maskedITN": "ok ok",
+                    "display": "OK OK"
+                },
+                {
+                    "confidence": 0.69185513,
+                    "lexical": "ok uh",
+                    "itn": "ok uh",
+                    "maskedITN": "ok uh",
+                    "display": "OK uh"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT26.34S",
+            "duration": "PT3.57S",
+            "offsetInTicks": 263400000.0,
+            "durationInTicks": 35700000.0,
+            "nBest": [
+                {
+                    "confidence": 0.76482683,
+                    "lexical": "uh do you strongly agree with your answer and somewhat agree with your answer",
+                    "itn": "uh do you strongly agree with your answer and somewhat agree with your answer",
+                    "maskedITN": "uh do you strongly agree with your answer and somewhat agree with your answer",
+                    "display": "Uh, do you strongly agree with your answer and somewhat agree with your answer?"
+                },
+                {
+                    "confidence": 0.7192599,
+                    "lexical": "m uh do you strongly agree with your answer and somewhat agree with your answer",
+                    "itn": "m uh do you strongly agree with your answer and somewhat agree with your answer",
+                    "maskedITN": "m uh do you strongly agree with your answer and somewhat agree with your answer",
+                    "display": "M uh do you strongly agree with your answer and somewhat agree with your answer"
+                },
+                {
+                    "confidence": 0.7493032,
+                    "lexical": "uh do you strongly agree with your answer somewhat agree with your answer",
+                    "itn": "uh do you strongly agree with your answer somewhat agree with your answer",
+                    "maskedITN": "uh do you strongly agree with your answer somewhat agree with your answer",
+                    "display": "uh do you strongly agree with your answer somewhat agree with your answer"
+                },
+                {
+                    "confidence": 0.70442194,
+                    "lexical": "m uh do you strongly agree with your answer somewhat agree with your answer",
+                    "itn": "m uh do you strongly agree with your answer somewhat agree with your answer",
+                    "maskedITN": "m uh do you strongly agree with your answer somewhat agree with your answer",
+                    "display": "M uh do you strongly agree with your answer somewhat agree with your answer"
+                },
+                {
+                    "confidence": 0.71326554,
+                    "lexical": "m uh do you strongly agree with your answer in somewhat agree with your answer",
+                    "itn": "m uh do you strongly agree with your answer in somewhat agree with your answer",
+                    "maskedITN": "m uh do you strongly agree with your answer in somewhat agree with your answer",
+                    "display": "M uh do you strongly agree with your answer in somewhat agree with your answer"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT33.51S",
+            "duration": "PT0.66S",
+            "offsetInTicks": 335100000.0,
+            "durationInTicks": 6600000.0,
+            "nBest": [
+                {
+                    "confidence": 0.5617839,
+                    "lexical": "let me see",
+                    "itn": "let me see",
+                    "maskedITN": "let me see",
+                    "display": "Let me see."
+                },
+                {
+                    "confidence": 0.5578383,
+                    "lexical": "eight",
+                    "itn": "eight",
+                    "maskedITN": "eight",
+                    "display": "eight"
+                },
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.32782373,
+                    "lexical": "hey",
+                    "itn": "hey",
+                    "maskedITN": "hey",
+                    "display": "hey"
+                },
+                {
+                    "confidence": 0.27258223,
+                    "lexical": "me",
+                    "itn": "me",
+                    "maskedITN": "me",
+                    "display": "me"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT36.81S",
+            "duration": "PT0.94S",
+            "offsetInTicks": 368100000.0,
+            "durationInTicks": 9400000.0,
+            "nBest": [
+                {
+                    "confidence": 0.544204,
+                    "lexical": "strongly osama",
+                    "itn": "strongly osama",
+                    "maskedITN": "strongly osama",
+                    "display": "Strongly Osama."
+                },
+                {
+                    "confidence": 0.45929384,
+                    "lexical": "strongly ossama",
+                    "itn": "strongly ossama",
+                    "maskedITN": "strongly ossama",
+                    "display": "strongly ossama"
+                },
+                {
+                    "confidence": 0.54394686,
+                    "lexical": "strongly or someone",
+                    "itn": "strongly or someone",
+                    "maskedITN": "strongly or someone",
+                    "display": "strongly or someone"
+                },
+                {
+                    "confidence": 0.64386654,
+                    "lexical": "strongly or somewhat",
+                    "itn": "strongly or somewhat",
+                    "maskedITN": "strongly or somewhat",
+                    "display": "strongly or somewhat"
+                },
+                {
+                    "confidence": 0.53646535,
+                    "lexical": "strongly or summer",
+                    "itn": "strongly or summer",
+                    "maskedITN": "strongly or summer",
+                    "display": "strongly or summer"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT41.42S",
+            "duration": "PT5.81S",
+            "offsetInTicks": 414200000.0,
+            "durationInTicks": 58100000.0,
+            "nBest": [
+                {
+                    "confidence": 0.6410475,
+                    "lexical": "strongly assembled strongly you strongly agree with your answer or someone",
+                    "itn": "strongly assembled strongly you strongly agree with your answer or someone",
+                    "maskedITN": "strongly assembled strongly you strongly agree with your answer or someone",
+                    "display": "Strongly assembled, strongly you strongly agree with your answer or someone."
+                },
+                {
+                    "confidence": 0.7246807,
+                    "lexical": "strongly or somewhat strongly you strongly agree with your answer for someone",
+                    "itn": "strongly or somewhat strongly you strongly agree with your answer for someone",
+                    "maskedITN": "strongly or somewhat strongly you strongly agree with your answer for someone",
+                    "display": "strongly or somewhat strongly you strongly agree with your answer for someone"
+                },
+                {
+                    "confidence": 0.7198296,
+                    "lexical": "strongly or somewhat strongly you strongly agree with your answer or someone",
+                    "itn": "strongly or somewhat strongly you strongly agree with your answer or someone",
+                    "maskedITN": "strongly or somewhat strongly you strongly agree with your answer or someone",
+                    "display": "strongly or somewhat strongly you strongly agree with your answer or someone"
+                },
+                {
+                    "confidence": 0.6895993,
+                    "lexical": "strongly recommend strongly you strongly agree with your answer for someone",
+                    "itn": "strongly recommend strongly you strongly agree with your answer for someone",
+                    "maskedITN": "strongly recommend strongly you strongly agree with your answer for someone",
+                    "display": "strongly recommend strongly you strongly agree with your answer for someone"
+                },
+                {
+                    "confidence": 0.6848455,
+                    "lexical": "strongly recommend strongly you strongly agree with your answer or someone",
+                    "itn": "strongly recommend strongly you strongly agree with your answer or someone",
+                    "maskedITN": "strongly recommend strongly you strongly agree with your answer or someone",
+                    "display": "strongly recommend strongly you strongly agree with your answer or someone"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT49.05S",
+            "duration": "PT0.56S",
+            "offsetInTicks": 490500000.0,
+            "durationInTicks": 5600000.0,
+            "nBest": [
+                {
+                    "confidence": 0.8994826,
+                    "lexical": "OK",
+                    "itn": "OK",
+                    "maskedITN": "ok",
+                    "display": "OK."
+                },
+                {
+                    "confidence": 0.7180468,
+                    "lexical": "sure ok",
+                    "itn": "sure ok",
+                    "maskedITN": "sure ok",
+                    "display": "sure OK"
+                },
+                {
+                    "confidence": 0.53996223,
+                    "lexical": "okay",
+                    "itn": "okay",
+                    "maskedITN": "okay",
+                    "display": "okay"
+                },
+                {
+                    "confidence": 0.64050746,
+                    "lexical": "so ok",
+                    "itn": "so ok",
+                    "maskedITN": "so ok",
+                    "display": "so OK"
+                },
+                {
+                    "confidence": 0.8121285,
+                    "lexical": "ok so",
+                    "itn": "ok so",
+                    "maskedITN": "ok so",
+                    "display": "OK so"
+                }
+            ]
+        }
+    ]
+}

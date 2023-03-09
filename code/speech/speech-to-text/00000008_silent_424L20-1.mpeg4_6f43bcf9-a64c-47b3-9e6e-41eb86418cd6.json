@@ -1,0 +1,287 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000008_silent_424L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:43:17Z",
+    "durationInTicks": 381200000,
+    "duration": "PT38.12S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "E OK and do you think is it is OK for citizen to pay bribe when it's helped them with their own personal problems or B it is not OK for citizen to pay bribes because it hurts other people in the society MHM to see is it a because they pay because it helped them with your personal problem or it is not OK you have to look",
+            "itn": "E OK and do you think is it is OK for citizen to pay bribe when it's helped them with their own personal problems or B it is not OK for citizen to pay bribes because it hurts other people in the society MHM to see is it a because they pay because it helped them with your personal problem or it is not OK you have to look",
+            "maskedITN": "e ok and do you think is it is ok for citizen to pay bribe when it's helped them with their own personal problems or b it is not ok for citizen to pay bribes because it hurts other people in the society mhm to see is it a because they pay because it helped them with your personal problem or it is not ok you have to look",
+            "display": "E. OK. And do you think is it is OK for citizen to pay bribe when it's helped them with their own personal problems or B it is not OK for citizen to pay bribes because it hurts other people in the society? MHM. To see. Is it a because they pay because it helped them with your personal problem or it is not OK? You have to look."
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT0.07S",
+            "duration": "PT0.43S",
+            "offsetInTicks": 700000.0,
+            "durationInTicks": 4300000.0,
+            "nBest": [
+                {
+                    "confidence": 0.27887252,
+                    "lexical": "E",
+                    "itn": "E",
+                    "maskedITN": "e",
+                    "display": "E."
+                },
+                {
+                    "confidence": 0.4732614,
+                    "lexical": "east",
+                    "itn": "east",
+                    "maskedITN": "east",
+                    "display": "east"
+                },
+                {
+                    "confidence": 0.3249337,
+                    "lexical": "eh",
+                    "itn": "eh",
+                    "maskedITN": "eh",
+                    "display": "eh"
+                },
+                {
+                    "confidence": 0.54214346,
+                    "lexical": "easy",
+                    "itn": "easy",
+                    "maskedITN": "easy",
+                    "display": "easy"
+                },
+                {
+                    "confidence": 0.30902654,
+                    "lexical": "ed",
+                    "itn": "ed",
+                    "maskedITN": "ed",
+                    "display": "ed"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT2.75S",
+            "duration": "PT16.27S",
+            "offsetInTicks": 27500000.0,
+            "durationInTicks": 162700000.0,
+            "nBest": [
+                {
+                    "confidence": 0.8574603,
+                    "lexical": "OK and do you think is it is OK for citizen to pay bribe when it's helped them with their own personal problems or B it is not OK for citizen to pay bribes because it hurts other people in the society",
+                    "itn": "OK and do you think is it is OK for citizen to pay bribe when it's helped them with their own personal problems or B it is not OK for citizen to pay bribes because it hurts other people in the society",
+                    "maskedITN": "ok and do you think is it is ok for citizen to pay bribe when it's helped them with their own personal problems or b it is not ok for citizen to pay bribes because it hurts other people in the society",
+                    "display": "OK. And do you think is it is OK for citizen to pay bribe when it's helped them with their own personal problems or B it is not OK for citizen to pay bribes because it hurts other people in the society?"
+                },
+                {
+                    "confidence": 0.8559718,
+                    "lexical": "ok and do you think is it is ok for citizen to pay bribe when it's helped them with their own personal problem or b it is not ok for citizen to pay bribes because it hurts other people in the society",
+                    "itn": "ok and do you think is it is ok for citizen to pay bribe when it's helped them with their own personal problem or b it is not ok for citizen to pay bribes because it hurts other people in the society",
+                    "maskedITN": "ok and do you think is it is ok for citizen to pay bribe when it's helped them with their own personal problem or b it is not ok for citizen to pay bribes because it hurts other people in the society",
+                    "display": "OK and do you think is it is OK for citizen to pay bribe when it's helped them with their own personal problem or B it is not OK for citizen to pay bribes because it hurts other people in the society"
+                },
+                {
+                    "confidence": 0.8448728,
+                    "lexical": "ok and do you think if it is ok for citizen to pay bribe when it's helped them with their own personal problems or b it is not ok for citizen to pay bribes because it hurts other people in the society",
+                    "itn": "ok and do you think if it is ok for citizen to pay bribe when it's helped them with their own personal problems or b it is not ok for citizen to pay bribes because it hurts other people in the society",
+                    "maskedITN": "ok and do you think if it is ok for citizen to pay bribe when it's helped them with their own personal problems or b it is not ok for citizen to pay bribes because it hurts other people in the society",
+                    "display": "OK and do you think if it is OK for citizen to pay bribe when it's helped them with their own personal problems or B it is not OK for citizen to pay bribes because it hurts other people in the society"
+                },
+                {
+                    "confidence": 0.8592833,
+                    "lexical": "ok and do you think is it is ok for citizen to pay bribe when it's helped them with their own personal problems or b it is not ok for citizen to pay bribes because it has other people in the society",
+                    "itn": "ok and do you think is it is ok for citizen to pay bribe when it's helped them with their own personal problems or b it is not ok for citizen to pay bribes because it has other people in the society",
+                    "maskedITN": "ok and do you think is it is ok for citizen to pay bribe when it's helped them with their own personal problems or b it is not ok for citizen to pay bribes because it has other people in the society",
+                    "display": "OK and do you think is it is OK for citizen to pay bribe when it's helped them with their own personal problems or B it is not OK for citizen to pay bribes because it has other people in the society"
+                },
+                {
+                    "confidence": 0.8530122,
+                    "lexical": "ok and do you think is it is ok for citizen to pay bribe when it's helped them with their own personal problems or bb it is not ok for citizen to pay bribes because it hurts other people in the society",
+                    "itn": "ok and do you think is it is ok for citizen to pay bribe when it's helped them with their own personal problems or bb it is not ok for citizen to pay bribes because it hurts other people in the society",
+                    "maskedITN": "ok and do you think is it is ok for citizen to pay bribe when it's helped them with their own personal problems or bb it is not ok for citizen to pay bribes because it hurts other people in the society",
+                    "display": "OK and do you think is it is OK for citizen to pay bribe when it's helped them with their own personal problems or BB it is not OK for citizen to pay bribes because it hurts other people in the society"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT23.07S",
+            "duration": "PT0.35S",
+            "offsetInTicks": 230700000.0,
+            "durationInTicks": 3500000.0,
+            "nBest": [
+                {
+                    "confidence": 0.59361595,
+                    "lexical": "MHM",
+                    "itn": "MHM",
+                    "maskedITN": "mhm",
+                    "display": "MHM."
+                },
+                {
+                    "confidence": 0.40802902,
+                    "lexical": "m",
+                    "itn": "m",
+                    "maskedITN": "m",
+                    "display": "M"
+                },
+                {
+                    "confidence": 0.53813255,
+                    "lexical": "m m",
+                    "itn": "m m",
+                    "maskedITN": "m m",
+                    "display": "M M"
+                },
+                {
+                    "confidence": 0.3308038,
+                    "lexical": "mhmm",
+                    "itn": "mhmm",
+                    "maskedITN": "mhmm",
+                    "display": "MHMM"
+                },
+                {
+                    "confidence": 0.5013684,
+                    "lexical": "uhm",
+                    "itn": "uhm",
+                    "maskedITN": "uhm",
+                    "display": "uhm"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT24.69S",
+            "duration": "PT0.45S",
+            "offsetInTicks": 246900000.0,
+            "durationInTicks": 4500000.0,
+            "nBest": [
+                {
+                    "confidence": 0.7403052,
+                    "lexical": "to see",
+                    "itn": "to see",
+                    "maskedITN": "to see",
+                    "display": "To see."
+                },
+                {
+                    "confidence": 0.44298124,
+                    "lexical": "see",
+                    "itn": "see",
+                    "maskedITN": "see",
+                    "display": "see"
+                },
+                {
+                    "confidence": 0.26855403,
+                    "lexical": "fifty",
+                    "itn": "fifty",
+                    "maskedITN": "fifty",
+                    "display": "fifty"
+                },
+                {
+                    "confidence": 0.6834923,
+                    "lexical": "that's it",
+                    "itn": "that's it",
+                    "maskedITN": "that's it",
+                    "display": "that's it"
+                },
+                {
+                    "confidence": 0.7380667,
+                    "lexical": "i see",
+                    "itn": "i see",
+                    "maskedITN": "i see",
+                    "display": "i see"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT27.76S",
+            "duration": "PT7.21S",
+            "offsetInTicks": 277600000.0,
+            "durationInTicks": 72100000.0,
+            "nBest": [
+                {
+                    "confidence": 0.78886473,
+                    "lexical": "is it a because they pay because it helped them with your personal problem or it is not OK",
+                    "itn": "is it a because they pay because it helped them with your personal problem or it is not OK",
+                    "maskedITN": "is it a because they pay because it helped them with your personal problem or it is not ok",
+                    "display": "Is it a because they pay because it helped them with your personal problem or it is not OK?"
+                },
+                {
+                    "confidence": 0.7879269,
+                    "lexical": "is it a because they pay because it helped them with their personal problem or it is not ok",
+                    "itn": "is it a because they pay because it helped them with their personal problem or it is not ok",
+                    "maskedITN": "is it a because they pay because it helped them with their personal problem or it is not ok",
+                    "display": "is it a because they pay because it helped them with their personal problem or it is not OK"
+                },
+                {
+                    "confidence": 0.7832824,
+                    "lexical": "is it a because they pay because it helps them with your personal problem or it is not ok",
+                    "itn": "is it a because they pay because it helps them with your personal problem or it is not ok",
+                    "maskedITN": "is it a because they pay because it helps them with your personal problem or it is not ok",
+                    "display": "is it a because they pay because it helps them with your personal problem or it is not OK"
+                },
+                {
+                    "confidence": 0.78736746,
+                    "lexical": "is it a because they pay because it helped them with their personal problems or it is not ok",
+                    "itn": "is it a because they pay because it helped them with their personal problems or it is not ok",
+                    "maskedITN": "is it a because they pay because it helped them with their personal problems or it is not ok",
+                    "display": "is it a because they pay because it helped them with their personal problems or it is not OK"
+                },
+                {
+                    "confidence": 0.7874393,
+                    "lexical": "is it a because they pay because it helped them with your personal problems or it is not ok",
+                    "itn": "is it a because they pay because it helped them with your personal problems or it is not ok",
+                    "maskedITN": "is it a because they pay because it helped them with your personal problems or it is not ok",
+                    "display": "is it a because they pay because it helped them with your personal problems or it is not OK"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT36.54S",
+            "duration": "PT0.63S",
+            "offsetInTicks": 365400000.0,
+            "durationInTicks": 6300000.0,
+            "nBest": [
+                {
+                    "confidence": 0.76767695,
+                    "lexical": "you have to look",
+                    "itn": "you have to look",
+                    "maskedITN": "you have to look",
+                    "display": "You have to look."
+                },
+                {
+                    "confidence": 0.7549889,
+                    "lexical": "you have to",
+                    "itn": "you have to",
+                    "maskedITN": "you have to",
+                    "display": "you have to"
+                },
+                {
+                    "confidence": 0.67071706,
+                    "lexical": "does he have to",
+                    "itn": "does he have to",
+                    "maskedITN": "does he have to",
+                    "display": "does he have to"
+                },
+                {
+                    "confidence": 0.67402786,
+                    "lexical": "does he have",
+                    "itn": "does he have",
+                    "maskedITN": "does he have",
+                    "display": "does he have"
+                },
+                {
+                    "confidence": 0.61947805,
+                    "lexical": "because you have to",
+                    "itn": "because you have to",
+                    "maskedITN": "because you have to",
+                    "display": "because you have to"
+                }
+            ]
+        }
+    ]
+}

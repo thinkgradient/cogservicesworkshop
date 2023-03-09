@@ -1,0 +1,107 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000007_silent_424L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:43:11Z",
+    "durationInTicks": 217200000,
+    "duration": "PT21.72S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "and do you think it is OK for citizens to pay bribes when it helps them with their own personal problem umm it's not OK for citizens to pay bribes because it hurts other people in society is that yeah yeah strongly address",
+            "itn": "and do you think it is OK for citizens to pay bribes when it helps them with their own personal problem umm it's not OK for citizens to pay bribes because it hurts other people in society is that yeah yeah strongly address",
+            "maskedITN": "and do you think it is ok for citizens to pay bribes when it helps them with their own personal problem umm it's not ok for citizens to pay bribes because it hurts other people in society is that yeah yeah strongly address",
+            "display": "And do you think it is OK for citizens to pay bribes when it helps them with their own personal problem? Umm, it's not OK for citizens to pay bribes because it hurts other people in society. Is that yeah yeah strongly address."
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT6.09S",
+            "duration": "PT10.49S",
+            "offsetInTicks": 60900000.0,
+            "durationInTicks": 104900000.0,
+            "nBest": [
+                {
+                    "confidence": 0.85618067,
+                    "lexical": "and do you think it is OK for citizens to pay bribes when it helps them with their own personal problem umm it's not OK for citizens to pay bribes because it hurts other people in society",
+                    "itn": "and do you think it is OK for citizens to pay bribes when it helps them with their own personal problem umm it's not OK for citizens to pay bribes because it hurts other people in society",
+                    "maskedITN": "and do you think it is ok for citizens to pay bribes when it helps them with their own personal problem umm it's not ok for citizens to pay bribes because it hurts other people in society",
+                    "display": "And do you think it is OK for citizens to pay bribes when it helps them with their own personal problem? Umm, it's not OK for citizens to pay bribes because it hurts other people in society."
+                },
+                {
+                    "confidence": 0.8598347,
+                    "lexical": "and do you think it is ok for citizens to pay bribes when it helps them with their own personal problem i'm it's not ok for citizens to pay bribes because it hurts other people in society",
+                    "itn": "and do you think it is ok for citizens to pay bribes when it helps them with their own personal problem i'm it's not ok for citizens to pay bribes because it hurts other people in society",
+                    "maskedITN": "and do you think it is ok for citizens to pay bribes when it helps them with their own personal problem i'm it's not ok for citizens to pay bribes because it hurts other people in society",
+                    "display": "and do you think it is OK for citizens to pay bribes when it helps them with their own personal problem i'm it's not OK for citizens to pay bribes because it hurts other people in society"
+                },
+                {
+                    "confidence": 0.8577245,
+                    "lexical": "and do you think it is ok for citizens to pay bribes and it helps them with their own personal problem umm it's not ok for citizens to pay bribes because it hurts other people in society",
+                    "itn": "and do you think it is ok for citizens to pay bribes and it helps them with their own personal problem umm it's not ok for citizens to pay bribes because it hurts other people in society",
+                    "maskedITN": "and do you think it is ok for citizens to pay bribes and it helps them with their own personal problem umm it's not ok for citizens to pay bribes because it hurts other people in society",
+                    "display": "and do you think it is OK for citizens to pay bribes and it helps them with their own personal problem umm it's not OK for citizens to pay bribes because it hurts other people in society"
+                },
+                {
+                    "confidence": 0.8613846,
+                    "lexical": "and do you think it is ok for citizens to pay bribes and it helps them with their own personal problem i'm it's not ok for citizens to pay bribes because it hurts other people in society",
+                    "itn": "and do you think it is ok for citizens to pay bribes and it helps them with their own personal problem i'm it's not ok for citizens to pay bribes because it hurts other people in society",
+                    "maskedITN": "and do you think it is ok for citizens to pay bribes and it helps them with their own personal problem i'm it's not ok for citizens to pay bribes because it hurts other people in society",
+                    "display": "and do you think it is OK for citizens to pay bribes and it helps them with their own personal problem i'm it's not OK for citizens to pay bribes because it hurts other people in society"
+                },
+                {
+                    "confidence": 0.857508,
+                    "lexical": "and do you think it is ok for citizens to pay bribes and it helps them with their own personal problem am it's not ok for citizens to pay bribes because it hurts other people in society",
+                    "itn": "and do you think it is ok for citizens to pay bribes and it helps them with their own personal problem am it's not ok for citizens to pay bribes because it hurts other people in society",
+                    "maskedITN": "and do you think it is ok for citizens to pay bribes and it helps them with their own personal problem am it's not ok for citizens to pay bribes because it hurts other people in society",
+                    "display": "and do you think it is OK for citizens to pay bribes and it helps them with their own personal problem am it's not OK for citizens to pay bribes because it hurts other people in society"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT17.83S",
+            "duration": "PT2.72S",
+            "offsetInTicks": 178300000.0,
+            "durationInTicks": 27200000.0,
+            "nBest": [
+                {
+                    "confidence": 0.602103,
+                    "lexical": "is that yeah yeah strongly address",
+                    "itn": "is that yeah yeah strongly address",
+                    "maskedITN": "is that yeah yeah strongly address",
+                    "display": "Is that yeah yeah strongly address."
+                },
+                {
+                    "confidence": 0.5156213,
+                    "lexical": "is that yeah strongly address",
+                    "itn": "is that yeah strongly address",
+                    "maskedITN": "is that yeah strongly address",
+                    "display": "is that yeah strongly address"
+                },
+                {
+                    "confidence": 0.47586137,
+                    "lexical": "is that b yeah strongly address",
+                    "itn": "is that b yeah strongly address",
+                    "maskedITN": "is that b yeah strongly address",
+                    "display": "is that B yeah strongly address"
+                },
+                {
+                    "confidence": 0.55250657,
+                    "lexical": "is that b yeah yeah strongly address",
+                    "itn": "is that b yeah yeah strongly address",
+                    "maskedITN": "is that b yeah yeah strongly address",
+                    "display": "is that B yeah yeah strongly address"
+                },
+                {
+                    "confidence": 0.6184774,
+                    "lexical": "is that the yeah yeah strongly address",
+                    "itn": "is that the yeah yeah strongly address",
+                    "maskedITN": "is that the yeah yeah strongly address",
+                    "display": "is that the yeah yeah strongly address"
+                }
+            ]
+        }
+    ]
+}

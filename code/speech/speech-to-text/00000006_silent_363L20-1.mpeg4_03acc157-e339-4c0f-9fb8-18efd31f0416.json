@@ -1,0 +1,287 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000006_silent_363L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:43:22Z",
+    "durationInTicks": 316400000,
+    "duration": "PT31.64S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "eighteen what's the number woman that's it eighteen",
+            "itn": "18 what's the number woman that's it 18",
+            "maskedITN": "18 what's the number woman that's it 18",
+            "display": "18. What's the number? Woman. That's it. 18."
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT7.58S",
+            "duration": "PT0.57S",
+            "offsetInTicks": 75800000.0,
+            "durationInTicks": 5700000.0,
+            "nBest": [
+                {
+                    "confidence": 0.08939189,
+                    "lexical": "eighteen",
+                    "itn": "18",
+                    "maskedITN": "18",
+                    "display": "18."
+                },
+                {
+                    "confidence": 0.19943978,
+                    "lexical": "the eighteenth",
+                    "itn": "the eighteenth",
+                    "maskedITN": "the eighteenth",
+                    "display": "the eighteenth"
+                },
+                {
+                    "confidence": 0.19888419,
+                    "lexical": "the eighteen",
+                    "itn": "the eighteen",
+                    "maskedITN": "the eighteen",
+                    "display": "the eighteen"
+                },
+                {
+                    "confidence": 0.066456586,
+                    "lexical": "eighteenth",
+                    "itn": "eighteenth",
+                    "maskedITN": "eighteenth",
+                    "display": "eighteenth"
+                },
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT10.71S",
+            "duration": "PT0.51S",
+            "offsetInTicks": 107100000.0,
+            "durationInTicks": 5100000.0,
+            "nBest": [
+                {
+                    "confidence": 0.5987062,
+                    "lexical": "what's the number",
+                    "itn": "what's the number",
+                    "maskedITN": "what's the number",
+                    "display": "What's the number?"
+                },
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.6413762,
+                    "lexical": "that's the number",
+                    "itn": "that's the number",
+                    "maskedITN": "that's the number",
+                    "display": "that's the number"
+                },
+                {
+                    "confidence": 0.45696247,
+                    "lexical": "that's",
+                    "itn": "that's",
+                    "maskedITN": "that's",
+                    "display": "that's"
+                },
+                {
+                    "confidence": 0.7615112,
+                    "lexical": "no",
+                    "itn": "no",
+                    "maskedITN": "no",
+                    "display": "no"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT12.68S",
+            "duration": "PT0.59S",
+            "offsetInTicks": 126800000.0,
+            "durationInTicks": 5900000.0,
+            "nBest": [
+                {
+                    "confidence": 0.12723711,
+                    "lexical": "woman",
+                    "itn": "woman",
+                    "maskedITN": "woman",
+                    "display": "Woman."
+                },
+                {
+                    "confidence": 0.4798514,
+                    "lexical": "one million",
+                    "itn": "one million",
+                    "maskedITN": "one million",
+                    "display": "one million"
+                },
+                {
+                    "confidence": 0.4275113,
+                    "lexical": "four million",
+                    "itn": "four million",
+                    "maskedITN": "four million",
+                    "display": "four million"
+                },
+                {
+                    "confidence": 0.039691746,
+                    "lexical": "women",
+                    "itn": "women",
+                    "maskedITN": "women",
+                    "display": "women"
+                },
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT14.83S",
+            "duration": "PT0.32S",
+            "offsetInTicks": 148300000.0,
+            "durationInTicks": 3200000.0,
+            "nBest": [
+                {
+                    "confidence": 0.64900756,
+                    "lexical": "that's it",
+                    "itn": "that's it",
+                    "maskedITN": "that's it",
+                    "display": "That's it."
+                },
+                {
+                    "confidence": 0.29594627,
+                    "lexical": "that's",
+                    "itn": "that's",
+                    "maskedITN": "that's",
+                    "display": "that's"
+                },
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.48397732,
+                    "lexical": "ok",
+                    "itn": "ok",
+                    "maskedITN": "ok",
+                    "display": "OK"
+                },
+                {
+                    "confidence": 0.6117901,
+                    "lexical": "thank you",
+                    "itn": "thank you",
+                    "maskedITN": "thank you",
+                    "display": "thank you"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT28.08S",
+            "duration": "PT0.8S",
+            "offsetInTicks": 280800000.0,
+            "durationInTicks": 8000000.0,
+            "nBest": [
+                {
+                    "confidence": 0.038630813,
+                    "lexical": "eighteen",
+                    "itn": "18",
+                    "maskedITN": "18",
+                    "display": "18."
+                },
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.39017376,
+                    "lexical": "yeah",
+                    "itn": "yeah",
+                    "maskedITN": "yeah",
+                    "display": "yeah"
+                },
+                {
+                    "confidence": 0.6985591,
+                    "lexical": "uh",
+                    "itn": "uh",
+                    "maskedITN": "uh",
+                    "display": "uh"
+                },
+                {
+                    "confidence": 0.013673693,
+                    "lexical": "eighteenth",
+                    "itn": "eighteenth",
+                    "maskedITN": "eighteenth",
+                    "display": "eighteenth"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT30.31S",
+            "duration": "PT1.33S",
+            "offsetInTicks": 303100000.0,
+            "durationInTicks": 13300000.0,
+            "nBest": [
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.6023592,
+                    "lexical": "and",
+                    "itn": "and",
+                    "maskedITN": "and",
+                    "display": "and"
+                },
+                {
+                    "confidence": 0.46516842,
+                    "lexical": "yeah",
+                    "itn": "yeah",
+                    "maskedITN": "yeah",
+                    "display": "yeah"
+                },
+                {
+                    "confidence": 0.6203562,
+                    "lexical": "no",
+                    "itn": "no",
+                    "maskedITN": "no",
+                    "display": "no"
+                },
+                {
+                    "confidence": 0.48392946,
+                    "lexical": "yes",
+                    "itn": "yes",
+                    "maskedITN": "yes",
+                    "display": "yes"
+                }
+            ]
+        }
+    ]
+}

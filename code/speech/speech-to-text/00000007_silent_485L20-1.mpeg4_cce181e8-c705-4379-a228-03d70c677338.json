@@ -1,0 +1,287 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000007_silent_485L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:43:28Z",
+    "durationInTicks": 541000000,
+    "duration": "PT54.1S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "next let's think let's think about whether individuals make their own decisions about whether to pay blood or if they do not have a choice because it is part of the normal expected system which of the following statements do you agree with most even though bribery is common each individual is responsible for their own decision about whether or not to pay a bribe or me individuals and cannot be blamed for their decisions it is so common they must do it um that this is the end of the day definitely miss so much",
+            "itn": "next let's think let's think about whether individuals make their own decisions about whether to pay blood or if they do not have a choice because it is part of the normal expected system which of the following statements do you agree with most even though bribery is common each individual is responsible for their own decision about whether or not to pay a bribe or me individuals and cannot be blamed for their decisions it is so common they must do it um that this is the end of the day definitely miss so much",
+            "maskedITN": "next let's think let's think about whether individuals make their own decisions about whether to pay blood or if they do not have a choice because it is part of the normal expected system which of the following statements do you agree with most even though bribery is common each individual is responsible for their own decision about whether or not to pay a bribe or me individuals and cannot be blamed for their decisions it is so common they must do it um that this is the end of the day definitely miss so much",
+            "display": "Next, let's think. Let's think about whether individuals make their own decisions about whether to pay blood or if they do not have a choice because it is part of the normal expected system. Which of the following statements do you agree with most? Even though bribery is common, each individual is responsible for their own decision about whether or not to pay a bribe or me individuals and cannot be blamed for their decisions. It is so common they must do it. Um, that this is the end of the day? Definitely. Miss. So much."
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT4.65S",
+            "duration": "PT25.27S",
+            "offsetInTicks": 46500000.0,
+            "durationInTicks": 252700000.0,
+            "nBest": [
+                {
+                    "confidence": 0.7717664,
+                    "lexical": "next let's think let's think about whether individuals make their own decisions about whether to pay blood or if they do not have a choice because it is part of the normal expected system which of the following statements do you agree with most even though bribery is common each individual is responsible for their own decision about whether or not to pay a bribe or me individuals and cannot be blamed for their decisions it is so common they must do it",
+                    "itn": "next let's think let's think about whether individuals make their own decisions about whether to pay blood or if they do not have a choice because it is part of the normal expected system which of the following statements do you agree with most even though bribery is common each individual is responsible for their own decision about whether or not to pay a bribe or me individuals and cannot be blamed for their decisions it is so common they must do it",
+                    "maskedITN": "next let's think let's think about whether individuals make their own decisions about whether to pay blood or if they do not have a choice because it is part of the normal expected system which of the following statements do you agree with most even though bribery is common each individual is responsible for their own decision about whether or not to pay a bribe or me individuals and cannot be blamed for their decisions it is so common they must do it",
+                    "display": "Next, let's think. Let's think about whether individuals make their own decisions about whether to pay blood or if they do not have a choice because it is part of the normal expected system. Which of the following statements do you agree with most? Even though bribery is common, each individual is responsible for their own decision about whether or not to pay a bribe or me individuals and cannot be blamed for their decisions. It is so common they must do it."
+                },
+                {
+                    "confidence": 0.77298623,
+                    "lexical": "next let's think let's think about whether individuals make their own decisions about whether to pay blood or if they do not have a choice because it is part of the normal expected system which of the following statements do you agree with more even though bribery is common each individual is responsible for their own decision about whether or not to pay a bribe or me individuals and cannot be blamed for their decisions it is so common they must do it",
+                    "itn": "next let's think let's think about whether individuals make their own decisions about whether to pay blood or if they do not have a choice because it is part of the normal expected system which of the following statements do you agree with more even though bribery is common each individual is responsible for their own decision about whether or not to pay a bribe or me individuals and cannot be blamed for their decisions it is so common they must do it",
+                    "maskedITN": "next let's think let's think about whether individuals make their own decisions about whether to pay blood or if they do not have a choice because it is part of the normal expected system which of the following statements do you agree with more even though bribery is common each individual is responsible for their own decision about whether or not to pay a bribe or me individuals and cannot be blamed for their decisions it is so common they must do it",
+                    "display": "next let's think let's think about whether individuals make their own decisions about whether to pay blood or if they do not have a choice because it is part of the normal expected system which of the following statements do you agree with more even though bribery is common each individual is responsible for their own decision about whether or not to pay a bribe or me individuals and cannot be blamed for their decisions it is so common they must do it"
+                },
+                {
+                    "confidence": 0.7809383,
+                    "lexical": "next let's think let's think about whether individuals make their own decisions about whether to pay blood or if they do not have a choice because it is part of the normal expected system which of the following statements do you agree with most a even though bribery is common each individual is responsible for their own decision about whether or not to pay a bribe or me individuals and cannot be blamed for their decisions it is so common they must do it",
+                    "itn": "next let's think let's think about whether individuals make their own decisions about whether to pay blood or if they do not have a choice because it is part of the normal expected system which of the following statements do you agree with most a even though bribery is common each individual is responsible for their own decision about whether or not to pay a bribe or me individuals and cannot be blamed for their decisions it is so common they must do it",
+                    "maskedITN": "next let's think let's think about whether individuals make their own decisions about whether to pay blood or if they do not have a choice because it is part of the normal expected system which of the following statements do you agree with most a even though bribery is common each individual is responsible for their own decision about whether or not to pay a bribe or me individuals and cannot be blamed for their decisions it is so common they must do it",
+                    "display": "next let's think let's think about whether individuals make their own decisions about whether to pay blood or if they do not have a choice because it is part of the normal expected system which of the following statements do you agree with most a even though bribery is common each individual is responsible for their own decision about whether or not to pay a bribe or me individuals and cannot be blamed for their decisions it is so common they must do it"
+                },
+                {
+                    "confidence": 0.7698803,
+                    "lexical": "next let's think let's think about whether individuals make their own decisions about whether to pay blood or if they do not have a choice because it is part of the normal expected system which of the following statements do you agree with most even though bribery is common each individual is responsible for their own decision about whether or not to pay a bribe or me individuals and cannot be blamed for their decisions it is so common they must be",
+                    "itn": "next let's think let's think about whether individuals make their own decisions about whether to pay blood or if they do not have a choice because it is part of the normal expected system which of the following statements do you agree with most even though bribery is common each individual is responsible for their own decision about whether or not to pay a bribe or me individuals and cannot be blamed for their decisions it is so common they must be",
+                    "maskedITN": "next let's think let's think about whether individuals make their own decisions about whether to pay blood or if they do not have a choice because it is part of the normal expected system which of the following statements do you agree with most even though bribery is common each individual is responsible for their own decision about whether or not to pay a bribe or me individuals and cannot be blamed for their decisions it is so common they must be",
+                    "display": "next let's think let's think about whether individuals make their own decisions about whether to pay blood or if they do not have a choice because it is part of the normal expected system which of the following statements do you agree with most even though bribery is common each individual is responsible for their own decision about whether or not to pay a bribe or me individuals and cannot be blamed for their decisions it is so common they must be"
+                },
+                {
+                    "confidence": 0.7706529,
+                    "lexical": "next let's think let's think about whether individuals make their own decisions about whether to pay blood or if they do not have a choice because it is part of the normal expected system which of the following statements do you agree with most even though bribery is common each individual is responsible for their own decision about whether or not to pay a bribe or me individuals and cannot be blamed for their decisions it is so common that must be it",
+                    "itn": "next let's think let's think about whether individuals make their own decisions about whether to pay blood or if they do not have a choice because it is part of the normal expected system which of the following statements do you agree with most even though bribery is common each individual is responsible for their own decision about whether or not to pay a bribe or me individuals and cannot be blamed for their decisions it is so common that must be it",
+                    "maskedITN": "next let's think let's think about whether individuals make their own decisions about whether to pay blood or if they do not have a choice because it is part of the normal expected system which of the following statements do you agree with most even though bribery is common each individual is responsible for their own decision about whether or not to pay a bribe or me individuals and cannot be blamed for their decisions it is so common that must be it",
+                    "display": "next let's think let's think about whether individuals make their own decisions about whether to pay blood or if they do not have a choice because it is part of the normal expected system which of the following statements do you agree with most even though bribery is common each individual is responsible for their own decision about whether or not to pay a bribe or me individuals and cannot be blamed for their decisions it is so common that must be it"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT34.47S",
+            "duration": "PT5.57S",
+            "offsetInTicks": 344700000.0,
+            "durationInTicks": 55700000.0,
+            "nBest": [
+                {
+                    "confidence": 0.542746,
+                    "lexical": "um that this is the end of the day",
+                    "itn": "um that this is the end of the day",
+                    "maskedITN": "um that this is the end of the day",
+                    "display": "Um, that this is the end of the day?"
+                },
+                {
+                    "confidence": 0.46030295,
+                    "lexical": "um that this is decision by the end of the day",
+                    "itn": "um that this is decision by the end of the day",
+                    "maskedITN": "um that this is decision by the end of the day",
+                    "display": "um that this is decision by the end of the day"
+                },
+                {
+                    "confidence": 0.52378684,
+                    "lexical": "um that this is the end of the day in common",
+                    "itn": "um that this is the end of the day in common",
+                    "maskedITN": "um that this is the end of the day in common",
+                    "display": "um that this is the end of the day in common"
+                },
+                {
+                    "confidence": 0.49034995,
+                    "lexical": "um that this is position at the end of the day",
+                    "itn": "um that this is position at the end of the day",
+                    "maskedITN": "um that this is position at the end of the day",
+                    "display": "um that this is position at the end of the day"
+                },
+                {
+                    "confidence": 0.49393746,
+                    "lexical": "um that this is position by the end of the day",
+                    "itn": "um that this is position by the end of the day",
+                    "maskedITN": "um that this is position by the end of the day",
+                    "display": "um that this is position by the end of the day"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT42.85S",
+            "duration": "PT0.65S",
+            "offsetInTicks": 428500000.0,
+            "durationInTicks": 6500000.0,
+            "nBest": [
+                {
+                    "confidence": 0.09854158,
+                    "lexical": "definitely",
+                    "itn": "definitely",
+                    "maskedITN": "definitely",
+                    "display": "Definitely."
+                },
+                {
+                    "confidence": 0.061856687,
+                    "lexical": "differently",
+                    "itn": "differently",
+                    "maskedITN": "differently",
+                    "display": "differently"
+                },
+                {
+                    "confidence": 0.21233538,
+                    "lexical": "definitely you",
+                    "itn": "definitely you",
+                    "maskedITN": "definitely you",
+                    "display": "definitely you"
+                },
+                {
+                    "confidence": 0.36404198,
+                    "lexical": "you have to be very differently",
+                    "itn": "you have to be very differently",
+                    "maskedITN": "you have to be very differently",
+                    "display": "you have to be very differently"
+                },
+                {
+                    "confidence": 0.14818427,
+                    "lexical": "definition",
+                    "itn": "definition",
+                    "maskedITN": "definition",
+                    "display": "definition"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT45.89S",
+            "duration": "PT0.55S",
+            "offsetInTicks": 458900000.0,
+            "durationInTicks": 5500000.0,
+            "nBest": [
+                {
+                    "confidence": 0.29280868,
+                    "lexical": "miss",
+                    "itn": "miss",
+                    "maskedITN": "miss",
+                    "display": "Miss."
+                },
+                {
+                    "confidence": 0.40228245,
+                    "lexical": "miss strongly or somewhat",
+                    "itn": "miss strongly or somewhat",
+                    "maskedITN": "miss strongly or somewhat",
+                    "display": "miss strongly or somewhat"
+                },
+                {
+                    "confidence": 0.3284048,
+                    "lexical": "miss strongly",
+                    "itn": "miss strongly",
+                    "maskedITN": "miss strongly",
+                    "display": "miss strongly"
+                },
+                {
+                    "confidence": 0.31657565,
+                    "lexical": "miss strongly or someone",
+                    "itn": "miss strongly or someone",
+                    "maskedITN": "miss strongly or someone",
+                    "display": "miss strongly or someone"
+                },
+                {
+                    "confidence": 0.34437007,
+                    "lexical": "miss strongly or something",
+                    "itn": "miss strongly or something",
+                    "maskedITN": "miss strongly or something",
+                    "display": "miss strongly or something"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT51.28S",
+            "duration": "PT0.4S",
+            "offsetInTicks": 512800000.0,
+            "durationInTicks": 4000000.0,
+            "nBest": [
+                {
+                    "confidence": 0.6939423,
+                    "lexical": "so much",
+                    "itn": "so much",
+                    "maskedITN": "so much",
+                    "display": "So much."
+                },
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.6825028,
+                    "lexical": "thanks so much",
+                    "itn": "thanks so much",
+                    "maskedITN": "thanks so much",
+                    "display": "thanks so much"
+                },
+                {
+                    "confidence": 0.6934453,
+                    "lexical": "so",
+                    "itn": "so",
+                    "maskedITN": "so",
+                    "display": "so"
+                },
+                {
+                    "confidence": 0.44538417,
+                    "lexical": "please",
+                    "itn": "please",
+                    "maskedITN": "please",
+                    "display": "please"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT53.22S",
+            "duration": "PT0.88S",
+            "offsetInTicks": 532200000.0,
+            "durationInTicks": 8800000.0,
+            "nBest": [
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.52033025,
+                    "lexical": "no",
+                    "itn": "no",
+                    "maskedITN": "no",
+                    "display": "no"
+                },
+                {
+                    "confidence": 0.5038354,
+                    "lexical": "uh",
+                    "itn": "uh",
+                    "maskedITN": "uh",
+                    "display": "uh"
+                },
+                {
+                    "confidence": 0.48077637,
+                    "lexical": "so",
+                    "itn": "so",
+                    "maskedITN": "so",
+                    "display": "so"
+                },
+                {
+                    "confidence": 0.46099827,
+                    "lexical": "oh",
+                    "itn": "oh",
+                    "maskedITN": "oh",
+                    "display": "oh"
+                }
+            ]
+        }
+    ]
+}

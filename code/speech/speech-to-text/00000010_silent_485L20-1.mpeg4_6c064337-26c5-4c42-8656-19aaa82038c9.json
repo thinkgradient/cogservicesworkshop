@@ -1,0 +1,332 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000010_silent_485L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:43:25Z",
+    "durationInTicks": 695600000,
+    "duration": "PT1M9.56S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "i am twenty true love next let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it is part of the normal expected system until you have together which of the following statements do you agree with more which of the following statements do you agree with more a even though red is common each individual is responsible for their own decision about whether or not to pay a bribe even a B individual cannot be blamed for their division to pay bribes it is so common they must do it strongly agree with a somewhat agree with a",
+            "itn": "i AM 20 true love next let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it is part of the normal expected system until you have together which of the following statements do you agree with more which of the following statements do you agree with more a even though red is common each individual is responsible for their own decision about whether or not to pay a bribe even a B individual cannot be blamed for their division to pay bribes it is so common they must do it strongly agree with a somewhat agree with a",
+            "maskedITN": "i am 20 true love next let's think about whether individuals make their own decisions about whether to pay bribes or if they do not have a choice because it is part of the normal expected system until you have together which of the following statements do you agree with more which of the following statements do you agree with more a even though red is common each individual is responsible for their own decision about whether or not to pay a bribe even a b individual cannot be blamed for their division to pay bribes it is so common they must do it strongly agree with a somewhat agree with a",
+            "display": "I AM 20. True love. Next, let's think about whether individuals make their own decisions. About whether to pay bribes. Or if they do not have a choice because it is part of the normal expected system. Until you have together, which of the following statements do you agree with more? Which of the following statements do you agree with more a. Even though red is common, each individual is responsible for their own decision about whether or not to pay a bribe. Even a B individual cannot be blamed for their division to pay bribes. It is so common they must do it. Strongly agree with a somewhat agree with a."
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT2.84S",
+            "duration": "PT1.86S",
+            "offsetInTicks": 28400000.0,
+            "durationInTicks": 18600000.0,
+            "nBest": [
+                {
+                    "confidence": 0.7986623,
+                    "lexical": "i am twenty true love",
+                    "itn": "i AM 20 true love",
+                    "maskedITN": "i am 20 true love",
+                    "display": "I AM 20. True love."
+                },
+                {
+                    "confidence": 0.79832876,
+                    "lexical": "i am twenty two love",
+                    "itn": "i am twenty two love",
+                    "maskedITN": "i am twenty two love",
+                    "display": "i am twenty two love"
+                },
+                {
+                    "confidence": 0.6224628,
+                    "lexical": "i am twenty twelve",
+                    "itn": "i am twenty twelve",
+                    "maskedITN": "i am twenty twelve",
+                    "display": "i am twenty twelve"
+                },
+                {
+                    "confidence": 0.7952998,
+                    "lexical": "i am twenty three love",
+                    "itn": "i am twenty three love",
+                    "maskedITN": "i am twenty three love",
+                    "display": "i am twenty three love"
+                },
+                {
+                    "confidence": 0.78289163,
+                    "lexical": "i am twenty two look",
+                    "itn": "i am twenty two look",
+                    "maskedITN": "i am twenty two look",
+                    "display": "i am twenty two look"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT5.5S",
+            "duration": "PT6.84S",
+            "offsetInTicks": 55000000.0,
+            "durationInTicks": 68400000.0,
+            "nBest": [
+                {
+                    "confidence": 0.8548617,
+                    "lexical": "next let's think about whether individuals make their own decisions",
+                    "itn": "next let's think about whether individuals make their own decisions",
+                    "maskedITN": "next let's think about whether individuals make their own decisions",
+                    "display": "Next, let's think about whether individuals make their own decisions."
+                },
+                {
+                    "confidence": 0.8542824,
+                    "lexical": "next let's think about whether individuals make their own decision",
+                    "itn": "next let's think about whether individuals make their own decision",
+                    "maskedITN": "next let's think about whether individuals make their own decision",
+                    "display": "next let's think about whether individuals make their own decision"
+                },
+                {
+                    "confidence": 0.8291018,
+                    "lexical": "next let's think about whether individual 's make their own decisions",
+                    "itn": "next let's think about whether individual 's make their own decisions",
+                    "maskedITN": "next let's think about whether individual 's make their own decisions",
+                    "display": "next let's think about whether individual 's make their own decisions"
+                },
+                {
+                    "confidence": 0.8519345,
+                    "lexical": "next let's think about whether individual make their own decision",
+                    "itn": "next let's think about whether individual make their own decision",
+                    "maskedITN": "next let's think about whether individual make their own decision",
+                    "display": "next let's think about whether individual make their own decision"
+                },
+                {
+                    "confidence": 0.8514723,
+                    "lexical": "next let's think about whether individual make their own decisions",
+                    "itn": "next let's think about whether individual make their own decisions",
+                    "maskedITN": "next let's think about whether individual make their own decisions",
+                    "display": "next let's think about whether individual make their own decisions"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT13.56S",
+            "duration": "PT2.4S",
+            "offsetInTicks": 135600000.0,
+            "durationInTicks": 24000000.0,
+            "nBest": [
+                {
+                    "confidence": 0.8394726,
+                    "lexical": "about whether to pay bribes",
+                    "itn": "about whether to pay bribes",
+                    "maskedITN": "about whether to pay bribes",
+                    "display": "About whether to pay bribes."
+                },
+                {
+                    "confidence": 0.8042544,
+                    "lexical": "about whether to pay the bribes",
+                    "itn": "about whether to pay the bribes",
+                    "maskedITN": "about whether to pay the bribes",
+                    "display": "about whether to pay the bribes"
+                },
+                {
+                    "confidence": 0.75938225,
+                    "lexical": "about weather to pay bribes",
+                    "itn": "about weather to pay bribes",
+                    "maskedITN": "about weather to pay bribes",
+                    "display": "about weather to pay bribes"
+                },
+                {
+                    "confidence": 0.79100406,
+                    "lexical": "about whether to pay bribes to",
+                    "itn": "about whether to pay bribes to",
+                    "maskedITN": "about whether to pay bribes to",
+                    "display": "about whether to pay bribes to"
+                },
+                {
+                    "confidence": 0.7829079,
+                    "lexical": "about whether to pay bribes and",
+                    "itn": "about whether to pay bribes and",
+                    "maskedITN": "about whether to pay bribes and",
+                    "display": "about whether to pay bribes and"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT17.28S",
+            "duration": "PT7.61S",
+            "offsetInTicks": 172800000.0,
+            "durationInTicks": 76100000.0,
+            "nBest": [
+                {
+                    "confidence": 0.8878021,
+                    "lexical": "or if they do not have a choice because it is part of the normal expected system",
+                    "itn": "or if they do not have a choice because it is part of the normal expected system",
+                    "maskedITN": "or if they do not have a choice because it is part of the normal expected system",
+                    "display": "Or if they do not have a choice because it is part of the normal expected system."
+                },
+                {
+                    "confidence": 0.8736223,
+                    "lexical": "or is they do not have a choice because it is part of the normal expected system",
+                    "itn": "or is they do not have a choice because it is part of the normal expected system",
+                    "maskedITN": "or is they do not have a choice because it is part of the normal expected system",
+                    "display": "or is they do not have a choice because it is part of the normal expected system"
+                },
+                {
+                    "confidence": 0.8760707,
+                    "lexical": "or if they do not have a choice because it is part of the normal expected systems",
+                    "itn": "or if they do not have a choice because it is part of the normal expected systems",
+                    "maskedITN": "or if they do not have a choice because it is part of the normal expected systems",
+                    "display": "or if they do not have a choice because it is part of the normal expected systems"
+                },
+                {
+                    "confidence": 0.86776793,
+                    "lexical": "or if they do not have a choice because it is part of the normal 's expected system",
+                    "itn": "or if they do not have a choice because it is part of the normal 's expected system",
+                    "maskedITN": "or if they do not have a choice because it is part of the normal 's expected system",
+                    "display": "or if they do not have a choice because it is part of the normal 's expected system"
+                },
+                {
+                    "confidence": 0.86178446,
+                    "lexical": "or is they do not have a choice because it is part of the normal expected systems",
+                    "itn": "or is they do not have a choice because it is part of the normal expected systems",
+                    "maskedITN": "or is they do not have a choice because it is part of the normal expected systems",
+                    "display": "or is they do not have a choice because it is part of the normal expected systems"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT26.14S",
+            "duration": "PT11.77S",
+            "offsetInTicks": 261400000.0,
+            "durationInTicks": 117700000.0,
+            "nBest": [
+                {
+                    "confidence": 0.8725075,
+                    "lexical": "until you have together which of the following statements do you agree with more which of the following statements do you agree with more a",
+                    "itn": "until you have together which of the following statements do you agree with more which of the following statements do you agree with more a",
+                    "maskedITN": "until you have together which of the following statements do you agree with more which of the following statements do you agree with more a",
+                    "display": "Until you have together, which of the following statements do you agree with more? Which of the following statements do you agree with more a."
+                },
+                {
+                    "confidence": 0.848031,
+                    "lexical": "until apple you have together which of the following statements do you agree with more which of the following statements do you agree with more a",
+                    "itn": "until apple you have together which of the following statements do you agree with more which of the following statements do you agree with more a",
+                    "maskedITN": "until apple you have together which of the following statements do you agree with more which of the following statements do you agree with more a",
+                    "display": "until apple you have together which of the following statements do you agree with more which of the following statements do you agree with more a"
+                },
+                {
+                    "confidence": 0.86014646,
+                    "lexical": "until apple gets together which of the following statements do you agree with more which of the following statements do you agree with more a",
+                    "itn": "until apple gets together which of the following statements do you agree with more which of the following statements do you agree with more a",
+                    "maskedITN": "until apple gets together which of the following statements do you agree with more which of the following statements do you agree with more a",
+                    "display": "until apple gets together which of the following statements do you agree with more which of the following statements do you agree with more a"
+                },
+                {
+                    "confidence": 0.86299133,
+                    "lexical": "until apple together which of the following statements do you agree with more which of the following statements do you agree with more a",
+                    "itn": "until apple together which of the following statements do you agree with more which of the following statements do you agree with more a",
+                    "maskedITN": "until apple together which of the following statements do you agree with more which of the following statements do you agree with more a",
+                    "display": "until apple together which of the following statements do you agree with more which of the following statements do you agree with more a"
+                },
+                {
+                    "confidence": 0.86657983,
+                    "lexical": "until apple we have together which of the following statements do you agree with more which of the following statements do you agree with more a",
+                    "itn": "until apple we have together which of the following statements do you agree with more which of the following statements do you agree with more a",
+                    "maskedITN": "until apple we have together which of the following statements do you agree with more which of the following statements do you agree with more a",
+                    "display": "until apple we have together which of the following statements do you agree with more which of the following statements do you agree with more a"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT38.57S",
+            "duration": "PT21.39S",
+            "offsetInTicks": 385700000.0,
+            "durationInTicks": 213900000.0,
+            "nBest": [
+                {
+                    "confidence": 0.8656767,
+                    "lexical": "even though red is common each individual is responsible for their own decision about whether or not to pay a bribe even a B individual cannot be blamed for their division to pay bribes it is so common they must do it",
+                    "itn": "even though red is common each individual is responsible for their own decision about whether or not to pay a bribe even a B individual cannot be blamed for their division to pay bribes it is so common they must do it",
+                    "maskedITN": "even though red is common each individual is responsible for their own decision about whether or not to pay a bribe even a b individual cannot be blamed for their division to pay bribes it is so common they must do it",
+                    "display": "Even though red is common, each individual is responsible for their own decision about whether or not to pay a bribe. Even a B individual cannot be blamed for their division to pay bribes. It is so common they must do it."
+                },
+                {
+                    "confidence": 0.86909837,
+                    "lexical": "even though red is common each individual is responsible for their own decision about whether or not to pay a bribe even a b individuals cannot be blamed for their division to pay bribes it is so common they must do it",
+                    "itn": "even though red is common each individual is responsible for their own decision about whether or not to pay a bribe even a b individuals cannot be blamed for their division to pay bribes it is so common they must do it",
+                    "maskedITN": "even though red is common each individual is responsible for their own decision about whether or not to pay a bribe even a b individuals cannot be blamed for their division to pay bribes it is so common they must do it",
+                    "display": "even though red is common each individual is responsible for their own decision about whether or not to pay a bribe even a B individuals cannot be blamed for their division to pay bribes it is so common they must do it"
+                },
+                {
+                    "confidence": 0.8632649,
+                    "lexical": "even though red is common each individual is responsible for their own decision about whether or not to pay a bribe even a b individuals cannot be blamed for their division to pay bribes it is so common they must do it",
+                    "itn": "even though red is common each individual is responsible for their own decision about whether or not to pay a bribe even a b individuals cannot be blamed for their division to pay bribes it is so common they must do it",
+                    "maskedITN": "even though red is common each individual is responsible for their own decision about whether or not to pay a bribe even a b individuals cannot be blamed for their division to pay bribes it is so common they must do it",
+                    "display": "even though red is common each individual is responsible for their own decision about whether or not to pay a bribe even A B individuals cannot be blamed for their division to pay bribes it is so common they must do it"
+                },
+                {
+                    "confidence": 0.858331,
+                    "lexical": "even though redis common each individual is responsible for their own decision about whether or not to pay a bribe even a b individuals cannot be blamed for their division to pay bribes it is so common they must do it",
+                    "itn": "even though redis common each individual is responsible for their own decision about whether or not to pay a bribe even a b individuals cannot be blamed for their division to pay bribes it is so common they must do it",
+                    "maskedITN": "even though redis common each individual is responsible for their own decision about whether or not to pay a bribe even a b individuals cannot be blamed for their division to pay bribes it is so common they must do it",
+                    "display": "even though redis common each individual is responsible for their own decision about whether or not to pay a bribe even a B individuals cannot be blamed for their division to pay bribes it is so common they must do it"
+                },
+                {
+                    "confidence": 0.874766,
+                    "lexical": "even though red is common each individual is responsible for their own decision about whether or not to pay a bribe you in a b individuals cannot be blamed for their division to pay bribes it is so common they must do it",
+                    "itn": "even though red is common each individual is responsible for their own decision about whether or not to pay a bribe you in a b individuals cannot be blamed for their division to pay bribes it is so common they must do it",
+                    "maskedITN": "even though red is common each individual is responsible for their own decision about whether or not to pay a bribe you in a b individuals cannot be blamed for their division to pay bribes it is so common they must do it",
+                    "display": "even though red is common each individual is responsible for their own decision about whether or not to pay a bribe you in a B individuals cannot be blamed for their division to pay bribes it is so common they must do it"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT1M2.49S",
+            "duration": "PT3.9S",
+            "offsetInTicks": 624900000.0,
+            "durationInTicks": 39000000.0,
+            "nBest": [
+                {
+                    "confidence": 0.7668894,
+                    "lexical": "strongly agree with a somewhat agree with a",
+                    "itn": "strongly agree with a somewhat agree with a",
+                    "maskedITN": "strongly agree with a somewhat agree with a",
+                    "display": "Strongly agree with a somewhat agree with a."
+                },
+                {
+                    "confidence": 0.77995366,
+                    "lexical": "strongly agree with it somewhat agree with a",
+                    "itn": "strongly agree with it somewhat agree with a",
+                    "maskedITN": "strongly agree with it somewhat agree with a",
+                    "display": "strongly agree with it somewhat agree with a"
+                },
+                {
+                    "confidence": 0.7907021,
+                    "lexical": "strongly agree with somewhat agree with a",
+                    "itn": "strongly agree with somewhat agree with a",
+                    "maskedITN": "strongly agree with somewhat agree with a",
+                    "display": "strongly agree with somewhat agree with a"
+                },
+                {
+                    "confidence": 0.71059245,
+                    "lexical": "strongly agree with a somewhat agree with a",
+                    "itn": "strongly agree with a somewhat agree with a",
+                    "maskedITN": "strongly agree with a somewhat agree with a",
+                    "display": "strongly agree with a somewhat agree with A"
+                },
+                {
+                    "confidence": 0.74956554,
+                    "lexical": "strongly agree with is somewhat agree with a",
+                    "itn": "strongly agree with is somewhat agree with a",
+                    "maskedITN": "strongly agree with is somewhat agree with a",
+                    "display": "strongly agree with is somewhat agree with a"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000013_silent_392L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:43:43Z",
+    "durationInTicks": 180000000,
+    "duration": "PT18S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "but too much swelling i swear do you think the body is more of a problem when a citizen offers i'm a be an official",
+            "itn": "but too much swelling i swear do you think the body is more of a problem when a citizen offers i'm a be an official",
+            "maskedITN": "but too much swelling i swear do you think the body is more of a problem when a citizen offers i'm a be an official",
+            "display": "But too much swelling, I swear. Do you think the body is more of a problem when a citizen offers I'm a be an official?"
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT1.48S",
+            "duration": "PT2.09S",
+            "offsetInTicks": 14800000.0,
+            "durationInTicks": 20900000.0,
+            "nBest": [
+                {
+                    "confidence": 0.6674403,
+                    "lexical": "but too much swelling i swear",
+                    "itn": "but too much swelling i swear",
+                    "maskedITN": "but too much swelling i swear",
+                    "display": "But too much swelling, I swear."
+                },
+                {
+                    "confidence": 0.56004614,
+                    "lexical": "but too much swelling room i swear",
+                    "itn": "but too much swelling room i swear",
+                    "maskedITN": "but too much swelling room i swear",
+                    "display": "but too much swelling room i swear"
+                },
+                {
+                    "confidence": 0.55152225,
+                    "lexical": "but too much selling room i swear",
+                    "itn": "but too much selling room i swear",
+                    "maskedITN": "but too much selling room i swear",
+                    "display": "but too much selling room i swear"
+                },
+                {
+                    "confidence": 0.53183025,
+                    "lexical": "but too much telling room i swear",
+                    "itn": "but too much telling room i swear",
+                    "maskedITN": "but too much telling room i swear",
+                    "display": "but too much telling room i swear"
+                },
+                {
+                    "confidence": 0.6826467,
+                    "lexical": "but too much swelling",
+                    "itn": "but too much swelling",
+                    "maskedITN": "but too much swelling",
+                    "display": "but too much swelling"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT6.2S",
+            "duration": "PT5.2S",
+            "offsetInTicks": 62000000.0,
+            "durationInTicks": 52000000.0,
+            "nBest": [
+                {
+                    "confidence": 0.79468733,
+                    "lexical": "do you think the body is more of a problem when a citizen offers i'm a be an official",
+                    "itn": "do you think the body is more of a problem when a citizen offers i'm a be an official",
+                    "maskedITN": "do you think the body is more of a problem when a citizen offers i'm a be an official",
+                    "display": "Do you think the body is more of a problem when a citizen offers I'm a be an official?"
+                },
+                {
+                    "confidence": 0.775046,
+                    "lexical": "i don't know do you think the body is more of a problem when a citizen offers i'm a be an official",
+                    "itn": "i don't know do you think the body is more of a problem when a citizen offers i'm a be an official",
+                    "maskedITN": "i don't know do you think the body is more of a problem when a citizen offers i'm a be an official",
+                    "display": "i don't know do you think the body is more of a problem when a citizen offers i'm a be an official"
+                },
+                {
+                    "confidence": 0.77535033,
+                    "lexical": "do you think that there is more of a problem with a citizen offers i'm a be an official",
+                    "itn": "do you think that there is more of a problem with a citizen offers i'm a be an official",
+                    "maskedITN": "do you think that there is more of a problem with a citizen offers i'm a be an official",
+                    "display": "do you think that there is more of a problem with a citizen offers i'm a be an official"
+                },
+                {
+                    "confidence": 0.78283864,
+                    "lexical": "do you think the body is more of a problem with a citizen offers i'm a be an official",
+                    "itn": "do you think the body is more of a problem with a citizen offers i'm a be an official",
+                    "maskedITN": "do you think the body is more of a problem with a citizen offers i'm a be an official",
+                    "display": "do you think the body is more of a problem with a citizen offers i'm a be an official"
+                },
+                {
+                    "confidence": 0.764568,
+                    "lexical": "i don't know do you think the body is more of a problem with a citizen offers i'm a be an official",
+                    "itn": "i don't know do you think the body is more of a problem with a citizen offers i'm a be an official",
+                    "maskedITN": "i don't know do you think the body is more of a problem with a citizen offers i'm a be an official",
+                    "display": "i don't know do you think the body is more of a problem with a citizen offers i'm a be an official"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT12.73S",
+            "duration": "PT5.27S",
+            "offsetInTicks": 127300000.0,
+            "durationInTicks": 52700000.0,
+            "nBest": [
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.3050763,
+                    "lexical": "strong",
+                    "itn": "strong",
+                    "maskedITN": "strong",
+                    "display": "strong"
+                },
+                {
+                    "confidence": 0.47580644,
+                    "lexical": "stop",
+                    "itn": "stop",
+                    "maskedITN": "stop",
+                    "display": "stop"
+                },
+                {
+                    "confidence": 0.51964486,
+                    "lexical": "one",
+                    "itn": "one",
+                    "maskedITN": "one",
+                    "display": "one"
+                },
+                {
+                    "confidence": 0.16182122,
+                    "lexical": "someone",
+                    "itn": "someone",
+                    "maskedITN": "someone",
+                    "display": "someone"
+                }
+            ]
+        }
+    ]
+}

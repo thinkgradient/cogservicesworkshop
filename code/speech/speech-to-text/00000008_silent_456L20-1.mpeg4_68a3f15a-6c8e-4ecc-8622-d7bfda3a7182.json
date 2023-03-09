@@ -1,0 +1,467 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000008_silent_456L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:43:37Z",
+    "durationInTicks": 467000000,
+    "duration": "PT46.7S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "OK when i bring these paid a the citizen who pays normally benefits more or the official who receive the payment normally benefits more or boots who benefits more they will remain the same they receive one the receiver and they give one that one nicely send uh so i can see yeah both of them have they don't have any any yeah",
+            "itn": "OK when i bring these paid a the citizen who pays normally benefits more or the official who receive the payment normally benefits more or boots who benefits more they will remain the same they receive one the receiver and they give 1 that one nicely send uh so i can see yeah both of them have they don't have any any yeah",
+            "maskedITN": "ok when i bring these paid a the citizen who pays normally benefits more or the official who receive the payment normally benefits more or boots who benefits more they will remain the same they receive one the receiver and they give 1 that one nicely send uh so i can see yeah both of them have they don't have any any yeah",
+            "display": "OK, when I bring these paid a, the citizen who pays normally benefits more or the official who receive the payment normally benefits more or boots? Who benefits more? They will remain the same. They receive one the receiver. And they give. 1. That one nicely. Send uh. So I can see, yeah, both of them have. They don't have any. Any yeah."
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT3.78S",
+            "duration": "PT12.07S",
+            "offsetInTicks": 37800000.0,
+            "durationInTicks": 120700000.0,
+            "nBest": [
+                {
+                    "confidence": 0.75454086,
+                    "lexical": "OK when i bring these paid a the citizen who pays normally benefits more or the official who receive the payment normally benefits more or boots",
+                    "itn": "OK when i bring these paid a the citizen who pays normally benefits more or the official who receive the payment normally benefits more or boots",
+                    "maskedITN": "ok when i bring these paid a the citizen who pays normally benefits more or the official who receive the payment normally benefits more or boots",
+                    "display": "OK, when I bring these paid a, the citizen who pays normally benefits more or the official who receive the payment normally benefits more or boots?"
+                },
+                {
+                    "confidence": 0.7550407,
+                    "lexical": "ok when i brought this paid a the citizen who pays normally benefits more or the official who receive the payment normally benefits more or boots",
+                    "itn": "ok when i brought this paid a the citizen who pays normally benefits more or the official who receive the payment normally benefits more or boots",
+                    "maskedITN": "ok when i brought this paid a the citizen who pays normally benefits more or the official who receive the payment normally benefits more or boots",
+                    "display": "OK when i brought this paid a the citizen who pays normally benefits more or the official who receive the payment normally benefits more or boots"
+                },
+                {
+                    "confidence": 0.75427544,
+                    "lexical": "ok when i brought these paid a the citizen who pays normally benefits more or the official who receive the payment normally benefits more or boots",
+                    "itn": "ok when i brought these paid a the citizen who pays normally benefits more or the official who receive the payment normally benefits more or boots",
+                    "maskedITN": "ok when i brought these paid a the citizen who pays normally benefits more or the official who receive the payment normally benefits more or boots",
+                    "display": "OK when i brought these paid a the citizen who pays normally benefits more or the official who receive the payment normally benefits more or boots"
+                },
+                {
+                    "confidence": 0.7566236,
+                    "lexical": "ok when i brought this paid a the citizen who pays normally benefits more or the official who received the payment normally benefits more or boots",
+                    "itn": "ok when i brought this paid a the citizen who pays normally benefits more or the official who received the payment normally benefits more or boots",
+                    "maskedITN": "ok when i brought this paid a the citizen who pays normally benefits more or the official who received the payment normally benefits more or boots",
+                    "display": "OK when i brought this paid a the citizen who pays normally benefits more or the official who received the payment normally benefits more or boots"
+                },
+                {
+                    "confidence": 0.75585836,
+                    "lexical": "ok when i brought these paid a the citizen who pays normally benefits more or the official who received the payment normally benefits more or boots",
+                    "itn": "ok when i brought these paid a the citizen who pays normally benefits more or the official who received the payment normally benefits more or boots",
+                    "maskedITN": "ok when i brought these paid a the citizen who pays normally benefits more or the official who received the payment normally benefits more or boots",
+                    "display": "OK when i brought these paid a the citizen who pays normally benefits more or the official who received the payment normally benefits more or boots"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT19.58S",
+            "duration": "PT1.07S",
+            "offsetInTicks": 195800000.0,
+            "durationInTicks": 10700000.0,
+            "nBest": [
+                {
+                    "confidence": 0.86369556,
+                    "lexical": "who benefits more",
+                    "itn": "who benefits more",
+                    "maskedITN": "who benefits more",
+                    "display": "Who benefits more?"
+                },
+                {
+                    "confidence": 0.859755,
+                    "lexical": "who benefits most",
+                    "itn": "who benefits most",
+                    "maskedITN": "who benefits most",
+                    "display": "who benefits most"
+                },
+                {
+                    "confidence": 0.88225543,
+                    "lexical": "who benefits",
+                    "itn": "who benefits",
+                    "maskedITN": "who benefits",
+                    "display": "who benefits"
+                },
+                {
+                    "confidence": 0.8372311,
+                    "lexical": "who benefits the most",
+                    "itn": "who benefits the most",
+                    "maskedITN": "who benefits the most",
+                    "display": "who benefits the most"
+                },
+                {
+                    "confidence": 0.8075982,
+                    "lexical": "who benefits from",
+                    "itn": "who benefits from",
+                    "maskedITN": "who benefits from",
+                    "display": "who benefits from"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT23.41S",
+            "duration": "PT0.91S",
+            "offsetInTicks": 234100000.0,
+            "durationInTicks": 9100000.0,
+            "nBest": [
+                {
+                    "confidence": 0.61048,
+                    "lexical": "they will remain the same",
+                    "itn": "they will remain the same",
+                    "maskedITN": "they will remain the same",
+                    "display": "They will remain the same."
+                },
+                {
+                    "confidence": 0.6463267,
+                    "lexical": "they will remain",
+                    "itn": "they will remain",
+                    "maskedITN": "they will remain",
+                    "display": "they will remain"
+                },
+                {
+                    "confidence": 0.4821997,
+                    "lexical": "still remain the same",
+                    "itn": "still remain the same",
+                    "maskedITN": "still remain the same",
+                    "display": "still remain the same"
+                },
+                {
+                    "confidence": 0.46416935,
+                    "lexical": "still remain",
+                    "itn": "still remain",
+                    "maskedITN": "still remain",
+                    "display": "still remain"
+                },
+                {
+                    "confidence": 0.4231031,
+                    "lexical": "still remains",
+                    "itn": "still remains",
+                    "maskedITN": "still remains",
+                    "display": "still remains"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT26.72S",
+            "duration": "PT1.73S",
+            "offsetInTicks": 267200000.0,
+            "durationInTicks": 17300000.0,
+            "nBest": [
+                {
+                    "confidence": 0.5944762,
+                    "lexical": "they receive one the receiver",
+                    "itn": "they receive one the receiver",
+                    "maskedITN": "they receive one the receiver",
+                    "display": "They receive one the receiver."
+                },
+                {
+                    "confidence": 0.59766394,
+                    "lexical": "they received one the receiver",
+                    "itn": "they received one the receiver",
+                    "maskedITN": "they received one the receiver",
+                    "display": "they received one the receiver"
+                },
+                {
+                    "confidence": 0.49092972,
+                    "lexical": "they receive the receiver",
+                    "itn": "they receive the receiver",
+                    "maskedITN": "they receive the receiver",
+                    "display": "they receive the receiver"
+                },
+                {
+                    "confidence": 0.39080682,
+                    "lexical": "they receive one receiver",
+                    "itn": "they receive one receiver",
+                    "maskedITN": "they receive one receiver",
+                    "display": "they receive one receiver"
+                },
+                {
+                    "confidence": 0.47303241,
+                    "lexical": "they receive they receive",
+                    "itn": "they receive they receive",
+                    "maskedITN": "they receive they receive",
+                    "display": "they receive they receive"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT29.45S",
+            "duration": "PT0.97S",
+            "offsetInTicks": 294500000.0,
+            "durationInTicks": 9700000.0,
+            "nBest": [
+                {
+                    "confidence": 0.8371553,
+                    "lexical": "and they give",
+                    "itn": "and they give",
+                    "maskedITN": "and they give",
+                    "display": "And they give."
+                },
+                {
+                    "confidence": 0.6186039,
+                    "lexical": "and the give",
+                    "itn": "and the give",
+                    "maskedITN": "and the give",
+                    "display": "and the give"
+                },
+                {
+                    "confidence": 0.8427837,
+                    "lexical": "and they give you",
+                    "itn": "and they give you",
+                    "maskedITN": "and they give you",
+                    "display": "and they give you"
+                },
+                {
+                    "confidence": 0.75307083,
+                    "lexical": "and the gift",
+                    "itn": "and the gift",
+                    "maskedITN": "and the gift",
+                    "display": "and the gift"
+                },
+                {
+                    "confidence": 0.8424324,
+                    "lexical": "and they give me",
+                    "itn": "and they give me",
+                    "maskedITN": "and they give me",
+                    "display": "and they give me"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT31.86S",
+            "duration": "PT0.35S",
+            "offsetInTicks": 318600000.0,
+            "durationInTicks": 3500000.0,
+            "nBest": [
+                {
+                    "confidence": 0.60236543,
+                    "lexical": "one",
+                    "itn": "1",
+                    "maskedITN": "1",
+                    "display": "1."
+                },
+                {
+                    "confidence": 0.7272166,
+                    "lexical": "let me",
+                    "itn": "let me",
+                    "maskedITN": "let me",
+                    "display": "let me"
+                },
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.44718337,
+                    "lexical": "land",
+                    "itn": "land",
+                    "maskedITN": "land",
+                    "display": "land"
+                },
+                {
+                    "confidence": 0.21951255,
+                    "lexical": "london",
+                    "itn": "london",
+                    "maskedITN": "london",
+                    "display": "london"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT34.25S",
+            "duration": "PT0.85S",
+            "offsetInTicks": 342500000.0,
+            "durationInTicks": 8500000.0,
+            "nBest": [
+                {
+                    "confidence": 0.4092748,
+                    "lexical": "that one nicely",
+                    "itn": "that one nicely",
+                    "maskedITN": "that one nicely",
+                    "display": "That one nicely."
+                },
+                {
+                    "confidence": 0.40485677,
+                    "lexical": "that one actually",
+                    "itn": "that one actually",
+                    "maskedITN": "that one actually",
+                    "display": "that one actually"
+                },
+                {
+                    "confidence": 0.6736184,
+                    "lexical": "that one",
+                    "itn": "that one",
+                    "maskedITN": "that one",
+                    "display": "that one"
+                },
+                {
+                    "confidence": 0.6357713,
+                    "lexical": "that's one",
+                    "itn": "that's one",
+                    "maskedITN": "that's one",
+                    "display": "that's one"
+                },
+                {
+                    "confidence": 0.6280441,
+                    "lexical": "that's not nice",
+                    "itn": "that's not nice",
+                    "maskedITN": "that's not nice",
+                    "display": "that's not nice"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT36.89S",
+            "duration": "PT0.78S",
+            "offsetInTicks": 368900000.0,
+            "durationInTicks": 7800000.0,
+            "nBest": [
+                {
+                    "confidence": 0.36300695,
+                    "lexical": "send uh",
+                    "itn": "send uh",
+                    "maskedITN": "send uh",
+                    "display": "Send uh."
+                },
+                {
+                    "confidence": 0.6580591,
+                    "lexical": "and uh it's not under",
+                    "itn": "and uh it's not under",
+                    "maskedITN": "and uh it's not under",
+                    "display": "and uh it's not under"
+                },
+                {
+                    "confidence": 0.6972373,
+                    "lexical": "and uh",
+                    "itn": "and uh",
+                    "maskedITN": "and uh",
+                    "display": "and uh"
+                },
+                {
+                    "confidence": 0.4845448,
+                    "lexical": "you could send uh",
+                    "itn": "you could send uh",
+                    "maskedITN": "you could send uh",
+                    "display": "you could send uh"
+                },
+                {
+                    "confidence": 0.62690836,
+                    "lexical": "you should send that uh",
+                    "itn": "you should send that uh",
+                    "maskedITN": "you should send that uh",
+                    "display": "you should send that uh"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT39.54S",
+            "duration": "PT4.18S",
+            "offsetInTicks": 395400000.0,
+            "durationInTicks": 41800000.0,
+            "nBest": [
+                {
+                    "confidence": 0.7610316,
+                    "lexical": "so i can see yeah both of them have they don't have any",
+                    "itn": "so i can see yeah both of them have they don't have any",
+                    "maskedITN": "so i can see yeah both of them have they don't have any",
+                    "display": "So I can see, yeah, both of them have. They don't have any."
+                },
+                {
+                    "confidence": 0.7568785,
+                    "lexical": "so i can say yeah both of them have they don't have any",
+                    "itn": "so i can say yeah both of them have they don't have any",
+                    "maskedITN": "so i can say yeah both of them have they don't have any",
+                    "display": "so i can say yeah both of them have they don't have any"
+                },
+                {
+                    "confidence": 0.7682259,
+                    "lexical": "so i can see uh both of them have they don't have any",
+                    "itn": "so i can see uh both of them have they don't have any",
+                    "maskedITN": "so i can see uh both of them have they don't have any",
+                    "display": "so i can see uh both of them have they don't have any"
+                },
+                {
+                    "confidence": 0.7372338,
+                    "lexical": "just so i can see yeah both of them have they don't have any",
+                    "itn": "just so i can see yeah both of them have they don't have any",
+                    "maskedITN": "just so i can see yeah both of them have they don't have any",
+                    "display": "just so i can see yeah both of them have they don't have any"
+                },
+                {
+                    "confidence": 0.73506284,
+                    "lexical": "so i can see yeah both of them are they don't have any",
+                    "itn": "so i can see yeah both of them are they don't have any",
+                    "maskedITN": "so i can see yeah both of them are they don't have any",
+                    "display": "so i can see yeah both of them are they don't have any"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT44.95S",
+            "duration": "PT0.65S",
+            "offsetInTicks": 449500000.0,
+            "durationInTicks": 6500000.0,
+            "nBest": [
+                {
+                    "confidence": 0.50096095,
+                    "lexical": "any yeah",
+                    "itn": "any yeah",
+                    "maskedITN": "any yeah",
+                    "display": "Any yeah."
+                },
+                {
+                    "confidence": 0.6926069,
+                    "lexical": "in the yeah",
+                    "itn": "in the yeah",
+                    "maskedITN": "in the yeah",
+                    "display": "in the yeah"
+                },
+                {
+                    "confidence": 0.41013548,
+                    "lexical": "me yeah",
+                    "itn": "me yeah",
+                    "maskedITN": "me yeah",
+                    "display": "me yeah"
+                },
+                {
+                    "confidence": 0.7176386,
+                    "lexical": "in the year",
+                    "itn": "in the year",
+                    "maskedITN": "in the year",
+                    "display": "in the year"
+                },
+                {
+                    "confidence": 0.6295227,
+                    "lexical": "and the yeah",
+                    "itn": "and the yeah",
+                    "maskedITN": "and the yeah",
+                    "display": "and the yeah"
+                }
+            ]
+        }
+    ]
+}

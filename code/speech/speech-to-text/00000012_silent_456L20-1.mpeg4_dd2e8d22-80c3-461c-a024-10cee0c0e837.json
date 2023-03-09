@@ -1,0 +1,152 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000012_silent_456L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:43:27Z",
+    "durationInTicks": 146200000,
+    "duration": "PT14.62S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "when a bribe is paid the citizen who pays normally benefits more or the official who receives the payment normally benefits more strongly or somewhat",
+            "itn": "when a bribe is paid the citizen who pays normally benefits more or the official who receives the payment normally benefits more strongly or somewhat",
+            "maskedITN": "when a bribe is paid the citizen who pays normally benefits more or the official who receives the payment normally benefits more strongly or somewhat",
+            "display": "When a bribe is paid, the citizen who pays normally benefits more or the official who receives the payment normally benefits more. Strongly or somewhat?"
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT2.43S",
+            "duration": "PT7.2S",
+            "offsetInTicks": 24300000.0,
+            "durationInTicks": 72000000.0,
+            "nBest": [
+                {
+                    "confidence": 0.77823097,
+                    "lexical": "when a bribe is paid the citizen who pays normally benefits more or the official who receives the payment normally benefits more",
+                    "itn": "when a bribe is paid the citizen who pays normally benefits more or the official who receives the payment normally benefits more",
+                    "maskedITN": "when a bribe is paid the citizen who pays normally benefits more or the official who receives the payment normally benefits more",
+                    "display": "When a bribe is paid, the citizen who pays normally benefits more or the official who receives the payment normally benefits more."
+                },
+                {
+                    "confidence": 0.7849225,
+                    "lexical": "when a bribe is paid the citizen who pay is normally benefits more or the official who receives the payment normally benefits more",
+                    "itn": "when a bribe is paid the citizen who pay is normally benefits more or the official who receives the payment normally benefits more",
+                    "maskedITN": "when a bribe is paid the citizen who pay is normally benefits more or the official who receives the payment normally benefits more",
+                    "display": "when a bribe is paid the citizen who pay is normally benefits more or the official who receives the payment normally benefits more"
+                },
+                {
+                    "confidence": 0.7651849,
+                    "lexical": "when a bribe is paid the citizen who pays normally benefit more or the official who receives the payment normally benefits more",
+                    "itn": "when a bribe is paid the citizen who pays normally benefit more or the official who receives the payment normally benefits more",
+                    "maskedITN": "when a bribe is paid the citizen who pays normally benefit more or the official who receives the payment normally benefits more",
+                    "display": "when a bribe is paid the citizen who pays normally benefit more or the official who receives the payment normally benefits more"
+                },
+                {
+                    "confidence": 0.7719167,
+                    "lexical": "when a bribe is paid the citizen who pays normally benefits more or the official who received the payment normally benefits more",
+                    "itn": "when a bribe is paid the citizen who pays normally benefits more or the official who received the payment normally benefits more",
+                    "maskedITN": "when a bribe is paid the citizen who pays normally benefits more or the official who received the payment normally benefits more",
+                    "display": "when a bribe is paid the citizen who pays normally benefits more or the official who received the payment normally benefits more"
+                },
+                {
+                    "confidence": 0.77016497,
+                    "lexical": "when i bribe is paid the citizen who pays normally benefits more or the official who receives the payment normally benefits more",
+                    "itn": "when i bribe is paid the citizen who pays normally benefits more or the official who receives the payment normally benefits more",
+                    "maskedITN": "when i bribe is paid the citizen who pays normally benefits more or the official who receives the payment normally benefits more",
+                    "display": "when i bribe is paid the citizen who pays normally benefits more or the official who receives the payment normally benefits more"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT11.61S",
+            "duration": "PT1.01S",
+            "offsetInTicks": 116100000.0,
+            "durationInTicks": 10100000.0,
+            "nBest": [
+                {
+                    "confidence": 0.7057557,
+                    "lexical": "strongly or somewhat",
+                    "itn": "strongly or somewhat",
+                    "maskedITN": "strongly or somewhat",
+                    "display": "Strongly or somewhat?"
+                },
+                {
+                    "confidence": 0.5216735,
+                    "lexical": "strongly as somewhat",
+                    "itn": "strongly as somewhat",
+                    "maskedITN": "strongly as somewhat",
+                    "display": "strongly as somewhat"
+                },
+                {
+                    "confidence": 0.32772163,
+                    "lexical": "strongly assignment",
+                    "itn": "strongly assignment",
+                    "maskedITN": "strongly assignment",
+                    "display": "strongly assignment"
+                },
+                {
+                    "confidence": 0.69506025,
+                    "lexical": "strongly or somewhat so",
+                    "itn": "strongly or somewhat so",
+                    "maskedITN": "strongly or somewhat so",
+                    "display": "strongly or somewhat so"
+                },
+                {
+                    "confidence": 0.6807363,
+                    "lexical": "strongly or somewhat more",
+                    "itn": "strongly or somewhat more",
+                    "maskedITN": "strongly or somewhat more",
+                    "display": "strongly or somewhat more"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT14.09S",
+            "duration": "PT0.53S",
+            "offsetInTicks": 140900000.0,
+            "durationInTicks": 5300000.0,
+            "nBest": [
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.44855756,
+                    "lexical": "yeah",
+                    "itn": "yeah",
+                    "maskedITN": "yeah",
+                    "display": "yeah"
+                },
+                {
+                    "confidence": 0.5231942,
+                    "lexical": "no",
+                    "itn": "no",
+                    "maskedITN": "no",
+                    "display": "no"
+                },
+                {
+                    "confidence": 0.45139602,
+                    "lexical": "yes",
+                    "itn": "yes",
+                    "maskedITN": "yes",
+                    "display": "yes"
+                },
+                {
+                    "confidence": 0.5182051,
+                    "lexical": "uh",
+                    "itn": "uh",
+                    "maskedITN": "uh",
+                    "display": "uh"
+                }
+            ]
+        }
+    ]
+}

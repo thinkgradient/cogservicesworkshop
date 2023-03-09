@@ -1,0 +1,242 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000002_silent_456L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:42:58Z",
+    "durationInTicks": 244400000,
+    "duration": "PT24.44S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "bye bye and and and when the bribes paid a that citizen who pays normally benefits more or the official who receive the payment normally benefits more my name is M and",
+            "itn": "bye bye and and and when the bribes paid a that citizen who pays normally benefits more or the official who receive the payment normally benefits more my name is M and",
+            "maskedITN": "bye bye and and and when the bribes paid a that citizen who pays normally benefits more or the official who receive the payment normally benefits more my name is m and",
+            "display": "Bye, bye. And and and when the bribes paid a that citizen who pays normally benefits more or the official who receive the payment normally benefits more. My name is. M and."
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT1.66S",
+            "duration": "PT0.7S",
+            "offsetInTicks": 16600000.0,
+            "durationInTicks": 7000000.0,
+            "nBest": [
+                {
+                    "confidence": 0.4599343,
+                    "lexical": "bye bye",
+                    "itn": "bye bye",
+                    "maskedITN": "bye bye",
+                    "display": "Bye, bye."
+                },
+                {
+                    "confidence": 0.028293967,
+                    "lexical": "goodbye",
+                    "itn": "goodbye",
+                    "maskedITN": "goodbye",
+                    "display": "goodbye"
+                },
+                {
+                    "confidence": 0.12783086,
+                    "lexical": "bye",
+                    "itn": "bye",
+                    "maskedITN": "bye",
+                    "display": "bye"
+                },
+                {
+                    "confidence": 0.06691998,
+                    "lexical": "viable",
+                    "itn": "viable",
+                    "maskedITN": "viable",
+                    "display": "viable"
+                },
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT4.37S",
+            "duration": "PT10.89S",
+            "offsetInTicks": 43700000.0,
+            "durationInTicks": 108900000.0,
+            "nBest": [
+                {
+                    "confidence": 0.6993915,
+                    "lexical": "and and and when the bribes paid a that citizen who pays normally benefits more or the official who receive the payment normally benefits more",
+                    "itn": "and and and when the bribes paid a that citizen who pays normally benefits more or the official who receive the payment normally benefits more",
+                    "maskedITN": "and and and when the bribes paid a that citizen who pays normally benefits more or the official who receive the payment normally benefits more",
+                    "display": "And and and when the bribes paid a that citizen who pays normally benefits more or the official who receive the payment normally benefits more."
+                },
+                {
+                    "confidence": 0.7019372,
+                    "lexical": "and and and when are bribes paid a that citizen who pays normally benefits more or the official who receive the payment normally benefits more",
+                    "itn": "and and and when are bribes paid a that citizen who pays normally benefits more or the official who receive the payment normally benefits more",
+                    "maskedITN": "and and and when are bribes paid a that citizen who pays normally benefits more or the official who receive the payment normally benefits more",
+                    "display": "and and and when are bribes paid a that citizen who pays normally benefits more or the official who receive the payment normally benefits more"
+                },
+                {
+                    "confidence": 0.7006308,
+                    "lexical": "and and and when a bribes paid a that citizen who pays normally benefits more or the official who receive the payment normally benefits more",
+                    "itn": "and and and when a bribes paid a that citizen who pays normally benefits more or the official who receive the payment normally benefits more",
+                    "maskedITN": "and and and when a bribes paid a that citizen who pays normally benefits more or the official who receive the payment normally benefits more",
+                    "display": "and and and when a bribes paid a that citizen who pays normally benefits more or the official who receive the payment normally benefits more"
+                },
+                {
+                    "confidence": 0.71273136,
+                    "lexical": "uh and and when are bribes paid a that citizen who pays normally benefits more or the official who receive the payment normally benefits more",
+                    "itn": "uh and and when are bribes paid a that citizen who pays normally benefits more or the official who receive the payment normally benefits more",
+                    "maskedITN": "uh and and when are bribes paid a that citizen who pays normally benefits more or the official who receive the payment normally benefits more",
+                    "display": "uh and and when are bribes paid a that citizen who pays normally benefits more or the official who receive the payment normally benefits more"
+                },
+                {
+                    "confidence": 0.7028809,
+                    "lexical": "and and and when are bribes paid a that citizen who pays normally benefits more or the official who received the payment normally benefits more",
+                    "itn": "and and and when are bribes paid a that citizen who pays normally benefits more or the official who received the payment normally benefits more",
+                    "maskedITN": "and and and when are bribes paid a that citizen who pays normally benefits more or the official who received the payment normally benefits more",
+                    "display": "and and and when are bribes paid a that citizen who pays normally benefits more or the official who received the payment normally benefits more"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT18.31S",
+            "duration": "PT0.4S",
+            "offsetInTicks": 183100000.0,
+            "durationInTicks": 4000000.0,
+            "nBest": [
+                {
+                    "confidence": 0.8251365,
+                    "lexical": "my name is",
+                    "itn": "my name is",
+                    "maskedITN": "my name is",
+                    "display": "My name is."
+                },
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.74637616,
+                    "lexical": "my name",
+                    "itn": "my name",
+                    "maskedITN": "my name",
+                    "display": "my name"
+                },
+                {
+                    "confidence": 0.55667853,
+                    "lexical": "name is",
+                    "itn": "name is",
+                    "maskedITN": "name is",
+                    "display": "name is"
+                },
+                {
+                    "confidence": 0.41697806,
+                    "lexical": "umm",
+                    "itn": "umm",
+                    "maskedITN": "umm",
+                    "display": "umm"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT20.79S",
+            "duration": "PT1.69S",
+            "offsetInTicks": 207900000.0,
+            "durationInTicks": 16900000.0,
+            "nBest": [
+                {
+                    "confidence": 0.35315475,
+                    "lexical": "M and",
+                    "itn": "M and",
+                    "maskedITN": "m and",
+                    "display": "M and."
+                },
+                {
+                    "confidence": 0.4124367,
+                    "lexical": "m and m",
+                    "itn": "m and m",
+                    "maskedITN": "m and m",
+                    "display": "M and M"
+                },
+                {
+                    "confidence": 0.46708605,
+                    "lexical": "mhm and",
+                    "itn": "mhm and",
+                    "maskedITN": "mhm and",
+                    "display": "MHM and"
+                },
+                {
+                    "confidence": 0.4090855,
+                    "lexical": "m and s",
+                    "itn": "m and s",
+                    "maskedITN": "m and s",
+                    "display": "M and S"
+                },
+                {
+                    "confidence": 0.26055276,
+                    "lexical": "m uh",
+                    "itn": "m uh",
+                    "maskedITN": "m uh",
+                    "display": "M uh"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT23.64S",
+            "duration": "PT0.8S",
+            "offsetInTicks": 236400000.0,
+            "durationInTicks": 8000000.0,
+            "nBest": [
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.10633415,
+                    "lexical": "linda",
+                    "itn": "linda",
+                    "maskedITN": "linda",
+                    "display": "linda"
+                },
+                {
+                    "confidence": 0.5338836,
+                    "lexical": "the",
+                    "itn": "the",
+                    "maskedITN": "the",
+                    "display": "the"
+                },
+                {
+                    "confidence": 0.5975693,
+                    "lexical": "no",
+                    "itn": "no",
+                    "maskedITN": "no",
+                    "display": "no"
+                },
+                {
+                    "confidence": 0.52420044,
+                    "lexical": "and",
+                    "itn": "and",
+                    "maskedITN": "and",
+                    "display": "and"
+                }
+            ]
+        }
+    ]
+}

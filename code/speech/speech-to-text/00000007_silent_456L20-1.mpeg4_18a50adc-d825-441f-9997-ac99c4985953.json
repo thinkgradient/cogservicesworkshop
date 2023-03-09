@@ -1,0 +1,107 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000007_silent_456L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:43:13Z",
+    "durationInTicks": 156000000,
+    "duration": "PT15.6S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "amazon when a bridge is paid and the citizens who pays normally benefits more or be the official who receive the payments normally benefits more strongly",
+            "itn": "amazon when a bridge is paid and the citizens who pays normally benefits more or be the official who receive the payments normally benefits more strongly",
+            "maskedITN": "amazon when a bridge is paid and the citizens who pays normally benefits more or be the official who receive the payments normally benefits more strongly",
+            "display": "Amazon. When a bridge is paid and the citizens who pays normally benefits more or be the official who receive the payments normally benefits more strongly."
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT1.83S",
+            "duration": "PT0.39S",
+            "offsetInTicks": 18300000.0,
+            "durationInTicks": 3900000.0,
+            "nBest": [
+                {
+                    "confidence": 0.3010012,
+                    "lexical": "amazon",
+                    "itn": "amazon",
+                    "maskedITN": "amazon",
+                    "display": "Amazon."
+                },
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.2786468,
+                    "lexical": "hmm",
+                    "itn": "hmm",
+                    "maskedITN": "hmm",
+                    "display": "hmm"
+                },
+                {
+                    "confidence": 0.29310834,
+                    "lexical": "umm",
+                    "itn": "umm",
+                    "maskedITN": "umm",
+                    "display": "umm"
+                },
+                {
+                    "confidence": 0.072836846,
+                    "lexical": "painkiller",
+                    "itn": "painkiller",
+                    "maskedITN": "painkiller",
+                    "display": "painkiller"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT4.89S",
+            "duration": "PT9.77S",
+            "offsetInTicks": 48900000.0,
+            "durationInTicks": 97700000.0,
+            "nBest": [
+                {
+                    "confidence": 0.6660893,
+                    "lexical": "when a bridge is paid and the citizens who pays normally benefits more or be the official who receive the payments normally benefits more strongly",
+                    "itn": "when a bridge is paid and the citizens who pays normally benefits more or be the official who receive the payments normally benefits more strongly",
+                    "maskedITN": "when a bridge is paid and the citizens who pays normally benefits more or be the official who receive the payments normally benefits more strongly",
+                    "display": "When a bridge is paid and the citizens who pays normally benefits more or be the official who receive the payments normally benefits more strongly."
+                },
+                {
+                    "confidence": 0.67799616,
+                    "lexical": "when a bridge is paid and the citizens who pays normally benefits more or be the official who receives the payments normally benefits more from this",
+                    "itn": "when a bridge is paid and the citizens who pays normally benefits more or be the official who receives the payments normally benefits more from this",
+                    "maskedITN": "when a bridge is paid and the citizens who pays normally benefits more or be the official who receives the payments normally benefits more from this",
+                    "display": "when a bridge is paid and the citizens who pays normally benefits more or be the official who receives the payments normally benefits more from this"
+                },
+                {
+                    "confidence": 0.68073386,
+                    "lexical": "when a bridge is paid and the citizens who pays normally benefits more or be the official who receive the payments normally benefits more from this",
+                    "itn": "when a bridge is paid and the citizens who pays normally benefits more or be the official who receive the payments normally benefits more from this",
+                    "maskedITN": "when a bridge is paid and the citizens who pays normally benefits more or be the official who receive the payments normally benefits more from this",
+                    "display": "when a bridge is paid and the citizens who pays normally benefits more or be the official who receive the payments normally benefits more from this"
+                },
+                {
+                    "confidence": 0.66564125,
+                    "lexical": "when a bridge is paid and the citizens who pays normally benefits more or be the official who received the payments normally benefits more strongly",
+                    "itn": "when a bridge is paid and the citizens who pays normally benefits more or be the official who received the payments normally benefits more strongly",
+                    "maskedITN": "when a bridge is paid and the citizens who pays normally benefits more or be the official who received the payments normally benefits more strongly",
+                    "display": "when a bridge is paid and the citizens who pays normally benefits more or be the official who received the payments normally benefits more strongly"
+                },
+                {
+                    "confidence": 0.68017066,
+                    "lexical": "when a bridge is paid and the citizens who pays normally benefits more or be the official who received the payments normally benefits more from this",
+                    "itn": "when a bridge is paid and the citizens who pays normally benefits more or be the official who received the payments normally benefits more from this",
+                    "maskedITN": "when a bridge is paid and the citizens who pays normally benefits more or be the official who received the payments normally benefits more from this",
+                    "display": "when a bridge is paid and the citizens who pays normally benefits more or be the official who received the payments normally benefits more from this"
+                }
+            ]
+        }
+    ]
+}

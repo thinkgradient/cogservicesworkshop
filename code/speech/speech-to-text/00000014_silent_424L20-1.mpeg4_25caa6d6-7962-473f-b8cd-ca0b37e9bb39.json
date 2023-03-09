@@ -1,0 +1,242 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000014_silent_424L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:43:46Z",
+    "durationInTicks": 198600000,
+    "duration": "PT19.86S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "and do you think it's OK for citizens to pay bribes when it helps them with their own personal problem or it's not OK because it has other people society it's OK strongly of that much strongly",
+            "itn": "and do you think it's OK for citizens to pay bribes when it helps them with their own personal problem or it's not OK because it has other people society it's OK strongly of that much strongly",
+            "maskedITN": "and do you think it's ok for citizens to pay bribes when it helps them with their own personal problem or it's not ok because it has other people society it's ok strongly of that much strongly",
+            "display": "And do you think it's OK for citizens to pay bribes when it helps them with their own personal problem? Or it's not OK because it has other people society? It's OK. Strongly of that much. Strongly."
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT4.03S",
+            "duration": "PT7.77S",
+            "offsetInTicks": 40300000.0,
+            "durationInTicks": 77700000.0,
+            "nBest": [
+                {
+                    "confidence": 0.8487748,
+                    "lexical": "and do you think it's OK for citizens to pay bribes when it helps them with their own personal problem or it's not OK because it has other people society",
+                    "itn": "and do you think it's OK for citizens to pay bribes when it helps them with their own personal problem or it's not OK because it has other people society",
+                    "maskedITN": "and do you think it's ok for citizens to pay bribes when it helps them with their own personal problem or it's not ok because it has other people society",
+                    "display": "And do you think it's OK for citizens to pay bribes when it helps them with their own personal problem? Or it's not OK because it has other people society?"
+                },
+                {
+                    "confidence": 0.9007089,
+                    "lexical": "and do you think it's ok for citizens to pay bribes when it helps them with their own personal problem or it's not ok because it has other people",
+                    "itn": "and do you think it's ok for citizens to pay bribes when it helps them with their own personal problem or it's not ok because it has other people",
+                    "maskedITN": "and do you think it's ok for citizens to pay bribes when it helps them with their own personal problem or it's not ok because it has other people",
+                    "display": "and do you think it's OK for citizens to pay bribes when it helps them with their own personal problem or it's not OK because it has other people"
+                },
+                {
+                    "confidence": 0.8451074,
+                    "lexical": "and you think it's ok for citizens to pay bribes when it helps them with their own personal problem or it's not ok because it has other people society",
+                    "itn": "and you think it's ok for citizens to pay bribes when it helps them with their own personal problem or it's not ok because it has other people society",
+                    "maskedITN": "and you think it's ok for citizens to pay bribes when it helps them with their own personal problem or it's not ok because it has other people society",
+                    "display": "and you think it's OK for citizens to pay bribes when it helps them with their own personal problem or it's not OK because it has other people society"
+                },
+                {
+                    "confidence": 0.8455717,
+                    "lexical": "and do you think it's ok for citizens to pay bribes when it helps them with their own personal problem or it's not ok because it has other people inspired",
+                    "itn": "and do you think it's ok for citizens to pay bribes when it helps them with their own personal problem or it's not ok because it has other people inspired",
+                    "maskedITN": "and do you think it's ok for citizens to pay bribes when it helps them with their own personal problem or it's not ok because it has other people inspired",
+                    "display": "and do you think it's OK for citizens to pay bribes when it helps them with their own personal problem or it's not OK because it has other people inspired"
+                },
+                {
+                    "confidence": 0.84642667,
+                    "lexical": "and do you think it's ok for citizens to pay bribes when it helps them with their own personal problem or it's not ok because it has other people inspire",
+                    "itn": "and do you think it's ok for citizens to pay bribes when it helps them with their own personal problem or it's not ok because it has other people inspire",
+                    "maskedITN": "and do you think it's ok for citizens to pay bribes when it helps them with their own personal problem or it's not ok because it has other people inspire",
+                    "display": "and do you think it's OK for citizens to pay bribes when it helps them with their own personal problem or it's not OK because it has other people inspire"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT13.32S",
+            "duration": "PT2.05S",
+            "offsetInTicks": 133200000.0,
+            "durationInTicks": 20500000.0,
+            "nBest": [
+                {
+                    "confidence": 0.8033147,
+                    "lexical": "it's OK",
+                    "itn": "it's OK",
+                    "maskedITN": "it's ok",
+                    "display": "It's OK."
+                },
+                {
+                    "confidence": 0.9406809,
+                    "lexical": "ok",
+                    "itn": "ok",
+                    "maskedITN": "ok",
+                    "display": "OK"
+                },
+                {
+                    "confidence": 0.8773899,
+                    "lexical": "ok yeah",
+                    "itn": "ok yeah",
+                    "maskedITN": "ok yeah",
+                    "display": "OK yeah"
+                },
+                {
+                    "confidence": 0.72692734,
+                    "lexical": "that's ok",
+                    "itn": "that's ok",
+                    "maskedITN": "that's ok",
+                    "display": "that's OK"
+                },
+                {
+                    "confidence": 0.83588827,
+                    "lexical": "uh ok",
+                    "itn": "uh ok",
+                    "maskedITN": "uh ok",
+                    "display": "uh OK"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT16.4S",
+            "duration": "PT1.01S",
+            "offsetInTicks": 164000000.0,
+            "durationInTicks": 10100000.0,
+            "nBest": [
+                {
+                    "confidence": 0.6435851,
+                    "lexical": "strongly of that much",
+                    "itn": "strongly of that much",
+                    "maskedITN": "strongly of that much",
+                    "display": "Strongly of that much."
+                },
+                {
+                    "confidence": 0.65644747,
+                    "lexical": "strongly of how much",
+                    "itn": "strongly of how much",
+                    "maskedITN": "strongly of how much",
+                    "display": "strongly of how much"
+                },
+                {
+                    "confidence": 0.42634818,
+                    "lexical": "strongly recommend",
+                    "itn": "strongly recommend",
+                    "maskedITN": "strongly recommend",
+                    "display": "strongly recommend"
+                },
+                {
+                    "confidence": 0.61415535,
+                    "lexical": "strongly or somewhat",
+                    "itn": "strongly or somewhat",
+                    "maskedITN": "strongly or somewhat",
+                    "display": "strongly or somewhat"
+                },
+                {
+                    "confidence": 0.5511421,
+                    "lexical": "strongly of ammonia",
+                    "itn": "strongly of ammonia",
+                    "maskedITN": "strongly of ammonia",
+                    "display": "strongly of ammonia"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT18.05S",
+            "duration": "PT0.59S",
+            "offsetInTicks": 180500000.0,
+            "durationInTicks": 5900000.0,
+            "nBest": [
+                {
+                    "confidence": 0.11950768,
+                    "lexical": "strongly",
+                    "itn": "strongly",
+                    "maskedITN": "strongly",
+                    "display": "Strongly."
+                },
+                {
+                    "confidence": 0.096794486,
+                    "lexical": "strong",
+                    "itn": "strong",
+                    "maskedITN": "strong",
+                    "display": "strong"
+                },
+                {
+                    "confidence": 0.12565061,
+                    "lexical": "so",
+                    "itn": "so",
+                    "maskedITN": "so",
+                    "display": "so"
+                },
+                {
+                    "confidence": 0.057556625,
+                    "lexical": "sorry",
+                    "itn": "sorry",
+                    "maskedITN": "sorry",
+                    "display": "sorry"
+                },
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT19.48S",
+            "duration": "PT0.38S",
+            "offsetInTicks": 194800000.0,
+            "durationInTicks": 3800000.0,
+            "nBest": [
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.5600436,
+                    "lexical": "no",
+                    "itn": "no",
+                    "maskedITN": "no",
+                    "display": "no"
+                },
+                {
+                    "confidence": 0.5241024,
+                    "lexical": "so",
+                    "itn": "so",
+                    "maskedITN": "so",
+                    "display": "so"
+                },
+                {
+                    "confidence": 0.49369058,
+                    "lexical": "oh",
+                    "itn": "oh",
+                    "maskedITN": "oh",
+                    "display": "oh"
+                },
+                {
+                    "confidence": 0.49154404,
+                    "lexical": "uh",
+                    "itn": "uh",
+                    "maskedITN": "uh",
+                    "display": "uh"
+                }
+            ]
+        }
+    ]
+}

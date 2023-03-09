@@ -1,0 +1,242 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000009_silent_424L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:43:25Z",
+    "durationInTicks": 282800000,
+    "duration": "PT28.28S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "no um and and do you think a it is OK for citizen to pay bribe when it's helped them with their own personal problem or B it is not OK for citizen to pay bribe because it hurts other people in the society it's not working as i said",
+            "itn": "no um and and do you think a it is OK for citizen to pay bribe when it's helped them with their own personal problem or B it is not OK for citizen to pay bribe because it hurts other people in the society it's not working as i said",
+            "maskedITN": "no um and and do you think a it is ok for citizen to pay bribe when it's helped them with their own personal problem or b it is not ok for citizen to pay bribe because it hurts other people in the society it's not working as i said",
+            "display": "No. Um. And and do you think a it is OK for citizen to pay bribe when it's helped them with their own personal problem or B it is not OK for citizen to pay bribe because it hurts other people in the society? It's not working. As I said."
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT0.42S",
+            "duration": "PT0.61S",
+            "offsetInTicks": 4200000.0,
+            "durationInTicks": 6100000.0,
+            "nBest": [
+                {
+                    "confidence": 0.14310631,
+                    "lexical": "no",
+                    "itn": "no",
+                    "maskedITN": "no",
+                    "display": "No."
+                },
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                },
+                {
+                    "confidence": 0.62625754,
+                    "lexical": "yeah",
+                    "itn": "yeah",
+                    "maskedITN": "yeah",
+                    "display": "yeah"
+                },
+                {
+                    "confidence": 0.50620025,
+                    "lexical": "hmm",
+                    "itn": "hmm",
+                    "maskedITN": "hmm",
+                    "display": "hmm"
+                },
+                {
+                    "confidence": 0.4723493,
+                    "lexical": "umm",
+                    "itn": "umm",
+                    "maskedITN": "umm",
+                    "display": "umm"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT3.45S",
+            "duration": "PT0.73S",
+            "offsetInTicks": 34500000.0,
+            "durationInTicks": 7300000.0,
+            "nBest": [
+                {
+                    "confidence": 0.2211481,
+                    "lexical": "um",
+                    "itn": "um",
+                    "maskedITN": "um",
+                    "display": "Um."
+                },
+                {
+                    "confidence": 0.31723404,
+                    "lexical": "umm",
+                    "itn": "umm",
+                    "maskedITN": "umm",
+                    "display": "umm"
+                },
+                {
+                    "confidence": 0.19120798,
+                    "lexical": "uhm",
+                    "itn": "uhm",
+                    "maskedITN": "uhm",
+                    "display": "uhm"
+                },
+                {
+                    "confidence": 0.17476788,
+                    "lexical": "hmm",
+                    "itn": "hmm",
+                    "maskedITN": "hmm",
+                    "display": "hmm"
+                },
+                {
+                    "confidence": 0.14986455,
+                    "lexical": "m",
+                    "itn": "m",
+                    "maskedITN": "m",
+                    "display": "M"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT6.57S",
+            "duration": "PT16.35S",
+            "offsetInTicks": 65700000.0,
+            "durationInTicks": 163500000.0,
+            "nBest": [
+                {
+                    "confidence": 0.81372386,
+                    "lexical": "and and do you think a it is OK for citizen to pay bribe when it's helped them with their own personal problem or B it is not OK for citizen to pay bribe because it hurts other people in the society",
+                    "itn": "and and do you think a it is OK for citizen to pay bribe when it's helped them with their own personal problem or B it is not OK for citizen to pay bribe because it hurts other people in the society",
+                    "maskedITN": "and and do you think a it is ok for citizen to pay bribe when it's helped them with their own personal problem or b it is not ok for citizen to pay bribe because it hurts other people in the society",
+                    "display": "And and do you think a it is OK for citizen to pay bribe when it's helped them with their own personal problem or B it is not OK for citizen to pay bribe because it hurts other people in the society?"
+                },
+                {
+                    "confidence": 0.81272614,
+                    "lexical": "and and do you think a it is ok for citizen to pay bribe when it's help them with their own personal problem or b it is not ok for citizen to pay bribe because it hurts other people in the society",
+                    "itn": "and and do you think a it is ok for citizen to pay bribe when it's help them with their own personal problem or b it is not ok for citizen to pay bribe because it hurts other people in the society",
+                    "maskedITN": "and and do you think a it is ok for citizen to pay bribe when it's help them with their own personal problem or b it is not ok for citizen to pay bribe because it hurts other people in the society",
+                    "display": "and and do you think a it is OK for citizen to pay bribe when it's help them with their own personal problem or B it is not OK for citizen to pay bribe because it hurts other people in the society"
+                },
+                {
+                    "confidence": 0.8299297,
+                    "lexical": "and and do you think a it is ok for citizen to pay bribe when it's helped them with their own personal problem or b it is not ok for citizen to pay a bribe because it hurts other people in the society",
+                    "itn": "and and do you think a it is ok for citizen to pay bribe when it's helped them with their own personal problem or b it is not ok for citizen to pay a bribe because it hurts other people in the society",
+                    "maskedITN": "and and do you think a it is ok for citizen to pay bribe when it's helped them with their own personal problem or b it is not ok for citizen to pay a bribe because it hurts other people in the society",
+                    "display": "and and do you think a it is OK for citizen to pay bribe when it's helped them with their own personal problem or B it is not OK for citizen to pay a bribe because it hurts other people in the society"
+                },
+                {
+                    "confidence": 0.80651575,
+                    "lexical": "and and do you think a it is ok for citizen to pay bribe when it helped them with their own personal problem or b it is not ok for citizen to pay bribe because it hurts other people in the society",
+                    "itn": "and and do you think a it is ok for citizen to pay bribe when it helped them with their own personal problem or b it is not ok for citizen to pay bribe because it hurts other people in the society",
+                    "maskedITN": "and and do you think a it is ok for citizen to pay bribe when it helped them with their own personal problem or b it is not ok for citizen to pay bribe because it hurts other people in the society",
+                    "display": "and and do you think a it is OK for citizen to pay bribe when it helped them with their own personal problem or B it is not OK for citizen to pay bribe because it hurts other people in the society"
+                },
+                {
+                    "confidence": 0.81223154,
+                    "lexical": "and and do you think a it is okay for citizen to pay bribe when it's helped them with their own personal problem or b it is not ok for citizen to pay bribe because it hurts other people in the society",
+                    "itn": "and and do you think a it is okay for citizen to pay bribe when it's helped them with their own personal problem or b it is not ok for citizen to pay bribe because it hurts other people in the society",
+                    "maskedITN": "and and do you think a it is okay for citizen to pay bribe when it's helped them with their own personal problem or b it is not ok for citizen to pay bribe because it hurts other people in the society",
+                    "display": "and and do you think a it is okay for citizen to pay bribe when it's helped them with their own personal problem or B it is not OK for citizen to pay bribe because it hurts other people in the society"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT24.14S",
+            "duration": "PT0.82S",
+            "offsetInTicks": 241400000.0,
+            "durationInTicks": 8200000.0,
+            "nBest": [
+                {
+                    "confidence": 0.5296052,
+                    "lexical": "it's not working",
+                    "itn": "it's not working",
+                    "maskedITN": "it's not working",
+                    "display": "It's not working."
+                },
+                {
+                    "confidence": 0.5073395,
+                    "lexical": "not talking",
+                    "itn": "not talking",
+                    "maskedITN": "not talking",
+                    "display": "not talking"
+                },
+                {
+                    "confidence": 0.48815385,
+                    "lexical": "it's not talking",
+                    "itn": "it's not talking",
+                    "maskedITN": "it's not talking",
+                    "display": "it's not talking"
+                },
+                {
+                    "confidence": 0.6986566,
+                    "lexical": "i'm not talking",
+                    "itn": "i'm not talking",
+                    "maskedITN": "i'm not talking",
+                    "display": "i'm not talking"
+                },
+                {
+                    "confidence": 0.0,
+                    "lexical": "",
+                    "itn": "",
+                    "maskedITN": "",
+                    "display": ""
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT27.12S",
+            "duration": "PT0.74S",
+            "offsetInTicks": 271200000.0,
+            "durationInTicks": 7400000.0,
+            "nBest": [
+                {
+                    "confidence": 0.77038056,
+                    "lexical": "as i said",
+                    "itn": "as i said",
+                    "maskedITN": "as i said",
+                    "display": "As I said."
+                },
+                {
+                    "confidence": 0.8422973,
+                    "lexical": "as i say",
+                    "itn": "as i say",
+                    "maskedITN": "as i say",
+                    "display": "as i say"
+                },
+                {
+                    "confidence": 0.73550713,
+                    "lexical": "as i say this",
+                    "itn": "as i say this",
+                    "maskedITN": "as i say this",
+                    "display": "as i say this"
+                },
+                {
+                    "confidence": 0.7455799,
+                    "lexical": "as i say that",
+                    "itn": "as i say that",
+                    "maskedITN": "as i say that",
+                    "display": "as i say that"
+                },
+                {
+                    "confidence": 0.4347308,
+                    "lexical": "as i said because",
+                    "itn": "as i said because",
+                    "maskedITN": "as i said because",
+                    "display": "as i said because"
+                }
+            ]
+        }
+    ]
+}

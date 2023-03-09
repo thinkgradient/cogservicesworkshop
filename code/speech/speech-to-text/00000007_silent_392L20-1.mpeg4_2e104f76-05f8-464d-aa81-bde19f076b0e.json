@@ -1,0 +1,242 @@
+{
+    "source": "https://sttttsstorage.blob.core.windows.net/kantaraudios/00000007_silent_392L20-1.mpeg4?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-12-02T20:10:47Z&st=2022-11-25T12:10:47Z&spr=https&sig=alTnZVBhDvhIWknjCCwaDkYtRel26%2FkHOKoTAI2E6iM%3D",
+    "timestamp": "2022-11-25T12:43:14Z",
+    "durationInTicks": 313400000,
+    "duration": "PT31.34S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "and alright alright last question do you think robbery is more of a problem when a citizen offers a bribe or B an official demands a bribe i think both but yeah it's OK yeah come on come on yeah OK i'm not",
+            "itn": "and alright alright last question do you think robbery is more of a problem when a citizen offers a bribe or B an official demands a bribe i think both but yeah it's OK yeah come on come on yeah OK i'm not",
+            "maskedITN": "and alright alright last question do you think robbery is more of a problem when a citizen offers a bribe or b an official demands a bribe i think both but yeah it's ok yeah come on come on yeah ok i'm not",
+            "display": "And. Alright, alright, last question. Do you think robbery is more of a problem when a citizen offers a bribe or B an official demands a bribe? I think both, but yeah, it's OK. Yeah. Come on. Come on. Yeah. OK, I'm not."
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT1.97S",
+            "duration": "PT0.66S",
+            "offsetInTicks": 19700000.0,
+            "durationInTicks": 6600000.0,
+            "nBest": [
+                {
+                    "confidence": 0.13024572,
+                    "lexical": "and",
+                    "itn": "and",
+                    "maskedITN": "and",
+                    "display": "And."
+                },
+                {
+                    "confidence": 0.07493493,
+                    "lexical": "yeah",
+                    "itn": "yeah",
+                    "maskedITN": "yeah",
+                    "display": "yeah"
+                },
+                {
+                    "confidence": 0.21824999,
+                    "lexical": "yeah and",
+                    "itn": "yeah and",
+                    "maskedITN": "yeah and",
+                    "display": "yeah and"
+                },
+                {
+                    "confidence": 0.21364745,
+                    "lexical": "yeah yeah",
+                    "itn": "yeah yeah",
+                    "maskedITN": "yeah yeah",
+                    "display": "yeah yeah"
+                },
+                {
+                    "confidence": 0.1140668,
+                    "lexical": "oh yeah",
+                    "itn": "oh yeah",
+                    "maskedITN": "oh yeah",
+                    "display": "oh yeah"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT6.9S",
+            "duration": "PT8.09S",
+            "offsetInTicks": 69000000.0,
+            "durationInTicks": 80900000.0,
+            "nBest": [
+                {
+                    "confidence": 0.6260423,
+                    "lexical": "alright alright last question do you think robbery is more of a problem when a citizen offers a bribe or B an official demands a bribe",
+                    "itn": "alright alright last question do you think robbery is more of a problem when a citizen offers a bribe or B an official demands a bribe",
+                    "maskedITN": "alright alright last question do you think robbery is more of a problem when a citizen offers a bribe or b an official demands a bribe",
+                    "display": "Alright, alright, last question. Do you think robbery is more of a problem when a citizen offers a bribe or B an official demands a bribe?"
+                },
+                {
+                    "confidence": 0.63038224,
+                    "lexical": "alright alright last question do you think riberry is more of a problem when a citizen offers a bribe or b an official demands a bribe",
+                    "itn": "alright alright last question do you think riberry is more of a problem when a citizen offers a bribe or b an official demands a bribe",
+                    "maskedITN": "alright alright last question do you think riberry is more of a problem when a citizen offers a bribe or b an official demands a bribe",
+                    "display": "alright alright last question do you think riberry is more of a problem when a citizen offers a bribe or B an official demands a bribe"
+                },
+                {
+                    "confidence": 0.63037974,
+                    "lexical": "alright alright last question do you think ribery is more of a problem when a citizen offers a bribe or b an official demands a bribe",
+                    "itn": "alright alright last question do you think ribery is more of a problem when a citizen offers a bribe or b an official demands a bribe",
+                    "maskedITN": "alright alright last question do you think ribery is more of a problem when a citizen offers a bribe or b an official demands a bribe",
+                    "display": "alright alright last question do you think ribery is more of a problem when a citizen offers a bribe or B an official demands a bribe"
+                },
+                {
+                    "confidence": 0.6296527,
+                    "lexical": "alright alright last question do you think mayberry is more of a problem when a citizen offers a bribe or b an official demands a bribe",
+                    "itn": "alright alright last question do you think mayberry is more of a problem when a citizen offers a bribe or b an official demands a bribe",
+                    "maskedITN": "alright alright last question do you think mayberry is more of a problem when a citizen offers a bribe or b an official demands a bribe",
+                    "display": "alright alright last question do you think mayberry is more of a problem when a citizen offers a bribe or B an official demands a bribe"
+                },
+                {
+                    "confidence": 0.62849104,
+                    "lexical": "alright alright last question do you think library is more of a problem when a citizen offers a bribe or b an official demands a bribe",
+                    "itn": "alright alright last question do you think library is more of a problem when a citizen offers a bribe or b an official demands a bribe",
+                    "maskedITN": "alright alright last question do you think library is more of a problem when a citizen offers a bribe or b an official demands a bribe",
+                    "display": "alright alright last question do you think library is more of a problem when a citizen offers a bribe or B an official demands a bribe"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT21.97S",
+            "duration": "PT3.05S",
+            "offsetInTicks": 219700000.0,
+            "durationInTicks": 30500000.0,
+            "nBest": [
+                {
+                    "confidence": 0.6763533,
+                    "lexical": "i think both but yeah it's OK",
+                    "itn": "i think both but yeah it's OK",
+                    "maskedITN": "i think both but yeah it's ok",
+                    "display": "I think both, but yeah, it's OK."
+                },
+                {
+                    "confidence": 0.8459368,
+                    "lexical": "but yeah it's ok",
+                    "itn": "but yeah it's ok",
+                    "maskedITN": "but yeah it's ok",
+                    "display": "but yeah it's OK"
+                },
+                {
+                    "confidence": 0.63927585,
+                    "lexical": "i think both but both yeah it's ok",
+                    "itn": "i think both but both yeah it's ok",
+                    "maskedITN": "i think both but both yeah it's ok",
+                    "display": "i think both but both yeah it's OK"
+                },
+                {
+                    "confidence": 0.8606635,
+                    "lexical": "yeah it's ok",
+                    "itn": "yeah it's ok",
+                    "maskedITN": "yeah it's ok",
+                    "display": "yeah it's OK"
+                },
+                {
+                    "confidence": 0.70326626,
+                    "lexical": "i think both both yeah it's ok",
+                    "itn": "i think both both yeah it's ok",
+                    "maskedITN": "i think both both yeah it's ok",
+                    "display": "i think both both yeah it's OK"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT26.54S",
+            "duration": "PT1.58S",
+            "offsetInTicks": 265400000.0,
+            "durationInTicks": 15800000.0,
+            "nBest": [
+                {
+                    "confidence": 0.5856994,
+                    "lexical": "yeah come on come on yeah",
+                    "itn": "yeah come on come on yeah",
+                    "maskedITN": "yeah come on come on yeah",
+                    "display": "Yeah. Come on. Come on. Yeah."
+                },
+                {
+                    "confidence": 0.58810323,
+                    "lexical": "yeah come on come on yeah would you",
+                    "itn": "yeah come on come on yeah would you",
+                    "maskedITN": "yeah come on come on yeah would you",
+                    "display": "yeah come on come on yeah would you"
+                },
+                {
+                    "confidence": 0.6122941,
+                    "lexical": "yeah come on come on yeah yeah",
+                    "itn": "yeah come on come on yeah yeah",
+                    "maskedITN": "yeah come on come on yeah yeah",
+                    "display": "yeah come on come on yeah yeah"
+                },
+                {
+                    "confidence": 0.4788519,
+                    "lexical": "yeah come on come on there",
+                    "itn": "yeah come on come on there",
+                    "maskedITN": "yeah come on come on there",
+                    "display": "yeah come on come on there"
+                },
+                {
+                    "confidence": 0.58118016,
+                    "lexical": "so yeah come on come on yeah",
+                    "itn": "so yeah come on come on yeah",
+                    "maskedITN": "so yeah come on come on yeah",
+                    "display": "so yeah come on come on yeah"
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT29.36S",
+            "duration": "PT0.5S",
+            "offsetInTicks": 293600000.0,
+            "durationInTicks": 5000000.0,
+            "nBest": [
+                {
+                    "confidence": 0.72535074,
+                    "lexical": "OK i'm not",
+                    "itn": "OK i'm not",
+                    "maskedITN": "ok i'm not",
+                    "display": "OK, I'm not."
+                },
+                {
+                    "confidence": 0.67264694,
+                    "lexical": "ok i'm out",
+                    "itn": "ok i'm out",
+                    "maskedITN": "ok i'm out",
+                    "display": "OK i'm out"
+                },
+                {
+                    "confidence": 0.786004,
+                    "lexical": "i'm not",
+                    "itn": "i'm not",
+                    "maskedITN": "i'm not",
+                    "display": "i'm not"
+                },
+                {
+                    "confidence": 0.6276052,
+                    "lexical": "yeah i'm not",
+                    "itn": "yeah i'm not",
+                    "maskedITN": "yeah i'm not",
+                    "display": "yeah i'm not"
+                },
+                {
+                    "confidence": 0.8700043,
+                    "lexical": "ok",
+                    "itn": "ok",
+                    "maskedITN": "ok",
+                    "display": "OK"
+                }
+            ]
+        }
+    ]
+}
